@@ -19,29 +19,10 @@ from llama_index.core.storage.docstore import SimpleDocumentStore
 from llama_index.core.chat_engine import CondensePlusContextChatEngine
 from qdrant_client import QdrantClient
 from llama_index.embeddings.fastembed import FastEmbedEmbedding
-from pathlib import Path
-
-# switch page
-from streamlit_extras.switch_page_button import switch_page
-
-
-# Styling
-with open( "./style.css") as css:
-    st.markdown( f'<style>{css.read()}</style>' , unsafe_allow_html= True)
-    
-
-if 'page' not in st.session_state:
-    st.session_state.page = 'New_Chat.py'  # Halaman awal
-
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+import time
 # File to store chat history
-file_name = __file__
-
-# Menentukan path untuk file riwayat chat
-
-# Mengganti ekstensi dari .py menjadi .json
-newFile = file_name.replace('.py', '.json')
-newFileName = Path(newFile).name
-CHAT_HISTORY_FILE = "./histories/" + newFileName #JADIKAN FILENAME
+CHAT_HISTORY_FILE = "chat_history.json"
 
 # Functions to handle chat history persistence
 def save_chat_history(messages):
@@ -55,7 +36,7 @@ def load_chat_history():
     return []  # Return empty list if no history is found
 
 class Chatbot:
-    def __init__(self, llm="llama3.1:latest", embedding_model="jinaai/jina-embeddings-v2-base-en", vector_store=None):
+    def __init__(self, llm="llama3.1:latest", embedding_model="intfloat/multilingual-e5-large", vector_store=None):
         self.Settings = self.set_setting(llm, embedding_model)
 
         # Indexing
@@ -69,8 +50,11 @@ class Chatbot:
 
     def set_setting(_arg, llm, embedding_model):
         Settings.llm = Ollama(model=llm, base_url="http://127.0.0.1:11434")
-        Settings.embed_model = FastEmbedEmbedding(
-            model_name=embedding_model, cache_dir="./fastembed_cache")
+        # Settings.embed_model = FastEmbedEmbedding(
+        #     model_name=embedding_model, cache_dir="./fastembed_cache")
+        
+        Settings.embed_model = HuggingFaceEmbedding(
+            model_name="BAAI/bge-small-en-v1.5", cache_folder="./huggingface_cache")
         Settings.system_prompt = """
                                 Kamu adalah sebuah AI model bernama SkripsiBot,
                                 Kamu selalu berinteraksi dengan mahasiswa
@@ -104,13 +88,7 @@ class Chatbot:
             documents = reader.load_data()
 
         if vector_store is None:
-            client = QdrantClient(
-                url=st.secrets["qdrant"]["connection_url"], 
-                api_key=st.secrets["qdrant"]["api_key"],
-            )
-            vector_store = QdrantVectorStore(client=client, collection_name="RAG Shuu")
-            storage_context = StorageContext.from_defaults(vector_store=vector_store)
-            index = VectorStoreIndex.from_documents(documents, storage_context=storage_context)
+            index = VectorStoreIndex.from_documents(documents)
         return index
 
     def set_chat_history(self, messages):
@@ -129,8 +107,10 @@ class Chatbot:
             llm=Settings.llm
         )
 
+start time = time.time()
+
 # Main Program
-st.title("Chatbot Skripsi Genap 24/25 V2")
+st.title("Chatbot Skripsi Genap 24/25")
 
 # Initialize chat history or load from file
 if "messages" not in st.session_state:
@@ -138,14 +118,8 @@ if "messages" not in st.session_state:
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
-    # with st.chat_message(message["role"]):
-    #     st.markdown(message["content"])
-    if(message["role"] == "assistant"):
-        with st.chat_message("assistant", avatar="./chatbot.png"):
-            st.markdown(message["content"])
-    if(message["role"] == "user"):
-        with st.chat_message("user", avatar="./person.jpg"):
-            st.markdown(message["content"])
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
 
 # Save chat history
 def add_message(role, content):
@@ -158,26 +132,14 @@ chatbot.set_chat_history(st.session_state.messages)
 # React to user input
 if prompt := st.chat_input("What is up?"):
     # Display user message in chat message container
-    with st.chat_message("user", avatar="./person.jpg"):
+    with st.chat_message("user"):
         st.markdown(prompt)
     add_message("user", prompt)  # Save user message
 
     # Get AI response
-    with st.chat_message("assistant", avatar="./chatbot.png"):
+    with st.chat_message("assistant"):
         response = chatbot.chat_engine.chat(prompt)
         st.markdown(response.response)
     add_message("assistant", response.response)  # Save assistant response
 
-st.sidebar.header("Control Point")
-redirect_to_home = False
-if st.sidebar.button("Delete"):
-    namaFileOriginal = __file__
-    pythonFile = Path(namaFileOriginal).name
-    jsonFile = pythonFile.replace('.py', '.json')
-    os.remove("./histories/"+jsonFile)
-    os.remove(namaFileOriginal)
-    switch_page("main_paage")
-    
-    # st.session_state['redirect'] = './Javv.py'
-
-    
+print("e")

@@ -1,0 +1,55 @@
+Informasi Dosen Pembimbing Proposal Skripsi Universitas Kristen Petra Semester Genap Tahun Ajaran 2024/2025
+
+
+Daftar dosen yang tersedia untuk bimbingan beserta aliasnya atau nama panggilannya:
+Adi Wibowo S.T., M.T., Ph.D	Pak Adi
+Liliana, S.T., M.Eng., Ph.D.	Bu Liliana	Bu Lili
+Justinus Andjarwirawan, S.T.,M.Eng.	Pak Justinus	Pak Justin
+Stephanus A. Ananda, S.T., M.Sc. Ph.D.	Pak Steph	Pak Stephanus
+Ir. Resmana Lim, M.Eng	Pak Resmana	Pak Res
+Agustinus Noertjahyana, S.Kom., M.MT.	Pak Agus	Pak Agustinus
+Tanti Octavia, S.T., M.Eng.	Bu Tanti
+I Gede Agus Widyadana, S.T., M.Eng., PH.D.	Pak Agus
+Dr. Roy Setiawan, S.Kom., M.M., M.SM., M.Th.	Pak Roy
+Dr. Ing. Indar Sugiarto, S.T., M.Sc.	Pak Indar
+Prof. Dr.Eng., Ir. Rolly Intan, M.A.Sc.	Pak Rolly
+Ir. Djoni Haryadi Setiabudi, M.Eng.	Pak Joni	Pak Djoni
+Dr. Gregorius Satia Budhi, S.T., M.T.	Pak Greg	Pak Gregorius	Pak Gregorious
+Yulia, S.T., M.Kom.	Bu Yulia	Bu Yuli
+Henry Novianus Palit, S.Kom., M.Kom., Ph.D.	Pak Henry	Pak Henri
+Rudy Adipranata, S.T, M.Eng.	Pak Rudi	Pak Rudy
+Prof. Dr.rer.nat. Siana Halim, S.Si., M.Sc.nat.	Bu Siana	Bu Si
+Lily Puspa Dewi, S.T., M.Kom.	Bu Lili	Bu Lily
+Silvia Rostianingsih, S.Kom., M.MT.	Bu Silvi	Bu Silvia
+Alexander Setiawan, S.Kom., M.T.	Pak Alex	Pak Alexander
+Hans Juwiantho, S.Kom., M.Kom.	Pak Hans
+Dr. Andreas Handojo, S.T., M.MT.	Pak Andreas	Pak Andre
+Leo Willyanto Santoso, S.Kom., M.IT.	Pak Leo
+
+
+email dosen:
+Adi Wibowo : adiw@petra.ac.id
+Agustinus : agust@petra.ac.id
+Alexander :alexander@petra.ac.id
+Andreas : handojo@petra.ac.id
+Alvin : alvin.nathaniel@petra.ac.id
+Djoni : djonihs@petra.ac.id
+Gunadi : kgunadi@petra.ac.id
+Gregorius : greg@petra.ac.id
+Henry : hnpalit@petra.ac.id
+Hans : hans.juwiantho@petra.ac.id
+Justinus : justin@petra.ac.id
+Leo : leow@petra.ac.id
+Liliana : lilian@petra.ac.id
+Lily Puspa : lily@petra.ac.id
+Silvia : silvia@petra.ac.id
+Stephanus : ananda@petra.ac.id
+Rolly : rintan@petra.ac.id
+Yulia : yulia@petra.ac.id
+
+
+Informasi nama, keahlian, jadwal, dan gaya bimbingan dosen
+
+Nama Dosen Pembimbing	Keahlian	Jadwal Bimbingan	Gaya Bimbingan
+Liliana S.T. M.Eng. Ph.D.	Computer Vision, Virtual Reality Game Development, Aritificial Intelligence.	Senin 16.00 - 18.00   Selasa 16.00 - 18.00	Liliana merupakan seorang dosen pembimbing yang tidak hanya fokus pada keperluan akademis mahasiswa bimbingan. Beliau cenderung juga membantu mahasiswa secara psikologis. Beliau siap mendengar keluh kesah mahasiswa bimbingan sekaligus memberikan solusi untuk itu.
+Ir. Resmana Lim M.Eng.	Electrical Engineering, Internet of Things, Computer Architecture, Computer Theory	Jadwal Bimbingan: Senin 13.00 - 15.00  Kamis 09.00 - 11.00	 

@@ -1,7 +1,6 @@
 import streamlit as st
 import json
 import os
-import shutil
 from llama_index.llms.ollama import Ollama
 from pathlib import Path
 import qdrant_client
@@ -19,9 +18,22 @@ from llama_index.core.node_parser import HierarchicalNodeParser, get_leaf_nodes,
 from llama_index.core.storage.docstore import SimpleDocumentStore
 from llama_index.core.chat_engine import CondensePlusContextChatEngine
 from qdrant_client import QdrantClient
+from llama_index.embeddings.fastembed import FastEmbedEmbedding
+from pathlib import Path
+
+
+if 'page' not in st.session_state:
+    st.session_state.page = 'New_Chat.py'  # Halaman awal
 
 # File to store chat history
-CHAT_HISTORY_FILE = "histories/main_chat_history.json"
+file_name = _file_
+
+# Menentukan path untuk file riwayat chat
+
+# Mengganti ekstensi dari .py menjadi .json
+newFile = file_name.replace('.py', '.json')
+newFileName = Path(newFile).name
+CHAT_HISTORY_FILE = "./histories/" + newFileName #JADIKAN FILENAME
 
 # Functions to handle chat history persistence
 def save_chat_history(messages):
@@ -35,7 +47,7 @@ def load_chat_history():
     return []  # Return empty list if no history is found
 
 class Chatbot:
-    def __init__(self, llm="llama3.1:latest", embedding_model="intfloat/multilingual-e5-large", vector_store=None):
+    def __init__(self, llm="llama3.1:latest", embedding_model="jinaai/jina-embeddings-v2-base-en", vector_store=None):
         self.Settings = self.set_setting(llm, embedding_model)
 
         # Indexing
@@ -49,7 +61,8 @@ class Chatbot:
 
     def set_setting(_arg, llm, embedding_model):
         Settings.llm = Ollama(model=llm, base_url="http://127.0.0.1:11434")
-        Settings.embed_model = OllamaEmbedding(base_url="http://127.0.0.1:11434", model_name="mxbai-embed-large:latest")
+        Settings.embed_model = FastEmbedEmbedding(
+            model_name=embedding_model, cache_dir="./fastembed_cache")
         Settings.system_prompt = """
                                 Kamu adalah sebuah AI model bernama SkripsiBot,
                                 Kamu selalu berinteraksi dengan mahasiswa
@@ -87,7 +100,7 @@ class Chatbot:
                 url=st.secrets["qdrant"]["connection_url"], 
                 api_key=st.secrets["qdrant"]["api_key"],
             )
-            vector_store = QdrantVectorStore(client=client, collection_name="Documents")
+            vector_store = QdrantVectorStore(client=client, collection_name="RAG Shuu")
             storage_context = StorageContext.from_defaults(vector_store=vector_store)
             index = VectorStoreIndex.from_documents(documents, storage_context=storage_context)
         return index
@@ -109,11 +122,7 @@ class Chatbot:
         )
 
 # Main Program
-st.title("Chatbot Skripsi Genap 24/25")
-
-if "count" not in st.session_state:
-    st.session_state.count = 0
-
+st.title("Chatbot Skripsi Genap 24/25 V2")
 
 # Initialize chat history or load from file
 if "messages" not in st.session_state:
@@ -134,23 +143,6 @@ chatbot.set_chat_history(st.session_state.messages)
 
 # React to user input
 if prompt := st.chat_input("What is up?"):
-    if(st.session_state.count == 0):
-        # filename = "trial" + str(st.session_state.count) + ".py"
-        print(st.session_state.count)
-        filename = prompt.replace(" ", "_") + ".py"
-        source_file = "templates/template_page.py"  # File template yang ingin diduplikasi
-        destination_file = os.path.join("pages", filename)  # Path file tujuan
-        try:
-            # Menyalin file template ke folder pages dengan nama baru
-            shutil.copy(source_file, destination_file)
-
-            # Beri notifikasi bahwa file berhasil dibuat
-            st.success(f"File '{filename}' berhasil dibuat di folder 'pages'.")
-        except Exception as e:
-            st.error(f"Terjadi kesalahan saat menyalin file: {e}")
-        else:
-            st.warning("Mohon masukkan judul untuk halaman.")
-    st.session_state.count += 1
     # Display user message in chat message container
     with st.chat_message("user"):
         st.markdown(prompt)
@@ -161,3 +153,12 @@ if prompt := st.chat_input("What is up?"):
         response = chatbot.chat_engine.chat(prompt)
         st.markdown(response.response)
     add_message("assistant", response.response)  # Save assistant response
+
+st.sidebar.header("Control Point")
+if st.sidebar.button("Delete"):
+    namaFileOriginal = _file_
+    pythonFile = Path(namaFileOriginal).name
+    jsonFile = pythonFile.replace('.py', '.json')
+    os.remove("./histories/"+jsonFile)
+    os.remove(namaFileOriginal)
+    st.session_state['redirect'] = './Chat_Bot.py'

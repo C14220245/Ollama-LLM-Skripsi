@@ -1,0 +1,827 @@
+Jadwal pengumpulan dan sidang proposal Skripsi:
+
+periode UTS
+submit ke kabid : 23 September 2024, Pk 23.59
+submit proposal : 30 September 2024, Pk 23.59
+sidang proposal : 7-11 Oktober 2024
+
+periode 1
+submit ke kabid : 17 November 2024, Pk 23.59
+submit proposal : 24 November 2024, Pk 23.59
+sidang proposal : 2-11 Desember 2024
+
+periode 2
+submit ke kabid : 5 Januari 2025, Pk 23.59
+submit proposal : 12 Januari 2025, Pk 23.59
+sidang proposal : 20-23 Januari 2025
+
+Jadwal briefing proposal:
+briefing proposal skripsi akan dilaksanakan pada 
+hari Jumat, 18 Oktober 2024  
+tempat di P lt 7 (info ruangan menyusul)
+pukul 10.30 - 12.00
+
+Rekomendasi jadwal proposal skripsi periode UTS:
+masa pengerjaan: UTS gasal 24/25 hingga UTS genap 24/25
+pengumpulan buku bab 1-3: UAS gasal 24/25 atau 30 September 2024
+sidang akhir: UTS gasal 24/25 atau 7-11 Oktober 2024
+
+Rekomendasi jadwal proposal skripsi periode UAS atau periode 1:
+masa pengerjaan: UAS gasal 24/25 hingga UAS genap 24/25
+pengumpulan buku bab 1-3: UTS genap 24/25 atau 24 November 2024
+sidang akhir: UAS genap 24/25 2025 atau 2-11 Desember 2024
+
+Rekomendasi jadwal proposal skripsi periode UAS atau periode 2:
+masa pengerjaan: UAS gasal 24/25 hingga UAS genap 24/25
+pengumpulan buku bab 1-3: UTS genap 24/25 atau 12 Januari 2025
+sidang akhir: UAS genap 24/25 2025 atau 20-23 Januari 2025
+
+
+Jika gagal melakukan pengumpulan bab 1-3 sesuai jadwal yang telah ditentukan, maka proposal akan dibatalkan, dipersilakan mengajukan proposal di periode selanjutnya.
+
+Jika belum menyelesaikan skripsi/proyek akhir pada jadwal sidang akhir, maka wajib mengikuti sidang perpanjangan dengan tambahan waktu 1 semester (jika disetujui untuk diperpanjang)
+
+Peraturan tambahan terkait pengerjaan skripsi yang perlu diperhatikan:
+1. skripsi tidak dikerjakan bersamaan dengan LEAP
+2. pengerjaan skripsi minimal 4 bulan
+
+
+Jika mahasiswa semester gasal 24/25 sedang mengambil LEAP, tetapi ingin mengikuti proposal periode UTS gasal 24/25, diperbolehkan dengan catatan jika proposal "diterima" maka tetap akan dianggap dikerjakan pada saat periode UAS (genap 2024/2025).
+
+
+Detail jadwal sidang proposal periode UTS :  
+https://docs.google.com/spreadsheets/d/1nSRAdRm3xdsCxQpaEf28h-AsmVjPgNfz/edit?usp=sharing&ouid=118001490091218134157&rtpof=true&sd=true
+
+NB: selalu perhatikan file excel jadwal sidang karena penguji bisa berubah sewaktu-waktu. sebaiknya cek beberapa saat sebelum sidang. jika ada perubahan penguji harap segera invite di google meet.
+hal - hal yang perlu diperhatikan
+1. semua sidang dilaksanakan secara LURING (jika ingin mengikuti secara online silakan minta ijin ke tim dosen penguji dan dosbing masing-masing). setiap mhs wajib membuat google meet INVITATION dengan mengundang dosbing dan dosen penguji masing-masing. (email dapat dilihat di bawah) JANGAN HANYA MEMBUAT LINK DAN SEND VIA WA. BUAT DI GOOGLE CALENDAR. Untuk yang onsite : tulis no ruang di "add description" (tanpa add video conferencing)
+
+NB : beri judul invitationnya  "sidang proposal NRP Nama". durasi meet harap di set tepat 45 menit, jangan 1 jam karena akan overlap dengan mhs lain dan akan membuat dosen2 bingung. jangan keliru AM/PM nya. sidang mulai jam 8 AM - 16 PM
+meet invitationnya harus dibuat paling lambat SABTU, (5 Oktober 2024) supaya dosen2 bs mengatur jadwal lainnya menyesuaikan sidang proposal. jika gagal mengundang penguji = batal sidang (dianggap mengundurkan diri dari sidang)
+2. mempersiapkan file presentasi untuk 5 menit (problem, ide solusi, ruang lingkup secara point-point penting saja) jangan terlalu bertele-tele, tidak perlu membacakan seluruh isi proposal.
+NB: lebih diutamakan ada gambaran problem dan rancangan solusi (mahasiswa tahu apa yang akan dikerjakan dan akan mulai mengerjakan dari mana?, bagaimana? mengapa memilih metode/cara tersebut? lalu rencana pengujian)
+3. pelajari teori yang akan digunakan.
+
+
+ruangan sidang proposal periode UTS
+R1 --> lab MM
+R2 --> lab JK
+R3 --> lab SC
+Apabila mahasiswa bingung sidang di ruangan mana, harap cek email atau kontak dosen untuk informasi terkait
+
+
+Mahasiswa yang bingung memilih topik skripsi dapat mempertimbangkan tawaran topik skripsi dari dosen pembimbing dengan informasi sebagai demikian:
+
+Informasi mengenai tawaran topik skripsi dari pak Gregorius:
+1. Deep Learning And Transformer Regression Model untuk Memprediksi Temporal Based Solar Pv Output Di Jawa-Bali
+Syarat: Menguasai Python, Nilai MK Deep Learning, Machine Learning atau Data Mining B+ atau A
+
+2. Memprediksi demand energi listrik regional menggunakan machine learning dan deep learning: Study case Jawa-Bali
+Syarat: Menguasai Python, Nilai MK Deep Learning, Machine Learning atau Data Mining B+ atau A
+?
+3. Active chatbot untuk mentor pembelajaran mata pelajaran SD/SMP berbasis double Large Language Model
+Syarat: Menguasai Python, Syarat Optional: Nilai MK NLP atau Text Mining B+ atau A
+
+
+tawaran topik skripsi dari pak Stephanus dan pak Yusak:
+1. Optimasi Energi Wind-Turbin, Solar PV dan Jaringan Listrik PLN Pada Hotel Skala Kecil dan Menengah Dalam Rangka Mendukung Pariwisata Berkelanjutan Dengan Menggunakan Metode Linear Programming dan Simulated Annealing
+Skripsi ini melanjutkan penelitian sebelumnya yang dilakukan oleh Brandon Sebastian Jasman (C14200008).
+
+Metode:
+simulasi energy balance dari listrik Grid + PV + WT untuk mengcover beban Harian dalam durasi jam selama 1 tahun. Beban listrik bisa dianggap tetap (average) maupun bisa diskenariokan.
+
+Permasalahan:
+Jika di tambahkan PV, berapa kontribusi energi yang dihasilkan PV dalam kombinasi PV + WT + PLN dan berapa potensi penghematan biaya listrik yang dapat dihasilkan
+
+
+tawaran topik skripsi (Liliana + Rudy A)
+Wi-fi Positioning system in indoor space.  memberi perkiraan posisi di indoor berdasarkan akses wifi terdekat. prediksi lokasi akan menggunakan machine learning atau perhitungan posisi wifi.
+syarat : menguasai pemrograman web dan mobile dengan baik. menunjukkan portfolio pada saat melamar topik.
+
+
+Daftar dosen yang tersedia untuk bimbingan beserta aliasnya atau nama panggilannya:
+Adi Wibowo S.T., M.T., Ph.D	Pak Adi
+Liliana, S.T., M.Eng., Ph.D.	Bu Liliana	Bu Lili
+Justinus Andjarwirawan, S.T.,M.Eng.	Pak Justinus	Pak Justin
+Stephanus A. Ananda, S.T., M.Sc. Ph.D.	Pak Steph	Pak Stephanus
+Ir. Resmana Lim, M.Eng	Pak Resmana	Pak Res
+Agustinus Noertjahyana, S.Kom., M.MT.	Pak Agus	Pak Agustinus
+Tanti Octavia, S.T., M.Eng.	Bu Tanti
+I Gede Agus Widyadana, S.T., M.Eng., PH.D.	Pak Agus
+Dr. Roy Setiawan, S.Kom., M.M., M.SM., M.Th.	Pak Roy
+Dr. Ing. Indar Sugiarto, S.T., M.Sc.	Pak Indar
+Prof. Dr.Eng., Ir. Rolly Intan, M.A.Sc.	Pak Rolly
+Ir. Djoni Haryadi Setiabudi, M.Eng.	Pak Joni	Pak Djoni
+Dr. Gregorius Satia Budhi, S.T., M.T.	Pak Greg	Pak Gregorius	Pak Gregorious
+Yulia, S.T., M.Kom.	Bu Yulia	Bu Yuli
+Henry Novianus Palit, S.Kom., M.Kom., Ph.D.	Pak Henry	Pak Henri
+Rudy Adipranata, S.T, M.Eng.	Pak Rudi	Pak Rudy
+Prof. Dr.rer.nat. Siana Halim, S.Si., M.Sc.nat.	Bu Siana	Bu Si
+Lily Puspa Dewi, S.T., M.Kom.	Bu Lili	Bu Lily
+Silvia Rostianingsih, S.Kom., M.MT.	Bu Silvi	Bu Silvia
+Alexander Setiawan, S.Kom., M.T.	Pak Alex	Pak Alexander
+Hans Juwiantho, S.Kom., M.Kom.	Pak Hans
+Dr. Andreas Handojo, S.T., M.MT.	Pak Andreas	Pak Andre
+Leo Willyanto Santoso, S.Kom., M.IT.	Pak Leo
+
+
+email dosen:
+Adi Wibowo : adiw@petra.ac.id
+Agustinus : agust@petra.ac.id
+Alexander :alexander@petra.ac.id
+Andreas : handojo@petra.ac.id
+Alvin : alvin.nathaniel@petra.ac.id
+Djoni : djonihs@petra.ac.id
+Gunadi : kgunadi@petra.ac.id
+Gregorius : greg@petra.ac.id
+Henry : hnpalit@petra.ac.id
+Hans : hans.juwiantho@petra.ac.id
+Justinus : justin@petra.ac.id
+Leo : leow@petra.ac.id
+Liliana : lilian@petra.ac.id
+Lily Puspa : lily@petra.ac.id
+Silvia : silvia@petra.ac.id
+Stephanus : ananda@petra.ac.id
+Rolly : rintan@petra.ac.id
+Yulia : yulia@petra.ac.id
+
+
+langkah-langkah pengajuan proposal skripsi:
+1. pengajuan topik dan dosbing (sudah diskusi dengan dosbing 1 mengenai rencana tugas akhir. masalah yang akan diselesaikan, tujuan hingga ruang lingkup).
+NB :
+a. cek judul-judul skripsi yang sudah pernah dikerjakan dan yang sedang dikerjakan di https://docs.google.com/spreadsheets/d/1N9Tms_q2Bw-ZC3Ao6fiP7ttjhPDlFv2f/edit?usp=sharing&ouid=118001490091218134157&rtpof=true&sd=true
+b. jika dosbing sudah setuju dengan topik dan bersedia menjadi dosbing, ingatkan dosbing untuk mengisikan nama di file excel kuota dosen di https://docs.google.com/spreadsheets/d/1A6rQeb8tOCPFQ-w9D6td7gH54OlaLAR5z-b_jPZql0Y/edit?usp=sharing
+c. kuota masing-masing dosen untuk genap 24/25 adalah 14 orang. jika kuota sudah habis maka dipersilakan memilih dosbing lain yang masih tersedia kuotanya.
+d. ada kelompok dosen yang hanya bisa menjadi dosbing 2 (harap diperhatikan)
+e. pemilihan dosbing boleh hanya memilih 1 dosbing/ maksimal 2 dosbing
+
+2. menyusun proposal (latar belakang - perumusan masalah - tujuan - ruang lingkup - teori )
+untuk review kabid upload di folder :
+https://drive.google.com/drive/folders/1L6qjffLGWtoHQM0ciJxboN1Z2G_3kzHC?usp=sharing
+sesuaikan bidang dengan topik skripsi (BUKAN konsentrasi)
+format penamaan file proposal "Bidang_NRP_NamaMhs_Konsentrasi" (konsentrasi berdasarkan MK konsentrasi yang dipilih, bisa beda dengan topik skripsi yang akan dikerjakan. diisi "TidakAda" jika tanpa konsentrasi)
+mengisi data di file excel kabid untuk mendapat review kabid (sesuaikan sheet dengan bidang topik skripsi.
+
+3.kabid mereview cek hasil review di file excel pada folder yang sama yang disebut di langkah no 2
+
+4. revisi proposal sesuai review kabid.
+memastikan jumlah bimbingan ke dosbing 1 dan 2 minimal 3 kali (sejak diskusi awal) dan melengkapi proposal dengan teori , jadwal pengerjaan dan daftar pustaka
+NB: tanggal bimbingan dan bahasan bimbingan dicatat mandiri dan akan di entry di sim setelah PRS 1 semester genap 24/25
+
+5. submit proposal lengkap untuk maju sidang di folder :
+https://drive.google.com/drive/folders/1aUGvhqeugMnlbjrKqgZLBtQzHyD2mzyV?usp=sharing (sesuaikan subfolder nya)
+Mengisi file excel pendaftaran sidang skripsi
+https://docs.google.com/spreadsheets/d/1gwT0XMP3S9kkW_6uveX1-n3PezLj9nOH7fdPu5YcR1A/edit?usp=sharing
+Entry data di sim.petra.ac.id (menu skripsi).
+NB:
+a. Isian semester akan by default gasal 24/25, biarkan saja.
+b. Dosbing yang pilihan nama nya tidak ada di slot dobing 1 dan 2, silakan di entry di bagian dosbing 3.
+c. Tanpa entry di sim, tdk bs menginputkan jadwal sidang bagi mhs bersangkutan.
+d. Tanpa mengisi data di file excel, pasti tidak dijadwalkan sidang proposal
+
+6. SIDANG PROPOSAL
+Jadwal akan di post di classroom. Dan ada arahan lebih lanjut untuk persiapan sidang proposal.
+
+7. Submit proposal final sesuai revisi dosen penguji saat sidang proposal. upload dalam bentuk file pdf. Dengan melampirkan capture revisi dari dosen penguji yang sudah di ttd basah oleh dosen pembimbing (dibagian depan). serta melampirkan transkrip terbaru serta ttd basah di lembar pengesahan.
+
+Informasi nama, keahlian, jadwal, dan gaya bimbingan dosen
+
+Nama Dosen Pembimbing	Keahlian	Jadwal Bimbingan	Gaya Bimbingan
+Liliana S.T. M.Eng. Ph.D.	Computer Vision, Virtual Reality Game Development, Aritificial Intelligence.	Senin 16.00 - 18.00   Selasa 16.00 - 18.00	Liliana merupakan seorang dosen pembimbing yang tidak hanya fokus pada keperluan akademis mahasiswa bimbingan. Beliau cenderung juga membantu mahasiswa secara psikologis. Beliau siap mendengar keluh kesah mahasiswa bimbingan sekaligus memberikan solusi untuk itu.
+Dr. Andi Wijaya S.Kom. M.T.	Data Science, Machine Learning, Big Data Analytics, Cloud Computing.	Jadwal Bimbingan: Rabu 14.00 - 16.00  Jumat 10.00 - 12.00	Dr. Andi sangat detail dan teliti dalam membimbing mahasiswa. Beliau selalu memastikan bahwa setiap mahasiswa memahami konsep dasar sebelum melanjutkan ke topik yang lebih kompleks. Beliau juga sangat terbuka untuk diskusi dan memberikan banyak referensi bacaan.
+Prof. Budi Santoso S.T. M.Sc. Ph.D.	Network Security, Cybersecurity, Cryptography, Ethical Hacking.	Jadwal Bimbingan: Senin 09.00 - 11.00  Kamis 13.00 - 15.00	Prof. Budi dikenal sebagai dosen yang sangat disiplin dan tegas. Beliau menekankan pentingnya etika dalam penelitian dan selalu mendorong mahasiswa untuk berpikir kritis dan analitis. Beliau juga sering memberikan tantangan praktis untuk menguji pemahaman mahasiswa.
+Ir. Citra Dewi M.T. Ph.D.	Software Engineering, Agile Development, Development Operational, Mobile Application Development.	Jadwal Bimbingan: Selasa 15.00 - 17.00  Jumat 14.00 - 16.00	Ir. Citra sangat mendukung dan selalu berusaha menciptakan lingkungan yang nyaman bagi mahasiswa. Beliau sering menggunakan pendekatan kolaboratif dalam bimbingan dan mendorong mahasiswa untuk bekerja dalam tim. Beliau juga sangat responsif terhadap pertanyaan dan masalah yang dihadapi mahasiswa.
+Dr. Dedi Kurniawan S.T. M.Eng.	Artificial Intelligence, Natural Language Processing, Computer Vision, Robotics.	Jadwal Bimbingan: Rabu 10.00 - 12.00  Kamis 16.00 - 18.00	Dr. Dedi sangat inovatif dan selalu mendorong mahasiswa untuk berpikir out-of-the-box. Beliau sering memberikan proyek-proyek penelitian yang menantang dan relevan dengan perkembangan teknologi terkini. Beliau juga sangat mendukung pengembangan soft skills mahasiswa.
+Prof. Eko Prasetyo S.Kom. M.Sc. Ph.D.	Web Development, Internet of Things, Cloud Computing, Blockchain Technology.	Jadwal Bimbingan: Senin 13.00 - 15.00  Kamis 09.00 - 11.00	Prof. Eko sangat berorientasi pada hasil dan selalu mendorong mahasiswa untuk mencapai target penelitian mereka. Beliau sering memberikan feedback konstruktif dan membantu mahasiswa dalam merencanakan langkah-langkah penelitian mereka. Beliau juga sangat mendukung penggunaan teknologi terbaru dalam penelitian.
+Ir. Resmana Lim M.Eng.	Electrical Engineering, Internet of Things, Computer Architecture, Computer Theory	Jadwal Bimbingan: Senin 13.00 - 15.00  Kamis 09.00 - 11.00	
+
+
+
+Di bawah ini adalah daftar semua dosen pembimbing Informatika UK Petra yang terdiri dari 29 orang:  
+
+1. Nama Dosen Pembimbing UK Petra: Adi Wibowo S.T., M.T., Ph.D
+   Jadwal Bimbingan: Senin 15.30 - 17.30, Selasa 15.30 - 17.30
+   Paper 1: Judul: Sistem Pencarian Forum Berbasis Ontologi Dan Label, Jenis: Journal, Tahun: 2015, Tags:  Forum, Ontologi, Label Search
+   Paper 2: Judul: Pengembangan Aplikasi Extendable Content Management System, Jenis: Journal, Tahun: 2015, Tags: Extension, content management system
+   Paper 3: Judul: Perencanaan Arsitektur Teknologi pada PT. X, Jenis: Journal, Tahun: 2015, Tags: Analisa Risiko Software, ISO 29110, OWASP, NIST 800-30, Proyek Pengembangan Software
+   Paper 4: Judul: Analisa Risiko Proyek Pengembangan Software Pada CV. XYZ, Jenis: Journal, Tahun: 2015, Tags: Algoritma Rocchio, Vector Space Model, Pemrograman Mobile Device, Android, Aplikasi Berita, Sistem
+   Paper 5: Judul: Aplikasi Indonesian News Aggregator Berbasis Android yang Didukung oleh Sistem Perekomendasi, Jenis: Journal, Tahun: 2015, Tags: Algoritma Rocchio, Vector Space Model, Pemrograman Mobile Device, Android, Aplikasi Berita, Sistem
+Perekomendasi.
+   Paper 6: Judul: Pembuatan Sistem Peramalan Penjualan Dengan Metode Weighted Moving Average dan Double Exponential Smoothing Pada UD Y, Jenis: Journal, Tahun: 2015, Tags: None
+   Paper 7: Judul: Enterprise Architecture Data pada Hotel ABC, Jenis: Journal, Tahun: 2015, Tags: Sistem Informasi, Arsitektur Enterprise, Perencanaan Arsitektur Enterprise
+   Paper 8: Judul: Analisa Risiko Teknologi Informasi di Divisi Produksi PT. X, Jenis: Journal, Tahun: 2015, Tags: None
+   Paper 9: Judul: Analisa Risiko Pengelolaan Data, Keamanan Sistem, dan Pengelolaan Vendor TI di PT. X, Jenis: Journal, Tahun: 2015, Tags: None
+   Paper 10: Judul: Document searching engine using term similarity vector space model on english and Indonesian document, Jenis: Konferensi, Tahun: 2015, Tags: Term Similarity Vector Space Model, Term Co-Occurrence Vector, Term Co-Occurrence Matrix, Search Engine
+   Paper 11: Judul: Sequential Pattern Mining Application to Support Customer Care “X” Clinic, Jenis: Konferensi, Tahun: 2015, Tags: Sequential pattern mining, Free Span, Clinic
+   Paper 12: Judul: Analisis Risiko Terhadap Business Continuity di PT. X, Jenis: Journal, Tahun: 2014, Tags: Analisis Business Continuity, Analisis Risiko, Risk Assessment,Risk Mitigation
+   Paper 13: Judul: Integrasi Sistem Manajemen Pergudangan dengan Sistem Akuntansi dalam Aplikasi ERP, Jenis: Journal, Tahun: 2014, Tags: Enterprise Resource Planning (ERP), Yii Framework, Business Architecture, Technology Architecture, Software, Agricultural Company
+   Paper 14: Judul: Analisis Strategi Customer Relationship Management Di Pt. Xyz, Jenis: Journal, Tahun: 2014, Tags: None
+   Paper 15: Judul: Rancang Bangun Sales Force Automation Berbasis Android di PT. X, Jenis: Journal, Tahun: 2014, Tags: Pengotomasian Tenaga Penjualan, Basis Pengetahuan, Taksonomi Bisnis, Android, SMS Gateway
+   Paper 16: Judul: Software Manajemen Proyek Mechanical Electrical Di CV. Sumber Makmur Jaya Perkasa, Jenis: Journal, Tahun: 2014, Tags: None
+   Paper 17: Judul: Perancangan dan Pembuatan Website pada Komunitas Discerning Universitas Kristen Petra, Jenis: Journal, Tahun: 2014, Tags: None
+   Paper 18: Judul: Aplikasi Sistem Informasi Akuntansi Dan Rasio Keuangan Pada PT. Karunia Prima Engineering Surabaya, Jenis: Journal, Tahun: 2014, Tags: None
+2. Nama Dosen Pembimbing UK Petra: Liliana, S.T., M.Eng., Ph.D.
+   Jadwal Bimbingan: Rabu 13.30 - 15.30, Kamis 13.30 - 15.30
+   Paper 1: Judul: Procedural Content Generation pada Game Tower Defense menggunakan Perlin Noise dan Algoritma Floyd Warshall, Jenis: Journal, Tahun: 2023, Tags: Procedural Content Generation, Perlin Noise, Floyd Warshall Algorithm, Tower Defense
+   Paper 2: Judul: Pemodelan Lip Reading Bahasa Indonesia Berbasis Visem Menggunakan VGG16 serta Jaro-Winkler Similarity dan Bigram, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 3: Judul: Penyuaraan Pesan Teks Media Sosial Pada Perangkat Mobile Menggunakan Text To Speech, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 4: Judul: Pengenalan Rambu Lalu Lintas di Indonesia Secara Realtime Menggunakan YOLOv4-tiny, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 5: Judul: Pembuatan Aplikasi Lelang Berbasis Android, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 6: Judul: Sistem Mobile Application, Tracking Lokasi dan Estimasi Perjalanan Untuk Aplikasi Shuttle Bus Uk Petra Menggunakan Flutter dan Google Maps, Jenis: Journal, Tahun: 2022, Tags: Flutter, Shuttle Bus, Reservasi, Mobile Application, Tracking Lokasi
+   Paper 7: Judul: Klasifikasi Benda Organik dan Anorganik Dengan Metode YOLOv3 dan ResNet50, Jenis: Journal, Tahun: 2022, Tags: Organik, Anorganik, YOLOv3, Convolutional Neural Network, ResNet50, Klasifikasi Objek
+   Paper 8: Judul: Penerapan metode hand gesture recognition dalam melakukan kontrol terhadap aplikasi powerpoint dan media player untuk kebutuhan online conference, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 9: Judul: Penerapan 3D human pose estimation indoor area untuk motion capture dengan menggunakan YOLOv4-Tiny, EfficientNet simple baseline, dan VideoPose3D, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 10: Judul: Adaptive Sparse Transformer untuk Meningkatkan ROUGE-1 Score pada Text Summarization Scientific Paper, Jenis: Journal, Tahun: 2022, Tags: peringkasan kalimat, deep learning, transformer, encoder, decoder
+   Paper 11: Judul: Deteksi Plagiarisme pada Kode Bahasa Pemrograman Java menggunakan XGBoost, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 12: Judul: Form Evaluasi Online Mata Kuliah Pra Skripsi Dan Skripsi Berbasis Android, Jenis: Journal, Tahun: 2022, Tags: Evaluasi Online, Aplikasi, Praskripsi, Skripsi
+   Paper 13: Judul: Penerapan SVM untuk Klasifikasi Sentimen pada Review Comment Berbahasa Indonesia di Online Shop, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 14: Judul: Sistem Backend dari Aplikasi Mobile dan Website untuk Sistem Registrasi, Reservasi, dan Identifikasi Penumpang Shuttle Bus UK Petra, Jenis: Journal, Tahun: 2022, Tags: Sistem registrasi, Sistem reservasi, Sistem identifikasi, QR Code
+   Paper 15: Judul: Aplikasi Penerjemah Kegiatan Seminar Menjadi Video Bahasa Isyarat BISINDO Dengan Speech To Text, Jenis: Journal, Tahun: 2022, Tags: Kotlin, Bahasa Isyarat, BISINDO, Mobile Application, Seminar, Speech-To-Text
+   Paper 16: Judul: Pewarnaan Otomatis Sketsa Gambar Menggunakan Metode Conditional GAN Untuk Mempercepat Proses Pewarnaan, Jenis: Journal, Tahun: 2022, Tags: GAN, Generative Adversarial Network, Auto coloring, Conditional-GAN
+   Paper 17: Judul: Pelatihan pembuatan abon pepaya untuk meningkatkan pendapatan keluarga, Jenis: Journal, Tahun: 2022, Tags:  Pelatihan, Abon, Pepaya, Pendapatan Keluarga
+   Paper 18: Judul: Ringkasan Ekstraktif Otomatis pada Berita Berbahasa Indonesia Menggunakan Metode BERT, Jenis: Journal, Tahun: 2022, Tags:  Text Summarization, Online News, Bidirectional Encoder Representations from Transformers.
+   Paper 19: Judul: Aplikasi Rekomendasi Resep Menu Meal Plan Berdasarkan TDEE dan Zat Gizi Makro Pengguna Berbasis Web Dengan Pendekatan MCDA Dan EgoSimilar+, Jenis: Journal, Tahun: 2022, Tags: Rekomendasi, kalori, makro, AHPSort, EgoSimilar+
+   Paper 20: Judul: Meningkatkan Kesulitan Serangan Enemy Dengan Menambahkan Influence Map Pada Metode A* Pada Procedural Generated Tower Defense Game, Jenis: Journal, Tahun: 2022, Tags: Procedural Content Generation, Perlin Noise, Influence Map, Pathfinding, A*
+   Paper 21: Judul: Penerapan Segmentasi Warna Menggunakan K-Means Clustering untuk Pemilihan Template dalam Pembuatan Konten, Jenis: Journal, Tahun: 2022, Tags: k-means clustering, konten, UI/UX, graphic design
+   Paper 22: Judul: Pelatihan Laporan Keuangan dalam Menunjang UMK yang Bankable, Jenis: Journal, Tahun: 2021, Tags:  UMK, Covid 19, Laporan Keuangan
+   Paper 23: Judul: PENGARUH BEBAN KERJA, KOMPETENSI SERTA KOMPENSASI TERHADAP PRESTASI KERJA KARYAWAN HOTEL EXCELTON PALEMBANG, Jenis: Journal, Tahun: 2021, Tags: None
+   Paper 24: Judul: Rendering Karakter 3D Virtual secara Real-Time menggunakan Metode Light Estimation pada Augmented Reality Berbasis Lokasi, Jenis: Journal, Tahun: 2021, Tags: None
+   Paper 25: Judul: Klasifikasi dalam Pembuatan Portal Berita Online dengan Menggunakan Metode BERT, Jenis: Journal, Tahun: 2021, Tags: None
+   Paper 26: Judul: Sistem Penunjang Belanja Pedagang Keliling Di Lokasi Sekitar Menggunakan Haversine Berbasis Android, Jenis: Journal, Tahun: 2021, Tags: None
+   Paper 27: Judul: Penerapan Metode Goal Oriented Action Planning untuk Agent AI pada Turn Based Tactics Video Game, Jenis: Journal, Tahun: 2021, Tags: None
+   Paper 28: Judul: Finite State Machine untuk Menghasilkan Kalimat Sebagai Alat Bantu Komunikasi Bagi Anak Penyandang Autisme, Jenis: Journal, Tahun: 2021, Tags: None
+   Paper 29: Judul: Meningkatkan Variasi Tindakan Non-Playable Character Pada Game Survival Menggunakan Metode Markov, Jenis: Journal, Tahun: 2021, Tags: Markov Chain, Finite-State Machine, game survival, artificial intelligence
+   Paper 30: Judul: Kecerdasan buatan dengan metode ID3 finite state machine dalam turn-based tactics game, Jenis: Journal, Tahun: 2021, Tags: Kecerdasan Buatan, ID3, Finite-State Machine, Permainan strategi, Unity, FSM, 2D, Decision tree, Video Game, Turn-Based Strategy, Turn-Based Tactics
+   Paper 31: Judul: Penerapan Desain User Experience Pada Aplikasi Penghitungan Matematika Bagi Anak Penyandang Tunagrahita di Quali International Surabaya, Jenis: Journal, Tahun: 2021, Tags:  user experience, matematika, tunagrahita, aplikasi Android
+   Paper 32: Judul: PENGARUH PEMANFAATAN ABU SEKAM PADI DAN ABU TERBANG PLTU BUNTOI SEBAGAI SEMEN KONVENSIONAL TERHADAP KUAT TEKAN, Jenis: Journal, Tahun: 2021, Tags:  Abu sekam padi, abu terbang, geopolimer, komposisi, kuat tekan
+   Paper 33: Judul: Peformance Analysis of Automatic Voltage Regulator (AVR) as a 3-Phase AC Generator Excitation Voltage Supply Controller: Analisis Kinerja Automatic Voltage Regulator (Avr) Sebagai Pengontrol Suplai Tegangan Eksitasi Generator Ac 3 Phasa, Jenis: Journal, Tahun: 2021, Tags: Generator, Automatic Voltage Regulator, arus eksitasi, daya keluaran, tegangan keluaran
+   Paper 34: Judul: Pengembangan kemandirian anak dalam program pendidikan kewirausahaan anak usia dini di Taman kanak-kanak Kota Samarinda, Jenis: Journal, Tahun: 2021, Tags: None
+   Paper 35: Judul: Dynamics Difficulty Adjusment Metode Evolutionary MCTS with Flexible Search Horizon pada Multi-Action Adversarial Games untuk Penyesuaian Tingkat Permainan, Jenis: Journal, Tahun: 2021, Tags: Dynamics Difficulty Adjustment, Multi-Action Adversarial games, Penyesuaian tingkat permainan, MCTS with Flexible Search Horizon
+   Paper 36: Judul: Voice Alert Sebagai Alat Bantu Penglihatan di Lingkungan Rumah dan Jalanan Secara Umum Berbasis Android, Jenis: Journal, Tahun: 2021, Tags:  SSD, MobileNet, Voice Alert, Android, Deteksi objek Real Time
+   Paper 37: Judul: Deteksi Aktivitas Manusia Berdasarkan Data Skeleton dengan Menggunakan Modifikasi VGG16, Jenis: Journal, Tahun: 2021, Tags: Deteksi Aktivitas Manusia, NTU RGB+D, Convolutional Neural Network, VGG16, Data Skeleton
+   Paper 38: Judul: Penerapan Convolutional Neural Network untuk Klasifikasi Kanker Kulit Melanoma pada Dataset Gambar Kulit, Jenis: Journal, Tahun: 2021, Tags:  Convolutional neural network, transfer learning, Deep learning, skin lesion classification, Hair Removal, Ensemble neural network
+   Paper 39: Judul: Electrocardiogram Biometrics Recognition Menggunakan Artificial Neural Network, Jenis: Journal, Tahun: 2021, Tags: None
+   Paper 40: Judul: Penerapan Procedural Content Generation untuk generasi level dalam game Mythical Maze, Jenis: Journal, Tahun: 2021, Tags: Procedural Generation, Game, Level Generation, Unity, Maze
+   Paper 41: Judul: A robust method for VR-based hand gesture recognition using density-based CNN, Jenis: Journal, Tahun: 2020, Tags: Hand gesture recognition, 2D image gesture representation, Density-based CNN, Binary image learning, VR-based physical treatment
+   Paper 42: Judul: The Influence of Empowerment and Quality of Work Life to Career Plateau with Work Satisfaction as Intervening Variable, Jenis: Konferensi, Tahun: 2019, Tags: empowerment, quality of work life, work satisfaction, career plateau
+   Paper 43: Judul: Implementation of Javanese Text to Speech using MaryTTS Engine, Jenis: Konferensi, Tahun: 2018, Tags: Javanese language, MaryTTS
+   Paper 44: Judul: Segmentation of Hanacaraka characters using double projection profile and Hough transform, Jenis: Konferensi, Tahun: 2018, Tags: Segmentation, Hanacaraka character, Projection profile
+Hough transform, Image processing
+   Paper 45: Judul: Accelerated Ray Tracing dengan Bounding Volume Hierarchy dan Compute Unified Device Architecture, Jenis: Journal, Tahun: 2017, Tags: Ray tracing, BVH, CUDA, GPU, GPU ray tracing.
+   Paper 46: Judul: Game cerita alkitab untuk sekolah minggu, Jenis: Journal, Tahun: 2017, Tags: Multimedia Interaktif, Adobe Flash, Game Edukasi, Cerita Alkitab, Sekolah Minggu.
+   Paper 47: Judul: Aplikasi Resep Kuliner Khas Indonesia Berbasis Flash, Jenis: Journal, Tahun: 2017, Tags: Resep, Kuliner, Flash
+   Paper 48: Judul: Aplikasi Deteksi Orang Jatuh dengan Memanfaatkan Kinect, Jenis: Journal, Tahun: 2017, Tags: Kinect, Microsoft Kinect SDK, skeleton, jatuh, deteksi jatuh
+   Paper 49: Judul: Aplikasi Deteksi Nilai Uang pada Mata Uang Indonesia dengan Metode Feature Matching, Jenis: Journal, Tahun: 2017, Tags: Pengenalan mata uang, deteksi uang kertas, pencocokkan feature, deteksi nilai uang Indonesia, aplikasi untuk orang buta
+   Paper 50: Judul: Perancangan dan Pembuatan Aplikasi Penghubung antar Bahasa, Jenis: Journal, Tahun: 2017, Tags: None
+   Paper 51: Judul: Aplikasi Rehabilitasi dan Terapi Tangan untuk Pasien Stroke dengan menggunakan Kinect, Jenis: Journal, Tahun: 2017, Tags: Kinect, Microsoft Kinect SDK, skeleton, jatuh, deteksi jatuh
+   Paper 52: Judul: Pembuatan Aplikasi Mobile Augmented Reality dengan Scene Recognition Memanfaatkan Convolutional Neural Network, Jenis: Journal, Tahun: 2017, Tags: Convolutional Neural Network, Scene Recognition, Mobile Augmented Reality, Arsitektur Neural Network
+   Paper 53: Judul: Media Informasi Tanaman Obat dan Penggunaannya, Jenis: Journal, Tahun: 2017, Tags: None
+   Paper 54: Judul: Pembuatan Aplikasi Crowdsource Untuk Jasa Rumah Tangga Berbasis Android, Jenis: Journal, Tahun: 2017, Tags: None
+   Paper 55: Judul: Aplikasi Pendeteksi Citra yang diambil dari Kamera Mobile Device untuk Menghasilkan Ensiklopedia Fauna Berbasis Android, Jenis: Journal, Tahun: 2017, Tags: None
+   Paper 56: Judul: Optimization of Units Movement in Turn-Based Strategy Game, Jenis: Journal, Tahun: 2016, Tags: None
+   Paper 57: Judul: Pembuatan Aplikasi Simulasi Ujian Praktik Pengambilan Surat Izin Mengemudi Kendaraan Roda Empat, Jenis: Journal, Tahun: 2016, Tags: Virtual Reality, Simulasi Mengemudi, Steering Wheel, Unity
+   Paper 58: Judul: Pembuatan Kebun Binatang Virtual Untuk Pembelajaran Mengenai Binatang Liar, Jenis: Journal, Tahun: 2016, Tags: None
+   Paper 59: Judul: Aplikasi Media Pembelajaran Pengenalan Rambu Lalu Lintas Menggunakan Flash, Jenis: Journal, Tahun: 2016, Tags: Multimedia Interaktif, Game Edukasi, Adobe
+Flash, Rambu Lalu Lintas.
+   Paper 60: Judul: Aplikasi Pendeteksi Jauh Dekat Posisi Suatu Objek Dengan Menggunakan Kinect For Windows, Jenis: Journal, Tahun: 2016, Tags: Virtual reality, Game, Kinect Unity
+   Paper 61: Judul: Pembuatan Aplikasi Augmented Reality Pembelajaran Hewan, Jenis: Journal, Tahun: 2016, Tags: None
+   Paper 62: Judul: Media Pembelajaran Global Warming, Jenis: Journal, Tahun: 2016, Tags: None
+   Paper 63: Judul: Pembuatan Website Wiki Bangunan Bersejarah Indonesia, Jenis: Journal, Tahun: 2016, Tags: None
+   Paper 64: Judul: Game Real-Time Strategy dengan menggunakan Artificial Intelligence Quantified Judgement Model dan Backpropagation Neural Network, Jenis: Journal, Tahun: 2016, Tags: RTS, Real-Time Strategy Game, Artificial Intelligence, Quantified Judgement Model, Neural Network Backpropagation.
+   Paper 65: Judul: Pembuatan Puzzle Adventure Game Menggunakan Unity, Jenis: Journal, Tahun: 2016, Tags: None
+   Paper 66: Judul: Pembuatan Media Pembelajaran Virus Influenza Berbasis Flash, Jenis: Journal, Tahun: 2016, Tags: Multimedia, Media Pembelajaran Virus Influenza Berbasis Flash.
+   Paper 67: Judul: Pembuatan Sistem Administrasi dan Keuangan Berbasis Responsibility Center di Gereja Kebangkitan Kalam Allah Indonesia Jemaat Tenggilis Mejoyo, Jenis: Journal, Tahun: 2016, Tags:  Cash Basis, Jurnal, Keuangan, Responsibility Center
+   Paper 68: Judul: Pembuatan Website Museum Virtual Majapahit, Jenis: Journal, Tahun: 2016, Tags: Website virtual, kerajaan majapahit, peninggalan majapahit.
+   Paper 69: Judul: Aplikasi Game Life Simulation Peternakan Domba Menggunakan Metode Fuzzy, Jenis: Journal, Tahun: 2016, Tags: None
+   Paper 70: Judul: Aplikasi game strategi menggunakan metode algoritma genetika untuk pembuatan pasukan, Jenis: Journal, Tahun: 2016, Tags: Kecerdasan buatan, Algoritma Genetika, Turn-based strategy game.
+   Paper 71: Judul: Student Media Sosial Application for Acdemic and Non Acdemic Activities, Jenis: Journal, Tahun: 2016, Tags:  Aplikasi Media Sosial, Posting, Grup, Chatting, WebSocket.
+   Paper 72: Judul: Implementasi Rule Base System dan Fuzzy Logic artifical intelligence pada game kartu capsa, Jenis: Journal, Tahun: 2016, Tags: Permainan, Kartu, Capsa, Big2, Unity5, C#, Rule Base, Fuzzy.
+   Paper 73: Judul: Media interaktif pembelajaran kandungan gizi dalam sayuran serta manfaat dalam tubuh manusia, Jenis: Journal, Tahun: 2016, Tags: Multimedia, interaktif, kandungan sayur, manfaat sayur, efek samping sayur, pengolahan sayur.
+   Paper 74: Judul: Perencanaan dan Pembuatan Media Interaktif untuk Simulasi Water Treatment dalam Bentuk Animasi, Jenis: Journal, Tahun: 2016, Tags: Multimedia, interaktif, adobe flash, air, perawatan air.
+   Paper 75: Judul: Pengenalan Dokumen Jawa Menggunakan Jaringan Syaraf Tiruan Feedforward Elman Type Algorithm, Jenis: Journal, Tahun: 2016, Tags: Huruf Jawa, Backpropagation, Pelatihan, Pengenalan, Elman Type.
+3. Nama Dosen Pembimbing UK Petra: Justinus Andjarwirawan, S.T.,M.Eng.
+   Jadwal Bimbingan: Jumat 8.30 - 10.30, Sabtu 8.30 - 10.30
+   Paper 1: Judul: Utilization of the Agora video broadcasting library to support remote live streaming, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 2: Judul: Android based remote driving for real time vehicle monitoring, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 3: Judul: Sistem Rekomendasi Pembelian Laptop dengan K-Nearest Neighbor (KNN), Jenis: Journal, Tahun: 2022, Tags:  K-Nearest Neighbor, Recommendation, Laptop
+   Paper 4: Judul: Aplikasi Moblie Learning untuk Meningkatkan Interaksi Pembelajaran dalam Mendukung Penyerapan Materi Pembinaan UMKM oleh LPPM Universitas Kristen Petra dengan Menerapkan Model Learning Group, Jenis: Journal, Tahun: 2022, Tags: Collaborative Mobile Learning, Mobile Application, MSME, Flutter, Learning group
+   Paper 5: Judul: Pengurangan Sampah Makanan dalam Bisnis Kuliner Menggunakan Konsep E-Marketplace pada Aplikasi Mobile, Jenis: Journal, Tahun: 2022, Tags: food waste, mobile application, e-marketplace, culinary businesses
+   Paper 6: Judul: Pengawasan Jalur Kapal dengan Automatic Identification System (AIS) berbasis Android, Jenis: Journal, Tahun: 2022, Tags: Android, ETA, Havershine Method, Vessel Position
+   Paper 7: Judul: Aplikasi Self Management untuk Mencatat Jadwal Kegiatan Dengan Speech to Text Menggunakan Google API Berbasis Android, Jenis: Journal, Tahun: 2022, Tags:  suara ke text, manajemen diri, aplikasi android, Google API, Google Speech API
+   Paper 8: Judul: Pengamatan IP Cycling Pada VPN Menggunakan GRC Fingerprints dan DNSLeakTest, Jenis: Journal, Tahun: 2022, Tags:  IP, VPN, GRC Fingerprints, DNSLeaktest, Keamanan VPN, Sertifikat
+   Paper 9: Judul: Implementasi dan Analisa Snort dan Suricata Sebagai IDS dan IPS Untuk Mencegah Serangan DOS dan DDOS, Jenis: Journal, Tahun: 2022, Tags: IDS, IPS,DDOS,DOS
+   Paper 10: Judul: Penerapan Metode Convolutional Neural Network Untuk Clothing Image Recognition, Jenis: Journal, Tahun: 2022, Tags: Convolutional Neural Network, VGG16, clothing image recognition, machine learning, artificial intelligence.
+   Paper 11: Judul: Implementasi internet of things Untuk pembuatan keyless smart door Dengan NFC tag Dan QR code, Jenis: Journal, Tahun: 2022, Tags: Smart Door Lock, QR Code, NFC Tag Sticker
+   Paper 12: Judul: Pencarian Rute Terpendek di dalam Mall menggunakan Lifelong Planning A* pada Android, Jenis: Journal, Tahun: 2021, Tags:  Android, rute terpendek, Lifelong Planning A*
+   Paper 13: Judul: Implementasi Algoritma AES, ElGamal, dan SHA3 untuk Keamanan File Digital, Jenis: Journal, Tahun: 2021, Tags: AES algorithm, ElGamal algorithm, SHA3 algorithm, encryption, security, file.
+   Paper 14: Judul: Sistem Rekomendasi Games menggunakan Metode Item-based Collaborative Filtering berbasis Website, Jenis: Journal, Tahun: 2021, Tags: None
+   Paper 15: Judul: Analisa Kinerja Apache dan Nginx dalam Arsitektur Microservice Menggunakan Siege, Jenis: Journal, Tahun: 2021, Tags: None
+   Paper 16: Judul: Pengaruh Sampling Method dan Feature Extraction untuk Meningkatkan Detection Rate pada Minority Class pada Intrusion Detection System yang Disusun dari Support Vector Machine, Decision Tree, dan Naïve Bayes, Jenis: Journal, Tahun: 2021, Tags: intrusion detection system, machine learning, over-sampling, under-sampling, feature extraction
+   Paper 17: Judul: Push Notification Pada Sistem Penjualan Tiket Workshop dan Event Menggunakan Firebase Cloud Messaging Berbasis Progressive Web Application, Jenis: Journal, Tahun: 2021, Tags: None
+   Paper 18: Judul: Sistem Pakar Diagnosa Kerusakan Pada Gitar Menggunakan Metode Forward Chaining dan Certainty Factor, Jenis: Journal, Tahun: 2021, Tags: sistem pakar, diagnosa kerusakan gitar, forward chaining, certainty factor
+   Paper 19: Judul: Pengembangan Aplikasi DVR Driving dengan Fitur Remote Live Streaming dan Speedometer Berbasis Android, Jenis: Journal, Tahun: 2021, Tags: DVR, Live streaming, Agora Video Broadcast, GPS, Speedometer
+   Paper 20: Judul: Pelaporan Untuk Mengurangi Tindak Kriminal dan Non Kriminal Di Kota Mojokerto Dengan Menggunakan Metode Haversine dan Metode Multiple Criteria Utility Assessment, Jenis: Journal, Tahun: 2021, Tags: Multiple Criteria Utility Assessment, Haversine.
+   Paper 21: Judul: Penerapan Algoritma TextRank dan Dice Similarity Untuk Verifikasi Berita Hoax, Jenis: Journal, Tahun: 2021, Tags: verifikasi hoax, dice similarity, textrank, keyword extraction, web scraping
+   Paper 22: Judul: Sistem Keamanan pada Kendaraan Bermotor Roda Dua dengan Arduino dan Android berbasis Suara, Jenis: Journal, Tahun: 2021, Tags: Android, Arduino, Kendaraan bermotor roda dua, Sistem Keamanan, Suara.
+   Paper 23: Judul: Implementasi Web Service Integrasi Data Penelitian dan Pengabdian Masyarakat dengan  SISTER Ristekdikti dengan Metode REST, Jenis: Journal, Tahun: 2021, Tags: SISTER Ristekdikti, Web Service, Data Integration, Representational State Transfer
+   Paper 24: Judul: Aplikasi Notifikasi Telegram Untuk Mengetahui Trend Forex Trading Dengan Menggunakan Pola Japanese Candlestick, Jenis: Journal, Tahun: 2020, Tags: Forex, Trading, Expert Advisor, Telegram, Japanese Candlestick
+   Paper 25: Judul:  Implementasi Distributed Database Pada Learning Management System Menggunakan Platform Redhat Openshift, Jenis: Journal, Tahun: 2020, Tags:  Openshift, Distributed Database, MySQL Cluster
+   Paper 26: Judul: Sistem Presensi Mahasiswa Berbasis Animated QR Code Menggunakan Raspberry Pi, Jenis: Journal, Tahun: 2020, Tags: Presence, Animated QR Code, Android Mobile App, Scanner, Raspberry Pi 4
+   Paper 27: Judul: Aplikasi untuk Monitoring Jaringan IoT Menggunakan Algoritma Address Shuffling dengan HMAC, Jenis: Journal, Tahun: 2020, Tags: Internet Of Things, Wireless sensor network, Monitoring, Security
+   Paper 28: Judul: Game RPG Berbasis Jamur Pangan, Jenis: Journal, Tahun: 2020, Tags:  Game, Android, Jamur pangan, Media pembelajaran
+   Paper 29: Judul: Aplikasi analisa sentimen pada komentar berbahasa Indonesia dalam objek video di website YouTube menggunakan metode Naïve Bayes classifier, Jenis: Journal, Tahun: 2020, Tags: texts, API YouTube, classification sentiment
+   Paper 30: Judul: Penerapan QRCode Untuk Presensi Mata Kuliah Mahasiswa Dengan Yii Framework, Jenis: Journal, Tahun: 2020, Tags: None
+   Paper 31: Judul: Implementasi internet of things untuk parkir mobil dengan pembayaran menggunakan qr code, Jenis: Journal, Tahun: 2020, Tags: Detection of Empty Parking Slots, Ultrasonic Sensor, QR Code
+   Paper 32: Judul: Penggabungan Algoritma Markov Chain Monte Carlo dan Metode Statistik pada Named Entity Recognition Lintas Bahasa Suku di Indonesia untuk Pembelajaran Alkitab, Jenis: Journal, Tahun: 2020, Tags: None
+   Paper 33: Judul: 
+Aplikasi Toko Online Dengan Chatbox Pada Toko KCA, Jenis: Journal, Tahun: 2020, Tags: Online Shop Chatbox, Social Media, Website, Customer Service
+   Paper 34: Judul: Comparative Analysis of NFS and iSCSI Protocol Performance on OpenStack Cinder Technology, Jenis: Journal, Tahun: 2020, Tags:  Cloud computing, iSCSI, NFS, OpenStack, OpenStack cinder, Persistent Storage
+   Paper 35: Judul: Computer Science Laboratory Environment Using Docker, Jenis: Journal, Tahun: 2019, Tags: Docker, container, RAID, virtual machine, storage, somputer lab, lab setup
+   Paper 36: Judul: Sistem kontrol dan monitoring ph air serta kepekatan nutrisi pada budidaya hidroponik jenis sayur dengan teknik deep flow techcnique, Jenis: Journal, Tahun: 2019, Tags: None
+   Paper 37: Judul: Implementasi internet of things untuk menjaga kelembaban udara pada budidaya jamur, Jenis: Journal, Tahun: 2019, Tags: Internet of things, air humidity controller, ESP82664 microcontroller, website, mold moisture
+   Paper 38: Judul: E-Vote Menggunakan RFID Sebagai Login Key Untuk Pemilihan Ketua Organisasi Universitas Kristen Petra Berbasis Web, Jenis: Journal, Tahun: 2019, Tags: Rfid, sistem e-voting, Nfc
+   Paper 39: Judul: Aplikasi Android untuk Mencari Harga Tiket Pesawat Termurah dari Beberapa Situs Travel di Indonesia, Jenis: Journal, Tahun: 2019, Tags: Web Scraping, CURL, Android, Situs Travel
+   Paper 40: Judul: Implementasi Accelerated Mobile Pages Untuk Sistem Informasi Manajemen Berbasis Web dan Absensi Pada Program Pendidikan Bahasa Universitas Kristen Petra, Jenis: Journal, Tahun: 2019, Tags: accelerated mobile pages , website, sistem
+informasi, program pendidikan bahasa 
+   Paper 41: Judul: Analisis Perbandingan Kinerja Algoritma Load Balancer NGINX pada Studi Kasus PRS, Jenis: Journal, Tahun: 2019, Tags: None
+   Paper 42: Judul: Aplikasi Timing Kejuaraan Nasional Rally dan Sprint Rally Berbasis Web, Jenis: Journal, Tahun: 2019, Tags: None
+   Paper 43: Judul: Aplikasi Tes Kepribadian Online Berbasis Website pada Pusat Konseling dan Pengembangan Pribadi Universitas Kristen Petra, Jenis: Journal, Tahun: 2019, Tags: myers-briggs type indicator, temperament F38test, a/b personality type test, tes kepribadian online
+   Paper 44: Judul: Sistem Rekomendasi untuk Mahasiswa Mendaftar sebagai Panitia ke dalam Acara Menggunakan Metode Content-Based Recommendation Systems, Jenis: Journal, Tahun: 2019, Tags: None
+   Paper 45: Judul: Aplikasi Pencarian Jurnal Ilmiah Dengan Term Frequency-Inverse Document Frequency, Jenis: Journal, Tahun: 2019, Tags: Term Frequency, Inverse Document Frequency, Search Engine, REST, PHP
+   Paper 46: Judul: Implementasi Digital Signage Menggunakan Raspberry Pi, Jenis: Journal, Tahun: 2019, Tags: Digital Signage, Raspberry Pi, Open CV, Haar Cascade
+   Paper 47: Judul: Sistem Informasi Administrasi Pada Perusahaan Multicabang AkiXpres, Jenis: Journal, Tahun: 2019, Tags: Integrasi Informasi, Multi Cabang, Sistem Informasi Administrasi, website
+   Paper 48: Judul: Perancangan Game Engine Untuk Game Visual Novel Berbasis Android Dengan Diagram Alur Cerita, Jenis: Journal, Tahun: 2019, Tags: Game Engine, Visual Novel, Story Flow Diagram, Android
+   Paper 49: Judul: Aplikasi Mobile Untuk Sistem Presensi Dosen dan Karyawan Universitas Kristen Petra, Jenis: Journal, Tahun: 2019, Tags:  Presensi, Android, Firebase Cloud Messaging, Perhitungan Presensi
+   Paper 50: Judul: Game Membangun Kerajaan dengan Procedural Generated Map Menggunakan Perlin Noise, Jenis: Journal, Tahun: 2019, Tags: Perlin Noise, City Building Survival, Real-Time Strategy, Video Game
+   Paper 51: Judul: Penerapan Sistem Channel Management untuk Aplikasi Manajemen E-commerce pada Pemilik Toko Online Multi Channel, Jenis: Journal, Tahun: 2019, Tags: None
+   Paper 52: Judul: Penerapan Screen Mirroring Android Pada Projector Menggunakan Raspberry Pi, Jenis: Journal, Tahun: 2019, Tags: Projector, screen mirroring, Gstreamer, Raspberry Pi
+   Paper 53: Judul: Linux PAM to LDAP authentication migration, Jenis: Konferensi, Tahun: 2017, Tags: Migration, LDAP, PAM, Linux, authentication
+   Paper 54: Judul: Android application for monitoring soil moisture using raspberry pi, Jenis: Konferensi, Tahun: 2017, Tags: IoT, LED, Raspberry Pi, Sensor, Soil Moisture
+   Paper 55: Judul: Development of mobile indoor positioning system application using android and bluetooth low energy with trilateration method, Jenis: Konferensi, Tahun: 2017, Tags: Indoor Positioning System, Trilateration, Bluetooth Low Energy, Android.
+   Paper 56: Judul: mplementasi Wireless Router dengan Menggunakan Raspberry Pi 3, Jenis: Journal, Tahun: 2017, Tags: None
+   Paper 57: Judul: Sistem Informasi Penggajian Karyawan Pada PT. X Berbasis Web, Jenis: Journal, Tahun: 2017, Tags: Sistem Informasi Penggajian, Website, PHP, MySQL
+   Paper 58: Judul: Sistem Pendukung Keputusan Berbasis Android untuk memberi Rekomendasi Jodoh dengan menggunakan Metode Simple Additive Weighting, Jenis: Journal, Tahun: 2017, Tags:  Sistem Pendukung Keputusan, Rekomendasi Jodoh, Simple Additive Weighting, Android, Telegram
+   Paper 59: Judul: Aplikasi Sistem Informasi Pertanahan Berbasis Website Pada Kantor Pertanahan Kabupaten Kupang Provinsi NTT, Jenis: Journal, Tahun: 2017, Tags: BPN, sertifikat, SMS Gateway Me, aplikasi, website.
+   Paper 60: Judul: Aplikasi Tablet Interaktif In-Room Guest Services Bebasis Android Pada Hotel Grand Duta Palu, Jenis: Journal, Tahun: 2017, Tags: None
+   Paper 61: Judul: Fitur Pengkategorian Otomatis dari Gambar Berbasis Web dengan Metode SURF dan Haar Cascade Classifiers, Jenis: Journal, Tahun: 2017, Tags: Website, Web Service, Ecommerce, Pendeteksian Obyek, Pengenalan Obyek, Haar Cascade Classifiers, SURF, Feature Match.
+   Paper 62: Judul: Pembuatan Aplikasi Layanan Pengguna Perpustakaan Universitas Kristen Petra Dengan Fitur Barcode Dan Metode REST Pada Pengusulan Koleksi, Jenis: Journal, Tahun: 2017, Tags:  Aplikasi android, Perpustakaan, REST, Web Service
+   Paper 63: Judul: 
+Pembuatan Aplikasi Reservasi Dokter Praktek Di Apotek ACP Ambon Berbasis Web Dan Android, Jenis: Journal, Tahun: 2017, Tags: None
+   Paper 64: Judul: Migrating Autolux Website From Modx to Phalconphp with Further Developments (Search Engine Optimization and Mobile Application Support Implementation), Jenis: Journal, Tahun: 2017, Tags:  Website, PhalconPHP, PHP, Search Engine Optimization, User Generated Content, infinite scroll, multilingual, push notification, Mobile API.
+   Paper 65: Judul: Pembuatan Aplikasi Manajemen Kendaraan berbasis Android, Jenis: Journal, Tahun: 2017, Tags: Manajemen kendaraan, Android, Android Studio, Google Drive, Dropbox, Google Calendar
+   Paper 66: Judul: Sistem Informasi Manajemen pada Apotek Christ Berbasis Website, Jenis: Journal, Tahun: 2017, Tags: Sistem Informasi, Sistem Informasi Manajemen, Apotek
+   Paper 67: Judul: Indexing dan Searching Document Menggunakan Metode Semantic Suffix Tree Clustering Berbasis Android, Jenis: Journal, Tahun: 2017, Tags: Clustering, suffix tree, semantic, pencarian dokumen, android
+   Paper 68: Judul: Pembuatan Alert Sistem Komputer Kabel dan Nirkabel di UK. Petra, Jenis: Journal, Tahun: 2017, Tags: Zabbix, monitoring jaringan, Telegram API, SMS API
+   Paper 69: Judul: Pembuatan Aplikasi Delivery Order dengan Menggunakan HTML5 Berbasis Mobile, Jenis: Journal, Tahun: 2017, Tags: Pesan Antar, Mobile device, HTML5, PhoneGap, Google Map
+   Paper 70: Judul: Pembuatan Aplikasi Point of Sales dan Online Shop Berbasis Web Menggunakan Framework Laravel, Jenis: Journal, Tahun: 2017, Tags: Bisnis, Perdagangan, Sistem, Barcode, ECommerce , WebPOS , Online Shop.
+   Paper 71: Judul: Pembuatan Aplikasi Delivery Order Bunga pada Toko X Berbasis Mobile, Jenis: Journal, Tahun: 2017, Tags: None
+   Paper 72: Judul: Pembuatan bot telegram untuk mengambil informasi dan jadwal film menggunakan php, Jenis: Journal, Tahun: 2017, Tags: None
+   Paper 73: Judul: Aplikasi Lombok Tourism Berbasis Android, Jenis: Journal, Tahun: 2017, Tags: None
+   Paper 74: Judul: Pembuatan Marketplace Penjualan Makanan Khas Indonesia, Jenis: Journal, Tahun: 2017, Tags: Website, Marketplace, Makanan Khas Indonesia
+   Paper 75: Judul: Aplikasi Informasi Wisata Kota Jember Berbasis Mobile Dengan Dukungan Info Transportasi Dan Fasilitas Umum, Jenis: Journal, Tahun: 2017, Tags: Wisatawan, Wisata, Aplikasi Mobile
+   Paper 76: Judul: Pembuatan Web Application untuk Mendukung Pelayanan Asisten Tutor di Universitas Kristen Petra, Jenis: Journal, Tahun: 2017, Tags: Aplikasi Web, Kerangka Kerja, JavaScript, PHP, AngularJS, Laravel, JSON Web Token, REST
+   Paper 77: Judul: Pembuatan Aplikasi Buku Multimedia Cerita Alkitab, Jenis: Journal, Tahun: 2017, Tags: Buku Multimedia, Cerita Alkitab, HTML5, Jigsaw
+Puzzle, Matching Game
+4. Nama Dosen Pembimbing UK Petra: Stephanus A. Ananda, S.T., M.Sc. Ph.D.
+   Jadwal Bimbingan: Senin 15.30 - 17.30, Selasa 15.30 - 17.30
+   Paper 1: Judul: Power Flow Analysis of On-Grid Photovoltaic Generation Using A Solid-State Transformer, Jenis: Journal, Tahun: 2024, Tags: Solid State Transformer, Grid-connected PV, Voltage Source Inverter (VSI), Three-level square wave, Photovoltaic
+   Paper 2: Judul: A Comparative Study between the Facebook Prophet Model and SARIMA for Bitcoin Price Prediction, Jenis: Journal, Tahun: 2024, Tags: Bitcoin Prediction, Facebook Prophet Model, SARIMA model
+   Paper 3: Judul: On-Grid Photovoltaic System Using A Solid-State Transformer, Jenis: Konferensi, Tahun: 2023, Tags: Solid State Transformer, On-Grid PV, Converter, Voltage Source Inverter
+   Paper 4: Judul: Pelatihan Metode Computational Thinking melalui Pemrograman Menggunakan Scratch untuk Siswa Sekolah Dasar, Jenis: Journal, Tahun: 2023, Tags:  algoritma, berpikir komputasi, pemrograman Scratch
+   Paper 5: Judul: Monitoring Kadar Amonia dalam Akuarium Ikan Menggunakan Metode Verifikasi Warna RGB dengan Memanfaatkan ESP32-CAM, Jenis: Journal, Tahun: 2022, Tags:  Internet of Things, OpenCV, Ikan Eksotik, Monitoring, Otomatisasi, Aplikasi mobile
+   Paper 6: Judul: Aplikasi Sentiment Analysis terhadap Trend Cryptocurrency pada Platform Twitter Menggunakan Library Textblob sebagai Alat Bantu Berinvestasi, Jenis: Journal, Tahun: 2022, Tags:  Sentiment Analysis, Cryptocurrency, TextBlob, NLP
+   Paper 7: Judul: Penerapan Modified ADASYN untuk Meningkatkan Akurasi Pendeteksian Pola Fraud pada Transaksi Kartu Kredit, Jenis: Journal, Tahun: 2021, Tags: credit-card fraud, modified ADASYN, pipelining, imbalanced classification, class imbalance
+   Paper 8: Judul: Multi-Agent System Fault Protection with Topology Identification in Microgrids, Jenis: Journal, Tahun: 2017, Tags: multi-agent system, microgrid, distributed energy resources, topology identification bus, impedance matrix
+5. Nama Dosen Pembimbing UK Petra: Ir. Resmana Lim, M.Eng
+   Jadwal Bimbingan: Rabu 13.30 - 15.30, Kamis 13.30 - 15.30
+   Paper 1: Judul: Pengaruh Internal Pressure Pada Pengelasan Sleeve Pada Pipa ASTM A 106 Grade B, Jenis: Journal, Tahun: 2024, Tags: None
+   Paper 2: Judul: Perancangan Sistem Penjadwalan Perawatan Yang Mendukung Total Productive Maintenance Di PT X, Jenis: Journal, Tahun: 2024, Tags: total productive maintenance, overall equipment effectiveness, six big losses
+   Paper 3: Judul: SIMULASI KONTROL KELEMBABAN DENGAN KONTROLER PID PADA KUMBUNG JAMUR DI URBAN FARMING ALAM SARI PETRA, Jenis: Journal, Tahun: 2024, Tags: urban farming, pengendalian kelembaban, sistem berbasis sensor, kontroler pid
+   Paper 4: Judul: Implementasi IoT Fertigation di Urban Farming Alam Sari PPPK Petra, Jenis: Journal, Tahun: 2024, Tags: Hidroponik, Fertigation, Nutrisi, Urban Farming, IoT
+   Paper 5: Judul: IoT for Cathodic Protection System as Iron Concrete's Corrosion Protection, Jenis: Journal, Tahun: 2023, Tags: None
+   Paper 6: Judul: Smart Home with Energy Saving Using Demand Side Management Through Particle Swarm Optimization and Home Assistant, Jenis: Journal, Tahun: 2023, Tags: None
+   Paper 7: Judul: Business Development Strategy for Rolling Bearing Product and Related Services in Food and Beverage Industry, Jenis: Journal, Tahun: 2023, Tags: business development, bearing, food and beverage, ansoff matrix, fishbone
+   Paper 8: Judul: PERANCANGAN AIR MANCUR OTOMATIS SESUAI TEMPO MUSIK DI URBAN FARMING ALAM SARI PETRA, Jenis: Journal, Tahun: 2023, Tags: air mancur menari, ArduinoFFT, AnalogRead, Arduino IDE, Arduino Uno, tempo musik
+   Paper 9: Judul: SISTEM PEMBARUAN STOK BARANG PADA TOKO PAKAIAN MENGGUNAKAN TEKNOLOGI RFID, Jenis: Journal, Tahun: 2023, Tags: RFID reader, sistem pembaruan stok barang
+   Paper 10: Judul: Rancang Bangun Sistem Meter Listrik Prabayar Dengan Pembayaran Menggunakan QRIS di Rumah Kost, Jenis: Journal, Tahun: 2023, Tags: QRIS, ESP32, Payment Gateway, Sistem Meteran Prabayar
+   Paper 11: Judul: Aplikasi Monitoring Pada Tanaman Aglaonema menggunakan IoT, Jenis: Journal, Tahun: 2022, Tags: Aplikasi Monitoring, Aglaonema, penyiraman, IoT, dan Arduino
+   Paper 12: Judul: Prototype Website Monitoring Parameter Energi Listrik pada Gedung A, B, C, D, & I di UK PETRA, Jenis: Journal, Tahun: 2022, Tags: Prototype, Regresi, Website, Energi Listrik, UK Petra
+   Paper 13: Judul: Sistem Aplikasi Pada Multi Channel Power Socket Untuk Pengukuran Daya Pada Kompleks Ruko Dan Apartemen, Jenis: Journal, Tahun: 2022, Tags: Aplikasi Monitoring, Energi Listrik, Kontrol jarak jauh, IoT
+   Paper 14: Judul: Aplikasi Monitoring Kelembapan Tanah, Suhu, Kadar PH Tanah Serta Penyiraman Dan Pemupukan Otomatis Pada Tanaman Hias Lidah Mertua Berbasis IOT, Jenis: Journal, Tahun: 2022, Tags: Aplikasi Monitoring, Lidah Mertua, penyiraman dan pemupukan otomatis, IoT. 
+   Paper 15: Judul: Implementasi internet of things Untuk pembuatan keyless smart door Dengan NFC tag Dan QR code, Jenis: Journal, Tahun: 2022, Tags: Smart Door Lock, Kode QR, NFC Tag Sticker
+   Paper 16: Judul: Implementasi internet of things pada sistem cathodic protection sebagai proteksi korosi besi beton, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 17: Judul: Sistem Pendeteksi Kebakaran dengan Arduino pada Gudang, Jenis: Journal, Tahun: 2021, Tags: Arduino, Wemos, Alarm Kebakaran
+   Paper 18: Judul: Custom Built of Smart Computing Platform for Supporting Optimization Methods and Artificial Intelligence Research: PakCarik: GPU-Accelerated Platform for AI Researches, Jenis: Journal, Tahun: 2021, Tags: Artificial Intelligence, Machine Learning, Multi-objective Optimization, Graphics Processing Unit Accelerator, High Throughput Computing
+   Paper 19: Judul: Sistem Monitoring Solar Charge Controller Menggunakan Raspberry Pi 3 Secara Mobile, Jenis: Journal, Tahun: 2021, Tags: None
+   Paper 20: Judul: Sistem Monitoring Penggunaan Air di Apartemen/Mal MultiTenant dengan NodeMCU dan Raspberry Pi, Jenis: Journal, Tahun: 2021, Tags: None
+   Paper 21: Judul: Perangkat Lunak untuk Kontrol dan Pendeteksian QR Code pada Robot Mobil di Prototipe Pabrik Garmen, Jenis: Journal, Tahun: 2021, Tags: QR Code, Material Handling, Autonomous Mobile Robot, Navigasi 
+   Paper 22: Judul: Sistem Pengaturan Suhu Dan Kelembaban Kandang Ayam Menggunakan Arduino Dan Website, Jenis: Journal, Tahun: 2020, Tags: Ayam Broiler, Kandang Ayam, Website, Arduino, DHT 22, Setting Poin
+   Paper 23: Judul: Implementasi Web Service Integrasi Data Penelitian dan Pengabdian Masyarakat dengan SISTER Ristekdikti dengan Metode REST, Jenis: Journal, Tahun: 2020, Tags: SISTER Ristekdikti, Web Service, Data Integration, Representational State Transfer
+   Paper 24: Judul: Alat Resusitasi Jantung Paru, Jenis: Journal, Tahun: 2020, Tags: None
+   Paper 25: Judul: Sistem Akses Parkir dengan QR Code, Jenis: Journal, Tahun: 2020, Tags: None
+   Paper 26: Judul: Pembuatan Sistem Rumah Pintar dengan Voice Assistant di Raspberry Pi, Jenis: Journal, Tahun: 2020, Tags: Raspberry Pi, Wemos D1 Mini, EPS8266, Sensor DHT11, Sensor Cahaya GY-302, relay, IR Receiver, IR LED, IRremote ESP8266, rumah pintar, voice assistant.
+   Paper 27: Judul: Sistem Akses Kontrol Laboratorium Menggunakan Kartu Tanda Mahasiswa, Jenis: Journal, Tahun: 2020, Tags: Akses Konrol, Laboratorium, Raspberry Pi, Presensi, RFID tag, Magnetic door lock, Relay, Kartu Tanda Mahasiswa
+   Paper 28: Judul: Implementasi internet of things untuk parkir mobil dengan pembayaran menggunakan qr code, Jenis: Journal, Tahun: 2020, Tags: Deteksi Slot Parkir Kosong, Sensor Ultrasonik, Kode QR
+   Paper 29: Judul: Pencatatan Skor Pertandingan Bulutangkis Menggunakan Arduino yang Dapat Dipantau via Aplikasi, Jenis: Journal, Tahun: 2020, Tags:  Papan skor, Arduino, Android
+   Paper 30: Judul: Sistem Peminjaman Loker Otomatis Menggunakan QR Code dan Arduino, Jenis: Journal, Tahun: 2020, Tags: None
+   Paper 31: Judul: Power Meter Monitoring Dengan Mobile Apps dan Metode Direct Calculation, Jenis: Journal, Tahun: 2020, Tags: Energy monitoring , Firebase, Arduino, ZMPT101B, ACS712
+   Paper 32: Judul: Indoor positioning system using BLE beacon to improve knowledge about museum visitors, Jenis: Journal, Tahun: 2020, Tags: Indoor Positioning Systems, Received Signal Strength, Wi-Fi
+   Paper 33: Judul: The Development of Prediction Indicators on Currency Market Using Neuro-Fuzzy Method, Jenis: Journal, Tahun: 2020, Tags: Artificial technical indicator, facebook, forex, forex price analysis, metatrader
+   Paper 34: Judul: Museum visitor activity tracker using indoor positioning system, Jenis: Konferensi, Tahun: 2019, Tags: Indoor Positioning Systems, Received Signal Strength, Wi-Fi
+   Paper 35: Judul: Sistem Proteksi Kebocoran Gas LPG Berbasis Arduino dan Aplikasi Mobile, Jenis: Journal, Tahun: 2019, Tags: Pendeteksi kebocoran gas LPG, Arduino, dan Aplikasi Android
+   Paper 36: Judul: Sistem Monitoring Konsumsi Air Multi-Tenant Menggunakan Arduino dan Mobile Apps, Jenis: Journal, Tahun: 2019, Tags: Arduino, Aplikasi Mobile, Pemantauan Konsumsi Air
+   Paper 37: Judul: Sistem Presensi Perkuliahan pada Universitas Kristen Petra Berbais RFID Dan Arduino, Jenis: Journal, Tahun: 2019, Tags: Presensi , RFID, Arduino
+   Paper 38: Judul: Sistem Pembacaan kWh Meter Digital berbasis Raspberry Pi, Jenis: Journal, Tahun: 2019, Tags: kWh Meter, Raspberry Pi, SDM 120C, voltage, Pencatatan tegangan
+   Paper 39: Judul: Sistem kontrol dan monitoring ph air serta kepekatan nutrisi pada budidaya hidroponik jenis sayur dengan teknik deep flow techcnique, Jenis: Journal, Tahun: 2019, Tags: None
+   Paper 40: Judul: Implementasi internet of things untuk menjaga kelembaban udara pada budidaya jamur, Jenis: Journal, Tahun: 2019, Tags: Internet of things, Pengendali kelembaban udara, Mikrokontroler ESP8266, Website, Kelembaban jamur.
+   Paper 41: Judul: Aplikasi Mobile untuk Kendali Simulasi Smart Home Berbasis Lokasi, Jenis: Journal, Tahun: 2019, Tags: Smart Home, GeoFence, Arduino, Sensor, Android.
+   Paper 42: Judul: Aplikasi Mobile Pemetaan Pengunjung Museum Trowulan Berbasis Bluetooth Indoor Positioning System Menggunakan Metode Trilateration, Jenis: Journal, Tahun: 2019, Tags: Indoor Positioning System, Trilateration, Kalman Filter, Bluetooth Low Energy Beacon.
+   Paper 43: Judul: Implementasi Face Recognition menggunakan Raspberry pi untuk akses Ruangan Pribadi, Jenis: Journal, Tahun: 2019, Tags: Keamanan, Perusahaan, File, IoT, Face Recognition
+   Paper 44: Judul: Perancangan dan Pembuatan Automatic Pet Feeder Menggunakan Arduino dan Mobile Apps, Jenis: Journal, Tahun: 2019, Tags: Pemberi Makan Hewan Peliharaan, Arduino, Aplikasi Android
+   Paper 45: Judul: Sistem Notifikasi Sms Hasil Prediksi Saham/Forex Menggunakan Raspberry Pi, Jenis: Journal, Tahun: 2019, Tags: notifikasi sms, raspberry pi, prediksi saham/forex
+   Paper 46: Judul: Smart Power Outlet dengan Fitur Pemantauan Daya, Jenis: Journal, Tahun: 2019, Tags: Smart Power Outlet, Pemantauan Daya, NodeMCU, ZMPT101B, ACS712
+   Paper 47: Judul: Desain Antarmuka Aplikasi Mobile Pada Sistem Parkir Berbasis Internet of Things, Jenis: Journal, Tahun: 2019, Tags: None
+   Paper 48: Judul: Pembuatan Rak Komponen Semi Automatis Berbasis Raspbery Pi 3 dan Arduino Nano, Jenis: Journal, Tahun: 2019, Tags: Pembuatan Rak Komponen Semi Otomatis, Raspberry Pi 3, Arduino Nano
+   Paper 49: Judul: Pemantauan kualitas udara polutan co dan co2 berbasis iot, Jenis: Journal, Tahun: 2019, Tags: None
+   Paper 50: Judul: Pembuatan Robot Mobil Yang Mengikuti Langkah Manusia, Jenis: Journal, Tahun: 2019, Tags: None
+   Paper 51: Judul: Aplikasi Mobile Untuk Pemantauan Simulasi Ketinggian Permukaan Air Berbasis Internet of Things (IoT), Jenis: Journal, Tahun: 2019, Tags: Pemantauan Ketinggian Air, Aplikasi Mobile, Cloud Ubidots
+   Paper 52: Judul: The Analysis Of Motor Imagery And SSVEPs For the BCI Application, Jenis: Journal, Tahun: 2019, Tags: brain-computer interface, brain signal, electroencephalogram, motor imagery, steady-state visual evoked
+potential
+6. Nama Dosen Pembimbing UK Petra: Agustinus Noertjahyana, S.Kom., M.MT.
+   Jadwal Bimbingan: Jumat 8.30 - 10.30, Sabtu 8.30 - 10.30
+   Paper 1: Judul: Analysis and Implementation of Distributed Denial of Service (DDoS) Attacks on the Website and Server, Jenis: Journal, Tahun: 2024, Tags: DoS, DDoS, Goldeneye, Kali Linux, Slowloris
+   Paper 2: Judul: A Comparative Study between the Facebook Prophet Model and SARIMA for Bitcoin Price Prediction, Jenis: Journal, Tahun: 2024, Tags: Bitcoin Prediction, Facebook Prophet Model, SARIMA model.
+   Paper 3: Judul: IoT for Cathodic Protection System as Iron Concrete's Corrosion Protection, Jenis: Journal, Tahun: 2024, Tags: None
+   Paper 4: Judul: Pelatihan Metode Computational Thinking melalui Pemrograman Menggunakan Scratch untuk Siswa Sekolah Dasar, Jenis: Journal, Tahun: 2023, Tags: algoritma, berpikir komputasi, pemrograman Scratch
+   Paper 5: Judul: Implementing Bisection Method on Forex Trading Database for Early Diagnosis of Inflection Point, Jenis: Journal, Tahun: 2023, Tags: Bisection method, moving average, inflectionpoint, forex trading, decision support
+   Paper 6: Judul: Utilization of the Agora video broadcasting library to support remote live streaming, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 7: Judul: Android based remote driving for real time vehicle monitoring, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 8: Judul: Improve educational marketing strategy through use of digital marketing technology, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 9: Judul: Increasing the importance of digital technology as a technopreneurship media in higher education, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 10: Judul: Pembuatan Aplikasi Lelang Berbasis Android, Jenis: Journal, Tahun: 2022, Tags:  Aplikasi Lelang, Payment Gateway, Notifikasi, Chat, Autobid
+   Paper 11: Judul: Pencarian Rute Indoor Terpendek dalam Lingkungan Universitas Kristen Petra Surabaya menggunakan Algoritma D* Lite berbasis Android, Jenis: Journal, Tahun: 2022, Tags: Android, rute terpendek, D* Lite, wi-fi fingerprinting, geomagnetic matching
+   Paper 12: Judul: Sistem Deteksi Reputasi Akun Seller Pada Steam Community Menggunakan Metode Klasifikasi Support Vector Machine, Jenis: Journal, Tahun: 2022, Tags: Analisis Sentimen, Steam Community, Support Vector Machine
+   Paper 13: Judul: Rancang Bangun Aplikasi Panggil Tukang Berbasis Android di Daerah Surabaya, Jenis: Journal, Tahun: 2022, Tags: Android, Pencari Jasa, Penyedia Jasa, Pembayaran, Surabaya.
+   Paper 14: Judul: Pembuatan Aplikasi Penyimpanan Password Menggunakan Metode Honey Encryption Pada Android, Jenis: Journal, Tahun: 2022, Tags: Kriptografi, password, Algoritma Honey Encryption
+   Paper 15: Judul: Pengamatan IP Cycling Pada VPN Menggunakan GRC Fingerprints dan DNSLeakTest, Jenis: Journal, Tahun: 2022, Tags: IP, VPN, GRC Fingerprints, DNSLeaktest, Keamanan VPN, Sertifikat
+   Paper 16: Judul: Deteksi Masker Wajah dengan Metode Convolutional Neural Network, Jenis: Journal, Tahun: 2022, Tags: Convolutional Neural Network, SSD Resnet, VGGNet
+   Paper 17: Judul: Implementasi dan Analisa Snort dan Suricata Sebagai IDS dan IPS Untuk Mencegah Serangan DOS dan DDOS, Jenis: Journal, Tahun: 2022, Tags: IDS, IPS,DDOS,DOS
+   Paper 18: Judul: Sistem Aplikasi Pada Multi Channel Power Socket Untuk Pengukuran Daya Pada Kompleks Ruko Dan Apartemen, Jenis: Journal, Tahun: 2022, Tags: Aplikasi Monitoring, Energi Listrik, Kontrol jarak jauh, IoT
+   Paper 19: Judul: Analisis perbandingan keakuratan deteksi serangan dan efisiensi pemakaian CPU resources dari tools pendeteksi serangan SNORT dan SURICATA yang di pasang di web server, Jenis: Journal, Tahun: 2022, Tags:  Cybersecurity, Snort , Suricata, IDS
+   Paper 20: Judul: Simulasi Aplikasi untuk Mendeteksi dan Mencegah Serangan DDoS pada Jaringan Berbasis Software Defined Network, Jenis: Journal, Tahun: 2022, Tags:  Software Defined Network (SDN), IDS, IPS, DDoS, Mean Time To Detect, Mean Time To Respond
+   Paper 21: Judul: Implementasi internet of things pada sistem cathodic protection sebagai proteksi korosi besi beton, Jenis: Journal, Tahun: 2022, Tags: None
+   Paper 22: Judul: Sistem Pendeteksi Kebakaran dengan Arduino pada Gudang, Jenis: Journal, Tahun: 2021, Tags: Arduino, Wemos, Alarm Kebakaran 
+   Paper 23: Judul: Penerapan Microservices dan Amazon Elastic Container Service untuk Mendukung Scalability, Jenis: Journal, Tahun: , Tags: Amazon Elastic Container Service, microservices, scalability
+   Paper 24: Judul: Pencarian Rute Terpendek di dalam Mall menggunakan Lifelong Planning A* pada Android, Jenis: Journal, Tahun: , Tags: Android, rute terpendek, Lifelong Planning A*
+   Paper 25: Judul: Push Notification Pada Sistem Penjualan Tiket Workshop dan Event Menggunakan Firebase Cloud Messaging Berbasis Progressive Web Application, Jenis: Journal, Tahun: None, Tags: None
+   Paper 26: Judul: Pembuatan Konfigurasi SSL yang Aman untuk Diimplementasikan pada Apache dan Nginx, Jenis: Journal, Tahun: , Tags: konfigurasi SSL, Transport Layer Secure, Secure Socket Layer, Apache web server, Nginx web server, keamanan web
+   Paper 27: Judul: Custom Built of Smart Computing Platform for Supporting Optimization Methods and Artificial Intelligence Research: PakCarik: GPU-Accelerated Platform for AI Researches, Jenis: Journal, Tahun: , Tags: Artificial Intelligence, Machine Learning, Multi-objective Optimization, Graphics Processing Unit Accelerator, High Throughput Computing. 
+   Paper 28: Judul: Kombinasi Metode Partial Rank Correlation dan Flow Correlation Coefficient untuk Membedakan DDoS dengan Flash Crowds, Jenis: Journal, Tahun: None, Tags: None
+   Paper 29: Judul: Pengembangan Aplikasi DVR Driving dengan Fitur Remote Live Streaming dan Speedometer Berbasis Android, Jenis: Journal, Tahun: , Tags: DVR, Live streaming, Agora Video Broadcast, GPS, Speedometer
+   Paper 30: Judul: Penerapan Convolutional Neural Network untuk Klasifikasi Kanker Kulit Melanoma pada Dataset Gambar Kulit, Jenis: Journal, Tahun: , Tags: Convolutional neural network, transfer learning, Deep learning, skin lesion classification, Hair Removal, Ensemble neural network
+   Paper 31: Judul: Pengembangan Chrome Extension untuk Mengidentifikasi Phishing Website berdasarkan URL dengan Algoritma Random Forest, Jenis: Journal, Tahun: , Tags:  Phishing Website, Ensemble Learning, Flask, Chrome Extension.
+   Paper 32: Judul: Sistem Keamanan pada Kendaraan Bermotor Roda Dua dengan Arduino dan Android berbasis Suara, Jenis: Journal, Tahun: , Tags: Android, Arduino, Kendaraan bermotor roda dua, Sistem Keamanan, Suara.
+   Paper 33: Judul: Analisis Strategi Breakout dalam Pengambilan Keputusan Order Pada Trading Forex, Jenis: Journal, Tahun: None, Tags: None
+   Paper 34: Judul: Penerapan Konsep Marketplace pada Bisnis Laundry dengan menggunakan Framework Multiplatform Flutter, Jenis: Journal, Tahun: None, Tags: None
+   Paper 35: Judul: Penerapan Fuzzy pada Indikator Teknikal untuk Memprediksi Trend dan Manajemen Resiko pada Pasar Forex, Jenis: Journal, Tahun: , Tags: Forex, Logika Fuzzy, Prediksi Trend, Manajemen Resiko, Expert Advisor.
+   Paper 36: Judul: Aplikasi Notifikasi Telegram Untuk Mengetahui Trend Forex Trading Dengan Menggunakan Pola Japanese Candlestick, Jenis: Journal, Tahun: , Tags: Forex, Trading, Expert Advisor, Telegram, Japanese Candlestick
+   Paper 37: Judul: Implementasi Distributed Database Pada Learning Management System Menggunakan Platform Redhat Openshift, Jenis: Journal, Tahun: , Tags: Openshift, Distributed Database. MySQL Cluster
+   Paper 38: Judul: Aplikasi untuk Monitoring Jaringan IoT Menggunakan Algoritma Address Shuffling dengan HMAC, Jenis: Journal, Tahun: , Tags:  Internet Of Things, Wireless sensor network, Monitoring, Keamanan
+   Paper 39: Judul: Pengenalan Gambar Tempat Wisata Dengan Deep Local Feature Dan Support Vector Machine, Jenis: Journal, Tahun: , Tags: Pengenalan Gambar, Deep Local Feature, Support Vector Machine
+   Paper 40: Judul: Aplikasi monitoring aquarium untuk mengurangi tingkat kematian dengan menggunakan arduino, Jenis: Journal, Tahun: , Tags:  Arduino, internet, sistem monitoring aquarium
+   Paper 41: Judul: Pembuatan Aplikasi Pengiriman Berkas, Jenis: Journal, Tahun: , Tags: Pengiriman berkas, website, android
+   Paper 42: Judul: Pencatatan Skor Pertandingan Bulutangkis Menggunakan Arduino yang Dapat Dipantau via Aplikasi, Jenis: Journal, Tahun: , Tags: Papan skor, Arduino, Android
+   Paper 43: Judul: Aplikasi Rekomendasi Supplier Supermaket Greensmart dengan Metode Analytical Network Process, Jenis: Journal, Tahun: None, Tags: None
+   Paper 44: Judul: Implementasi Web Scraping untuk Pengumpulan Informasi Promo Makanan Menggunakan Klasifikasi Naïve Bayes, Jenis: Journal, Tahun: , Tags: Web Scraping, BeautifulSoup, Naïve Bayes, Promo Makanan
+   Paper 45: Judul: Inventory Control Application on Indonesia Small Medium Enterprises Using Smartphone, Jenis: Journal, Tahun: , Tags: Android-based application, inventory control process, stock out
+   Paper 46: Judul: , Jenis: Journal, Tahun: None, Tags: None
+   Paper 47: Judul: Stop hunt detection using indicators and expert advisors in the forex market, Jenis: Journal, Tahun: None, Tags: None
+   Paper 48: Judul: Comparative Analysis of NFS and iSCSI Protocol Performance on OpenStack Cinder Technology, Jenis: Journal, Tahun: , Tags: Cloud computing, iSCSI, NFS, OpenStack, OpenStack cinder, Persistent Storage
+   Paper 49: Judul: Combination of candlestick pattern and stochastic to detect trend reversal in forex market, Jenis: Konferensi, Tahun: 2019, Tags: Candlestick Pattern, Combination Method, Forex Prediction
+   Paper 50: Judul: Server scalability using kubernetes, Jenis: Konferensi, Tahun: , Tags: kubernetes, microservice server, scalability
+   Paper 51: Judul: Development of an android document management, Jenis: Journal, Tahun: 2019, Tags: None
+   Paper 52: Judul: Pembuatan Program Absensi Sidik Jari untuk Bagian Pergudangan PT. Puji Surya Indah, Jenis: Journal, Tahun: None, Tags: None
+   Paper 53: Judul: Aplikasi Android Untuk Backup dan Sinkronisasi File Menggunakan Amazon Web Services Simple Storage Service, Jenis: Journal, Tahun: , Tags: cloud storage, backup & restore, file synchronization, Amazon Web Services, Simple Storage Service
+   Paper 54: Judul: Implementasi Container Kubernetes untuk Mendukung Scalability, Jenis: Journal, Tahun: , Tags: Kubernetes, Container, Scalability
+   Paper 55: Judul: Analisis Perbandingan Kinerja Algoritma Load Balancer NGINX pada Studi Kasus PRS, Jenis: Journal, Tahun: None, Tags: None
+   Paper 56: Judul: Aplikasi Pengelola Tamu Wedding berbasis Mobile Android, Jenis: Journal, Tahun: , Tags: Aplikasi, Pernikahan, Android
+   Paper 57: Judul: Implementasi Indikator Pendeteksi Stophunt Pada Pasar Mata Uang Dengan Menggunakan Expert Advisor, Jenis: Journal, Tahun: , Tags: market structure, market maker, expert advisor, indicator
+   Paper 58: Judul: Sistem Pakar Rekomendasi Produk Makeup Berbasis Web dengan Metode Forward Chaining, Jenis: Journal, Tahun: , Tags:  forward chaining, makeup, sistem pakar, rekomendasi
+   Paper 59: Judul: Implementasi Post-Boot Package Installation pada OpenStack untuk Image berbasis Linux, Jenis: Journal, Tahun: , Tags: OpenStack, Cloud Computing, Virtual Machine, Automation, Installation, Package
+   Paper 60: Judul: Optimization of Computer Resources Using OpenStack Private Cloud, Jenis: Journal, Tahun: , Tags: Computer Resources, IaaS, OpenStack, Private Cloud
+   Paper 61: Judul: Sistem Pengontrol Penyiraman Tanaman dengan Menggunakan Arduino, Jenis: Journal, Tahun: , Tags: Arduino, Blynk, Tanaman
+   Paper 62: Judul: Analisis Perbandingan Kinerja Protokol NFS dan iSCSI pada Teknologi OpenStack Cinder, Jenis: Journal, Tahun: , Tags: Cloud computing, OpenStack, OpenStack cinder, persistent storage, Infrastructure as a Service, NFS, iSCSI
+   Paper 63: Judul: Aplikasi Mobile Untuk Sistem Presensi Dosen dan Karyawan Universitas Kristen Petra, Jenis: Journal, Tahun: , Tags: Presensi, Android, Firebase Cloud Messaging, Perhitungan Presensi
+   Paper 64: Judul: Implementasi pembuatan distro linux untuk keperluan laboratorium informatika, Jenis: Journal, Tahun: , Tags: Open Source, Linux, Distribusi, Remastering
+   Paper 65: Judul: Perancangan dan Pembuatan Automatic Pet Feeder Menggunakan Arduino dan Mobile Apps, Jenis: Journal, Tahun: , Tags: Pet Feeder, Arduino, and Android Application
+   Paper 66: Judul: Streaming Media Implementation in Moodle-Based E-Leaming Application, Jenis: Konferensi, Tahun: 2018, Tags: Darwin Streaming Server, e-learning, Moodle 
+   Paper 67: Judul: IoT based water level control system, Jenis: Konferensi, Tahun: , Tags: Arduino ESP, Internet of Things, IoT, Microcontroller, Water level control
+   Paper 68: Judul: Private cloud storage implementation using OpenStack Swift, Jenis: Konferensi, Tahun: , Tags: cloud, distributed system, infrastructure as a service, OpenStack Swift, OpenStack, paralel computing, private cloud storage
+   Paper 69: Judul: Audit Information System Using Framework COBIT 4.1 (With Domain Monitor and Evaluate) At Samudera Indonesia Company, Jenis: Journal, Tahun: None, Tags: None
+   Paper 70: Judul: Pembuatan Aplikasi Kegiatan Warga Pada RT 06 RW 06 Kelurahan Airlangga Berbasis Android, Jenis: Journal, Tahun: , Tags: Surat, Kegiatan warga, Aplikasi, Android
+   Paper 71: Judul: Audit Sistem Informasi Sumber Daya Manusia Pada Perusahaan Elektronika di Surabaya, Jenis: None, Tahun: None, Tags: None
+   Paper 72: Judul: Simulasi dan Pembelajaran Routing Protocol dengan Metode EIGRP IPv4 untuk Mahasiswa Berbasis Web, Jenis: , Tahun: , Tags:  Routing Protocol, EIGRP.
+   Paper 73: Judul: Aplikasi Manajemen Jaringan Berbasis Software Defined Networking, Jenis: None, Tahun: None, Tags: None
+   Paper 74: Judul: Audit Sistem Informasi Menggunakan Framework COBIT 4.1 (Dengan Domain Monitor and Evaluate) Pada PT. Samudera Indonesia Tbk, Jenis: , Tahun: , Tags: Audit Sistem Informasi, COBIT 4.1, Monitor and Evaluate
+   Paper 75: Judul: Implementasi Streaming Media untuk E-learning pada Aplikasi Moodle, Jenis: , Tahun: , Tags: Darwin Streaming Server, Moodle, e-learning
+   Paper 76: Judul: Pembuatan Aplikasi untuk Pengaturan Jasa Service Sepeda Motor Pada Toko X, Jenis: None, Tahun: None, Tags: None
+   Paper 77: Judul: Analisa Keamanan Sistem Informasi RSUD Dr. Soetomo Dengan Framework COBIT, Jenis: None, Tahun: None, Tags: None
+   Paper 78: Judul: Aplikasi Security Camera Untuk Mobil Berbasis Android Dan Raspberry Pi, Jenis: , Tahun: , Tags: Security Camera, Car Security Camera, Android, Raspberry Pi, Python, OpenCV, Motion Detection, Google Firebase, Live Streaming
+7. Nama Dosen Pembimbing UK Petra: Tanti Octavia, S.T., M.Eng.
+   Jadwal Bimbingan: Senin 15.30 - 17.30, Selasa 15.30 - 17.30
+   Paper 1: Judul: Museum interactive information broadcasting using indoor positioning system and Bluetooth low energy: A pilot project on Trowulan museum Indonesia, Jenis: Konferensi, Tahun: 2018, Tags: Internet of Things, RFID, Infoor Positioning System, Bluetooth
+   Paper 2: Judul: Dengue fever outbreak prediction in Surabaya using a geographically weighted regression, Jenis: Konferensi, Tahun: 2019, Tags: Dengue Fever Outbreak, Geographically Weighted Regression, Global Moran I Statisctics, Local Moran Statistics, Locally Parameters Estimate
+   Paper 3: Judul: Indoor positioning system using BLE beacon to improve knowledge about museum visitors, Jenis: Journal, Tahun: 2020, Tags: Bluetooth Low Energy, Indoor Positioning System, Mobile Phone
+   Paper 4: Judul: Tabu search sebagai local search pada algoritma ant colony untuk penjadwalan flowshop, Jenis: Journal, Tahun: 2009, Tags: Artificial Intelligence, Ant Colony Optimization
+   Paper 5: Judul: Penerapan Artificial Neural Network dan Rule Based Classifier untuk Mengklasifikasikan Pendonor Darah Potensial pada Sistem Broadcast Pendonor, Jenis: Journal, Tahun: 2022, Tags: Artificial Neural Network, Rule Based Classifier, Sistem Rekomendasi, Donor Darah
+   Paper 6: Judul: Perbandingan Algoritma Simulated Annealing dan Harmony Search dalam Penerapan Picking Order Sequence, Jenis: Journal, Tahun: 2017, Tags: Picking order sequence, simulated annealing, harmony search.
+   Paper 7: Judul: Spatial multi-layer perceptron model for predicting dengue fever outbreaks in Surabaya, Jenis: Journal, Tahun: 2020, Tags: Spatial, Multilayer Perceptron, Dengue Fever Outbreak
+   Paper 8: Judul: Statistical learning for predicting dengue fever rate in Surabaya, Jenis: Journal, Tahun: 2020, Tags: Global Moran I statistics, local Moran I statistics, regression, spatial regression, geographically weighted regression.
+   Paper 9: Judul: Robust-Hybrid Genetic Algorithm for a Flow-Shop Scheduling Problem (A Case Study at PT FSCM Manufacturing Indonesia), Jenis: Journal, Tahun: 2007, Tags: Robust Genetic Algorithm, Hybrid Genetic Algorithm
+   Paper 10: Judul: Algoritma Goal Programming untuk Driver Assignment pada Simulasi Taksi Online, Jenis: Journal, Tahun: 2022, Tags: Goal Programming, Hungarian Algorithm, Online Taxi, Assignment
+8. Nama Dosen Pembimbing UK Petra: Yusak Tanoto, S.T., M.Eng., Ph.D.
+   Jadwal Bimbingan: Rabu 13.30 - 15.30, Kamis 13.30 - 15.30
+9. Nama Dosen Pembimbing UK Petra: Ivan Unknown
+   Jadwal Bimbingan: Jumat 8.30 - 10.30, Sabtu 8.30 - 10.30
+10. Nama Dosen Pembimbing UK Petra: Krisna Unknown
+   Jadwal Bimbingan: Senin 15.30 - 17.30, Selasa 15.30 - 17.30
+11. Nama Dosen Pembimbing UK Petra: I Gede Agus Widyadana, S.T., M.Eng., PH.D.
+   Jadwal Bimbingan: Rabu 13.30 - 15.30, Kamis 13.30 - 15.30
+   Paper 1: Judul: Optimization of the multi-objective green cyclical inventory routing problem using discrete multi-swarm PSO method, Jenis: Journal, Tahun: 2018, Tags: Multi Objective Green Cyclic Inventory Routing Problem, Particle Swarm Optimization
+   Paper 2: Judul: Economic order quantity model for deteriorating items with planned backorder level, Jenis: Journal, Tahun: 2011, Tags: Economic Order Quantity
+   Paper 3: Judul: Revisiting lot sizing for an inventory system with product recovery, Jenis: Journal, Tahun: 2010, Tags: Lot Sizing, Rework, Algebraic Approach
+   Paper 4: Judul: A constrained multi-products EPQ inventory model with discrete delivery order and lot size, Jenis: Journal, Tahun: 2014, Tags: Economic Production Quantity, Mized Integer Non Linear Problem
+   Paper 5: Judul: A production model for deteriorating items with stochastic preventive maintenance time and rework process with FIFO rule, Jenis: Journal, Tahun: 2013, Tags: First in First Out, EPQ
+12. Nama Dosen Pembimbing UK Petra: Dr. Roy Setiawan, S.Kom., M.M., M.SM., M.Th.
+   Jadwal Bimbingan: Jumat 8.30 - 10.30, Sabtu 8.30 - 10.30
+   Paper 1: Judul: Application of Artificial Intelligence powered digital writing assistant in higher education: randomized controlled trial, Jenis: Journal, Tahun: 2021, Tags: Artificial Intelligence, Automated writing evaluation, L2 writing, Feedback, Pedagogy, ESL, Formative assessment
+   Paper 2: Judul: Small and medium‑sized enterprises’ contribution in digital technology, Jenis: Research, Tahun: 2021, Tags: Small and Medium Enterprises, Digitalization, Customer Relationship Management
+   Paper 3: Judul: Closed-loop supply chain network design with sustainability and resiliency criteria, Jenis: Journal, Tahun: 2021, Tags: Supply Chain Network Design
+   Paper 4: Judul: An educational tool for enhanced mobile e-Learning for technical higher education using mobile devices for augmented reality, Jenis: Journal, Tahun: 2021, Tags: Augmented Reality, Smart Devices, Mobile E-Learning, Technical Higher Education
+   Paper 5: Judul: The artificial intelligence and inventory effect on banking industrial performance, Jenis: Journal, Tahun: 2021, Tags: Artificial Intelligence, Industrial Performance, FInancial Efficiency, Intelect Artificial, Inventory Management, Management Compentencies, Technological Skills
+   Paper 6: Judul: Surface tension of binary mixtures containing environmentally friendly ionic liquids: insights from artificial intelligence, Jenis: Journal, Tahun: 2021, Tags: Artificial Neural Network, Teaching-Learning-Based Optimization, Particle Swarm Optimization, Genetic Algorithm, Imperialist Competitive Algorithm
+   Paper 7: Judul: IoT based virtual E-learning system for sustainable development of smart cities, Jenis: Journal, Tahun: 2022, Tags: Internet of Things, Smart Cities, Smart e-learning Tools, Virtual Reality
+   Paper 8: Judul: Sustainable closed-loop mask supply chain network design using mathematical modeling and a fuzzy multi-objective approach, Jenis: Journal, Tahun: 2021, Tags: mask supply chain, sustainable supply chain network design, closed-loop supply chain, fuzzy optimization approach, environmental effects, social responsibility
+   Paper 9: Judul: Certain investigation of fake news detection from facebook and twitter using artificial intelligence approach, Jenis: Journal, Tahun: 2022, Tags: Natural Language Processing, Hybrid SVM, Machine Learning, Fake News
+   Paper 10: Judul: Toward estimating standard enthalpy of combustion of pure chemical compounds: extreme learning machine approach, Jenis: Journal, Tahun: 2021, Tags: Extreme Learning Machine, Exprimental Data Collection, Extreme Learning Machine
+13. Nama Dosen Pembimbing UK Petra: Dr. Ing. Indar Sugiarto, S.T., M.Sc.
+   Jadwal Bimbingan: Senin 15.30 - 17.30, Selasa 15.30 - 17.30
+   Paper 1: Judul: BCI Demographics: How many (and what kinds of) people can use an SSVEP BCI?, Jenis: Konferens, Tahun: 2008, Tags: Electroencephalography, Neuroimaging, Communication System Control, Brain Computer Interface, Demographics, Steady-State Visual Evoked Potential
+   Paper 2: Judul: Optimization strategy for SSVEP-based BCI in spelling program application, Jenis: Konferens, Tahun: 2009, Tags: Brain-Computer Interface, EEG, SSVEP, spelling program
+   Paper 3: Judul: Human voice emotion identification using prosodic and spectral feature extraction based on deep neural networks, Jenis: Konferens, Tahun: 2019, Tags: Neural Network, Deep Neural Network, Spectral Features, Prosodic Features, Spectral Feature Extraction, Convolutional Neural Network, Artificial Neural Network.
+   Paper 4: Judul: Building a spiking neural network model of the basal ganglia on spinnaker, Jenis: Journal, Tahun: 2018, Tags: Action selection, basal ganglia, biologically-inspired neural network, Izhikevich neuron model, neuromorphic, SpineCreator, SpineML, SpiNNaker.
+   Paper 5: Judul: High performance computing on spinnaker neuromorphic platform: A case study for energy efficient image processing, Jenis: Konferens, Tahun: 2016, Tags: Spiking Neural Network Architecture, Image Processing, Neuromorphic, High Performance Computing
+   Paper 6: Judul: Spelling with the Bremen brain-computer interface and the integrated SSVEP stimulator, Jenis: Journal, Tahun: 2016, Tags: Brain-Computer Interface, Steady-State Visual Evoked Potential
+   Paper 7: Judul: Display optimization in SSVEP BCIs, Jenis: Journal, Tahun: 2008, Tags: Brain-Computer Interface, Steady-State Visual Evoked Potential
+   Paper 8: Judul: Klasifikasi Motif Batik menggunakan metode Deep Convolutional Neural Network dengan Data Augmentation, Jenis: Journal, Tahun: 2020, Tags: Convolutional Neural Network, CNN Residual Network
+   Paper 9: Judul: A spiking neural network model of the lateral geniculate nucleus on the SpiNNaker machine, Jenis: Journal, Tahun: 2017, Tags: Spiking Neural Network
+   Paper 10: Judul: A model-based approach to robot kinematics and control using discrete factor graphs with belief propagation, Jenis: Journal, Tahun: 2017, Tags: Robotics, Model-Based Approach, Factor Graph, Robot Kinematics
+   Paper 11: Judul: Disain dan Implementasi Modul Akuisisi Data sebagai Alternatif Modul DAQ LabVIEW, Jenis: Journal, Tahun: 2008, Tags: acquisition data system, microcontroller, AVR, LabVIEW, signal conditioner circuit, instrumentation
+14. Nama Dosen Pembimbing UK Petra: Prof. Dr.Eng., Ir. Rolly Intan, M.A.Sc.
+   Jadwal Bimbingan: Rabu 13.30 - 15.30, Kamis 13.30 - 15.30
+   Paper 1: Judul: Fuzzy functional dependency and its application to approximate data querying, Jenis: Konferens, Proceedings, Tahun: 2000, Tags: Fuzzy, FFD (Fuzzy Functional Dependency) ,Data Querying
+   Paper 2: Judul: Generalized fuzzy rough sets by conditional probability relations, Jenis: Journal, Tahun: 2002, Tags: Pattern Recognition, Artificial Intelligence
+   Paper 3: Judul: Hard: Subject-based search engine menggunakan tf-idf dan jaccard s coefficient, Jenis: Journal, Tahun: 2006, Tags: HARD (High Accuracy Retrieval from Documents), Tf-Idf (Term Frequency Inverse Document Frequency), koefisien Jaccard, search engine, himpunan fuzzy.
+   Paper 4: Judul: Conditional probability relations in fuzzy relational database, Jenis: Konferens, Tahun: 2001, Tags: Fuzzy, Probability Relations, Relational Database
+   Paper 5: Judul: Fuzzy conditional probability relations and their applications in fuzzy information systems, Jenis: Journal, Tahun: 2004, Tags: Fuzzy, Fuzzy Conditional Probability Relations, Fuzzy Information Systems
+   Paper 6: Judul: Sistem rekomendasi mata kuliah pilihan menggunakan metode user based collaborative filtering berbasis algoritma adjusted cosine similarity, Jenis: Journal, Tahun: 2019, Tags: Adjusted Cosine Similarity
+   Paper 7: Judul: Generalization of rough sets with α-coverings of the universe induced by conditional probability relations, Jenis: Konferensi, Tahun: 2001, Tags: Artificial Intelligence, α-coverings, Fuzzy Similarity Relation,Conditional Probability Relations
+   Paper 8: Judul: A proposal of fuzzy multidimensional association rules, Jenis: Journal, Tahun: 2006, Tags: Multidimensional Association rules, Inter- dimension Association Rules, Data Mining, Fuzzy Sets.
+   Paper 9: Judul: On knowledge-based fuzzy sets, Jenis: Journal, Tahun: 2002, Tags: Knowledge-based Fuzzy Set, Approximate 
+Reasoning, Conditional Probability Relation, 
+Objectivity Measure, Individuality Measure.
+   Paper 10: Judul: Degree of similarity in fuzzy partition, Jenis: Konferens, Tahun: 2002, Tags: Fuzzy
+   Paper 11: Judul: Indonesian automated text summarization, Jenis: Journal, Tahun: 2007, Tags: Automated Text Summarization, Exhaustive Dijkstra's Algorithm
+   Paper 12: Judul: Implementasi Fuzzy expert system untuk analisa penyakit dalam pada manusia, Jenis: Journal, Tahun: 2008, Tags: Fuzzy Expert System, Gejala, penyakit, forward chaining, backward chaining, fuzzy set, fuzzy, knowledge based
+   Paper 13: Judul: Application of conditional probability in constructing fuzzy functional dependency, Jenis: Book, Tahun: 2015, Tags: Fuzzy, Fuzzy Functional Dependency
+15. Nama Dosen Pembimbing UK Petra: Ir. Djoni Haryadi Setiabudi, M.Eng.
+   Jadwal Bimbingan: Jumat 8.30 - 10.30, Sabtu 8.30 - 10.30
+   Paper 1: Judul: Implementasi IoT Fertigation di Urban Farming Alam Sari PPPK Petra, Jenis: Jurnal, Tahun: 2024, Tags: Hidroponik, Fertigation, Nutrisi, Urban Farming, IoT
+   Paper 2: Judul: Marketplace based application system to improve customer satisfaction on laundry business, Jenis: Konferensi, Tahun: 2024, Tags: -
+   Paper 3: Judul: Smart Home with Energy Saving Using Demand Side Management Through Particle Swarm Optimization and Home Assistant, Jenis: Konferensi, Tahun: 2023, Tags: Demand side management, Energy conservation, Smart homes, Switches, Energy efficiency, Power systems, Internet of Things
+   Paper 4: Judul: Detection of Click Bait and Fake News in Online News Using Neural Network Long Short Term Memory (LSTM), Jenis: Konferensi, Tahun: 2023, Tags: Neural Network, Short-term Memory, Long Short-term Memory, Fake News, Long Short-term Memory Network, Online News, Misinformation, Short-term Memory Network, Al Jazeera, Machine Learning, Training Data, Deep Learning, Learning Algorithms, Convolutional Neural Network, Artificial Neural Network, Random Forest, Decision Tree, Machine Learning Methods, F1 Score, Text Data, Graph Neural Networks, Fake Data, Layer Model, Common Words, Word2vec Model, Dropout Layer, Feed-forward Layer, Model Training Process, Invalid Data, Detection Process
+   Paper 5: Judul: Effect of Students’ Activities on Academic Performance Using Clustering Evolution Analysis, Jenis: Article, Tahun: 2023, Tags: Students’ Activities, Academic Performance, Clustering Evolution Analysis
+   Paper 6: Judul: Aplikasi Moblie Learning untuk Meningkatkan Interaksi Pembelajaran dalam Mendukung Penyerapan Materi Pembinaan UMKM oleh LPPM Universitas Kristen Petra dengan Menerapkan Model Learning Group, Jenis: Jurnal, Tahun: 2022, Tags: Collaborative Mobile Learning; Mobile Application; MSME; Flutter; Learning group.
+   Paper 7: Judul: Game RPG Berbasis Android untuk Mendorong Pengguna Berolahraga, Jenis: Jurnal, Tahun: 2022, Tags: exercise; android; accelerometer; game; RPG; calories; MET
+   Paper 8: Judul: Analisis Sentimen Dari Keywords Yang Dimasukan Pengguna Di Twitter Indonesia Untuk Penunjang Pembelajaran Strategi Komunikasi Di Program Studi Ilmu Komunikasi Universitas Kristen Petra Dengan Metode Cnn-Bidirectional Lstm, Jenis: Jurnal, Tahun: 2022, Tags: sentiment analysis; CNN-BILSTM; Communication Science Major in Petra Christian University; Twitter
+   Paper 9: Judul: Sistem Pakar Diagnosa Penyakit Ikan Arwana dengan Menentukan Tingkat Kualitas Air Menggunakan Forward Chaining dan Simple Additive Weighting, Jenis: Jurnal, Tahun: 2022, Tags: expert system; Forward Chaining; Simple Additive Weighting; diagnosis of arwana fish disease; suitability of water quality in arwana
+16. Nama Dosen Pembimbing UK Petra: Dr. Gregorius Satia Budhi, S.T., M.T.
+   Jadwal Bimbingan: Senin 15.30 - 17.30, Selasa 15.30 - 17.30
+   Paper 1: Judul: Clustering-based assessment of solar irradiation and temperature attributes for PV power generation site selection: A case of Indonesia s Java-Bali region, Jenis: Jurnal, Tahun: 2024, Tags: Clustering; solar PV; site selection; solar attributes; long-term
+   Paper 2: Judul: Topic Modelling and Density-based Clustering for Opinion Anomaly Detection on Forum Discussion Transcript, Jenis: Artikel, Tahun: 2024, Tags: Unsupervised learning, Topic Modelling, Density-based Clustering, Text Anomaly Detection
+   Paper 3: Judul: Detecting signs of depression using social media texts through an ensemble of ensemble classifiers, Jenis: Jurnal, Tahun: 2024, Tags: Depression detection, social media, ensemble models, machine learning
+   Paper 4: Judul: Time Series Forecasting for Daily to Monthly Temporal Hourly-based Solar PV Output Power, Jenis: Konferensi, Tahun: 2023, Tags: Machine learning algorithms, Time series analysis, Predictive models, Forecasting
+   Paper 5: Judul: Framework and Clustering Dashboard for Analysing Temporal-Based Parameters of Solar PV Output Model, Jenis: Konferensi, Tahun: 2023, Tags: Machine learning, framework, time series, Clustering, Analytical models, Temperature distributions, Photovoltaic systems
+   Paper 6: Judul: A Multi-type Classifier Ensemble for Detecting Fake Reviews Through Textual-based Feature Extraction, Jenis: Jurnal, Tahun: 2023, Tags: Computing methodologies, Machine learning, Feature Extraction, Multi-type Classifier, Text-based
+   Paper 7: Judul: Sistem Suggestion dengan Metode TOPSIS untuk Meningkatkan Keberhasilan Serious Game Greenlife Town, Jenis: Jurnal, Tahun: 2022, Tags: renewable energy; serious game; suggestion system; TOPSIS
+   Paper 8: Judul: Penerapan Machine Learning dalam mendeteksi Fake Account pada Instagram, Jenis: Jurnal, Tahun: 2022, Tags: Fake Account, Fraud, Cyberbullying, Platform, Social Media, Machine Learning
+   Paper 9: Judul: Aplikasi War Game Pada Mobile Device Menggunakan Sensor Gyroscope Dan Accelerometer, Jenis: Jurnal, Tahun: 2022, Tags: Android; Gyroscope; Accelerometer; War Game.
+   Paper 10: Judul: A multiobjective evolutionary algorithm for achieving energy efficiency in production environments integrated with multiple automated guided vehicles, Jenis: Jurnal, Tahun: 2022, Tags: Energy efficiency, Automated guided vehicles (AGVs), Multiobjective scheduling, Evolutionary algorithm (EMOEA), Taguchi analysis.
+17. Nama Dosen Pembimbing UK Petra: Ir. Kartika Gunadi, M.T.
+   Jadwal Bimbingan: Rabu 13.30 - 15.30, Kamis 13.30 - 15.30
+18. Nama Dosen Pembimbing UK Petra: Yulia, S.T., M.Kom.
+   Jadwal Bimbingan: Jumat 8.30 - 10.30, Sabtu 8.30 - 10.30
+   Paper 1: Judul: Feasibility Study of Outcome-Based Education Information System in Indonesia: A Survey-based Approach, Jenis: Konferensi, Tahun: 2023, Tags: Outcome-based Education, Information system, Higher Education, Learning Outcomes, Survey-based Approach.
+   Paper 2: Judul: Realistic influence maximization based on followers score and engagement grade on Instagram, Jenis: Jurnal, Tahun: 2021, Tags: Diffusion model; Influence maximization; Information diffusion; Instagram; Social network
+   Paper 3: Judul: The Application of Blockchain in Supply Chain Industry, Jenis: Jurnal, Tahun: 2021, Tags: Predicting student performance in higher education using multi-regression models
+   Paper 4: Judul: Predicting student performance in higher education using multi-regression models, Jenis: Jurnal, Tahun: 2020, Tags: Data mining, Education, Multi-regression, Prediction
+19. Nama Dosen Pembimbing UK Petra: Henry Novianus Palit, S.Kom., M.Kom., Ph.D.
+   Jadwal Bimbingan: Senin 15.30 - 17.30, Selasa 15.30 - 17.30
+   Paper 1: Judul: The Freelancer Application: A Gateway to Job-Seeking Opportunities for Students, Jenis: Konferensi, Tahun: 2023, Tags: Mobile applications, Software Testing, Freelance Work, e-business, Marketplace.
+   Paper 2: Judul: Pelatihan Metode Computational Thinking melalui Pemrograman Menggunakan Scratch untuk Siswa Sekolah Dasar, Jenis: Jurnal, Tahun: 2023, Tags: algoritma, berpikir komputasi, pemrograman Scratch
+   Paper 3: Judul: Multi-population symbiotic organisms search algorithm for solving the construction resource leveling problem, Jenis: Jurnal, Tahun: 2023, Tags: Resource leveling, Metaheuristic methods, Symbiotic organism’s search (SOS), Construction scheduling, Genetic algorithm (GA)
+   Paper 4: Judul: Pengaruh Feature Selection terhadap Kinerja C5. 0, XGBoost, dan Random Forest dalam Mengklasifikasikan Website Phishing, Jenis: Jurnal, Tahun: 2022, Tags: Feature Selection, Website Phishing, Random Forest, C5.0, XGBoost
+   Paper 5: Judul: Prediksi Peringkat Mingguan Lagu Pada Spotify Amerika Serikat Menggunakan Multiple Charts Dataset Dengan Berbagai Metode, Jenis: Jurnal, Tahun: 2022, Tags: Spotify; hit song science; ranking prediction; multiple linear regression; polynomial regression; gradient boosting tree; random forest
+   Paper 6: Judul: Game RPG Berbasis Android untuk Mendorong Pengguna Berolahraga, Jenis: Jurnal, Tahun: 2022, Tags: exercise; android; accelerometer; game; RPG; calories; MET
+   Paper 7: Judul: Penerapan Linguistic Inquiry and Word Count dan Random Forest Dalam Klasifikasi Personality Berdasarkan Data Posting Twitter Sehingga Dapat Ditentukan Gaya Belajar yang Sesuai, Jenis: Jurnal, Tahun: 2022, Tags: Big Five Personality; Random Forest; LIWC; personality; academic; online test; Linguistic Inquiry; Word Count; Random Forest
+   Paper 8: Judul: Sales Forecasting pada Dealer Motor X Dengan LSTM, ARIMA dan Holt-Winters Exponential Smoothing, Jenis: Jurnal, Tahun: 2022, Tags: forecasting; sales forecasting; LSTM; ARIMA; HoltWinters; exponential smoothing
+   Paper 9: Judul: Analisis Sentimen Mahasiswa di Surabaya Terhadap Pelayanan Vaksinasi COVID-19 Menggunakan Beberapa Classifier, Jenis: Jurnal, Tahun: 2022, Tags: sentiment analysis; text classification; vaccination; COVID-19; naïve bayes; SVM; random forest; LGBM
+20. Nama Dosen Pembimbing UK Petra: Anita Nathania Purbowo, S.Kom.,M.MT.
+   Jadwal Bimbingan: Rabu 13.30 - 15.30, Kamis 13.30 - 15.30
+21. Nama Dosen Pembimbing UK Petra: Rudy Adipranata, S.T, M.Eng.
+   Jadwal Bimbingan: Jumat 8.30 - 10.30, Sabtu 8.30 - 10.30
+   Paper 1: Judul: Sistem Presensi Mahasiswa Menggunakan Face Recognition Dengan Metode Facenet Pada Android, Jenis: Jurnal, Tahun: 2022, Tags: attendance system; facial recognition; Facenet; L2Norm; Cosine Similarity; Cloud Firestore
+   Paper 2: Judul: Penerapan Inventory Control untuk Meningkatkan Cost Efficiency pada Perusahaan Distributor PT. Y, Jenis: Jurnal, Tahun: 2022, Tags: System administration; Economic Order Quantity; Reorder Point; Safetystock
+   Paper 3: Judul: Penerapan Metode Klasifikasi C4. 5 dalam Pembuatan Website Identifikasi untuk Prediksi Kredibilitas Akun pada Media Sosial Instagram, Jenis: Jurnal, Tahun: 2021, Tags: Klasifikasi C4.5, akun Instagram, Confusion
+Matrix
+   Paper 4: Judul: Pengenalan Penyakit Pada Tanaman Pokok di Indonesia Dengan Metode Convolutional Neural Network, Jenis: Jurnal, Tahun: 2021, Tags: CNN
+   Paper 5: Judul: Implementasi Sistem Pakar Deteksi Dini Resiko Penyakit Jantung Koroner Menggunakan Metode Backward Chaining dan Certainty Factor pada Android, Jenis: Jurnal, Tahun: 2021, Tags: Penyakit jantung koroner, Backward chaining, Certainty factor, Deteksi dini, Sistem pakar.
+   Paper 6: Judul: Pengelolaan Keuangan Pribadi yang Interaktif Berbasis Android, Jenis: Jurnal, Tahun: 2021, Tags: Teknologi, Android, Aplikasi keuangan pribadi, Speech to text, Transaksi berulang.
+22. Nama Dosen Pembimbing UK Petra: Prof. Dr.rer.nat. Siana Halim, S.Si., M.Sc.nat.
+   Jadwal Bimbingan: Senin 15.30 - 17.30, Selasa 15.30 - 17.30
+   Paper 1: Judul: Simulasi Antrean Bongkar Material Soybean Meal: Sebuah Studi Kasus, Jenis: Jurnal, Tahun: 2024, Tags: Soybean meal; transportation; resource utilization; Simulation; Promodel
+   Paper 2: Judul: Exploring the Influence of Gamified Digital Learning on Student Engagement and Learning: A Case Study on Using Interactive Comics to Study Pancasila, Jenis: Jurnal, Tahun: 2024, Tags: Digital Immersion, Pancasila, Reading Habits, Machine Learning
+   Paper 3: Judul: Hierarchy of End-of-use Options: Smartphones Reuse to Support Online Learning During COVID-19 Pandemic in Indonesia, Jenis: Paper, Tahun: 2024, Tags: NULL
+   Paper 4: Judul: Prediction of bullish and bearish candlestick signals movement on forex using random forest and multilayer perceptron, Jenis: Konferensi, Tahun: 2024, Tags: Random forest, Multilayer Perceptron, Artificial Neural Network
+   Paper 5: Judul: Evaluation of Covid-19 vaccine effectiveness in handling the Covid-19 pandemic in the city of Surabaya with a dynamic system simulation approach using vensim PLE, Jenis: Konferensi, Tahun: 2024, Tags: NULL
+23. Nama Dosen Pembimbing UK Petra: Lily Puspa Dewi, S.T., M.Kom.
+   Jadwal Bimbingan: Rabu 13.30 - 15.30, Kamis 13.30 - 15.30
+   Paper 1: Judul: The Freelancer Application: A Gateway to Job-Seeking Opportunities for Students, Jenis: Article, Tahun: 2023, Tags: e-business,freelancer,marketplace,mobile application,part time job
+   Paper 2: Judul: Pelatihan Metode Computational Thinking melalui Pemrograman Menggunakan Scratch untuk Siswa Sekolah Dasar, Jenis: Jurnal, Tahun: 2023, Tags: algoritma, berpikir komputasi, pemrograman Scratch
+   Paper 3: Judul: Kajian Early Warning System Untuk Banjir Studi Kasus di Kenjeran Surabaya, Jenis: Jurnal, Tahun: 2023, Tags: EWS, Flood, water level, disaster system
+   Paper 4: Judul: EFEKTIVITAS E-MODUL BERBASIS CATUR PRAMANA PADA PEMBELAJARAN IPA UNTUK MENINGKATKAN HASIL BELAJAR, Jenis: Jurnal, Tahun: 2023, Tags: E-modul; Catur Pramana; IPA
+   Paper 5: Judul: Utilization of the Agora video broadcasting library to support remote live streaming, Jenis: Jurnal, Tahun: 2023, Tags: Agora Video SDK, Live Streaming, Remote Broadcasting, Real-time Communication
+
+
+
+
+
+
+
+
+   Paper 6: Judul: Android Based Remote Driving for Real Time Vehicle Monitoring, Jenis: Paper, Tahun: 2023, Tags: Remote Driving, Real-time Vehicle Monitoring, Android Application, Teleoperation
+   Paper 7: Judul: Prototype Website Monitoring Parameter Energi Listrik pada Gedung A, B, C, D, & I di UK PETRA, Jenis: Jurnal, Tahun: 2023, Tags: Prototype, Regresi, Website, Energi Listrik, UK Petra.
+   Paper 8: Judul: Aplikasi Sistem Informasi Praktikum pada Program Studi Informatika Universitas Kristen Petra Berbasis Website, Jenis: Jurnal, Tahun: 2022, Tags: sistem informasi praktikum, kelas praktikum, peringatan, lowongan
+   Paper 9: Judul: Rancang Bangun Aplikasi Panggil Tukang Berbasis Android di Daerah Surabaya, Jenis: Jurnal, Tahun: 2022, Tags: Android, Pencari Jasa, Penyedia Jasa, Pembayaran, Surabaya.
+   Paper 10: Judul: Website Human Resource Information System Dengan Fitur Pengukuran Efektivitas Kinerja Karyawan Pada PT. Deus Digital Transformasi Universal, Jenis: Jurnal, Tahun: 2022, Tags: Sistem Informasi, Sistem Pendukung Keputusan, Sumber Daya Manusia, Analytical Hierarchy Process, Manajemen Sumber Daya Manusia
+   Paper 11: Judul: Aplikasi Self Management untuk Mencatat Jadwal Kegiatan Dengan Speech to Text Menggunakan Google API Berbasis Android, Jenis: Jurnal, Tahun: 2022, Tags: suara ke text, manajemen diri, aplikasi android, Google API, Google Speech API
+   Paper 12: Judul: Implementasi Locally Adaptive K-Nearest Neighbor Algorithm based on Discrimination Class (DC-LAKNN) pada Kasus Deteksi Fake Account Instagram, Jenis: Jurnal, Tahun: 2022, Tags: DC-LAKNN, KNN, deteksi akun Instagram, kelas diskriminasi, klasifikasi
+   Paper 13: Judul: SISTEM PENDUKUNG KEPUTUSAN PELATIHAN KARYAWAN DENGAN METODE PIPRECIA-EDAS, Jenis: Jurnal, Tahun: 2022, Tags: Sistem Pendukung Keputusan, PIPRECIA, EDAS
+   Paper 14: Judul: Fault Tolerance pada Microservice Architecture dengan Circuit Breaker dan Bulkhead Pattern, Jenis: Jurnal, Tahun: 2022, Tags: Microservice architecture, circuit breaker, bulkhead pattern
+   Paper 15: Judul: Implementasi Algoritma AES, ElGamal, dan SHA3 untuk Keamanan File Digital, Jenis: Jurnal, Tahun: 2021, Tags: algoritma AES, algoritma ElGamal. algoritma SHA3, enkripsi, keamanan, berkas elektronik
+   Paper 16: Judul: Aplikasi Human Resource Information System dengan Fitur Sistem Pendukung Keputusan (Studi Kasus PT. Industri Kreatif Digital, Jenis: Jurnal, Tahun: 2021, Tags: human resource information system, sistem pendukung keputusan, metode PIPRECIA, metode EDAS
+   Paper 17: Judul: Pembuatan Konfigurasi SSL yang Aman untuk Diimplementasikan pada Apache dan Nginx, Jenis: Jurnal, Tahun: 2021, Tags: konfigurasi SSL, Transport Layer Secure, Secure Socket Layer, Apache web server, Nginx web server, keamanan web
+   Paper 18: Judul: Sistem Informasi Akademik Berbasis Web untuk Mendukung Pembelajaran Jarak Jauh di SD Anak Bangsa, Jenis: Jurnal, Tahun: 2021, Tags: sitem informasi akademik, pembelajaran jarak jauh
+   Paper 19: Judul: Penerapan Metode Resource Loaded Scheduling Untuk Aplikasi Manajemen Proyek Pada Perusahaan Kontraktor, Jenis: Jurnal, Tahun: 2021, Tags: resource loaded scheduling, manajemen proyek, critical path method, rencana anggaran biaya
+   Paper 20: Judul: Implementasi Sistem Administrasi dan Inventory Control pada Warehouse UD. X, Jenis: Jurnal, Tahun: 2021, Tags: Sistem Administrasi, Inventory Control, Economic Order Quantity, Reorder Point, Safety stock.
+   Paper 21: Judul: Game Real-Time Strategy Conquest War Berbasis Web Menggunakan Finite-State Machine, Jenis: Jurnal, Tahun: 2021, Tags: Kecerdasan buatan Finite state Machine, Game Real-time Strategy.
+   Paper 22: Judul: Implementasi Website Kelas Untuk Pengerjaan Proyek Mata Kuliah, Jenis: Jurnal, Tahun: 2021, Tags: Pengontrolan Proyek, Website Kelas, Manajemen Proyek.
+   Paper 23: Judul: Aplikasi Scoring System Untuk Penentuan Keputusan Kredit Pada BPR DRJ Berbasis Web, Jenis: Jurnal, Tahun: 2020, Tags: BPR, Aplikasi Web, Scoring System.
+   Paper 24: Judul: Resilience Ecotourism in Papua Amid Covid 19 Pandemic, Jenis: Article, Tahun: 2020, Tags: ecotourism, resilience, Papua, Covid 19
+   Paper 25: Judul: Pembuatan Sistem Rumah Pintar dengan Voice Assistant di Raspberry Pi, Jenis: Jurnal, Tahun: 2020, Tags: Raspberry Pi, Wemos D1 Mini, EPS8266, Sensor DHT11, Sensor Cahaya GY-302, relay, IR Receiver, IR LED, IRremote ESP8266, rumah pintar, voice assistant
+   Paper 26: Judul: Sistem Penghitung Jumlah Pengguna pada Ruang Kerja menggunakan Background Subtraction, Jenis: Jurnal, Tahun: 2020, Tags: Perhitungan Orang, Pengurangan Latar Belakang, OpenCV.
+   Paper 27: Judul: Sistem Akses Kontrol Laboratorium Menggunakan Kartu Tanda Mahasiswa, Jenis: Jurnal, Tahun: 2020, Tags: Akses Konrol, Laboratorium, Raspberry Pi, Presensi, RFID tag, Magnetic door lock, Relay, Kartu Tanda Mahasiswa
+   Paper 28: Judul: Aplikasi Penyaluran Sampah Anorganik Non-Residu berbasis Android, Jenis: Jurnal, Tahun: 2020, Tags: Sampah Anorganik, Aplikasi Setor Sampah, Firebase Cloud Messaging
+   Paper 29: Judul: Approximate Reasoning in the Knowledge-based Dynamic Fuzzy Sets, Jenis: Paper, Tahun: 2020, Tags: Knowledge-based dynamic fuzzy sets, fuzzy granularity, fuzzy expert system, fuzzy rules.
+   Paper 30: Judul: Urban Mobility Modeling to Reduce Traffic Congestion in Surabaya: A System Dynamics Framework, Jenis: Paper, Tahun: 2020, Tags: simulation; model; system dynamics; urban mobility; traffic congestion
+   Paper 31: Judul: Comparative Analysis of NFS and iSCSI Protocol Performance on OpenStack Cinder Technology, Jenis: Article, Tahun: 2020, Tags: Cloud computing, iSCSI, NFS, OpenStack, OpenStack cinder, Persistent Storage
+   Paper 32: Judul: An Empirical Analysis of Critical Success Factors for CDERP Model, Jenis: Article, Tahun: 2020, Tags: Collaboratively-developed ERP, critical success factors, cloud computing, multi-tenancy, community-source, CD-ERP.
+   Paper 33: Judul: Server Scalability Using Kubernetes, Jenis: Jurnal, Tahun: 2019, Tags: server scalability; kubernetes; microservice
+   Paper 34: Judul: A Model to Improve Corn Productivity and Production, Jenis: Paper, Tahun: 2019, Tags: corn productivity; production; system dynamics; simulation model; scenarios.
+   Paper 35: Judul: Development of an android document management, Jenis: Paper, Tahun: 2019, Tags: Android, Document Management, Mobile Application, Data Security
+   Paper 36: Judul: Fuzzy Linear Regression for Tuberculosis Case Notification Rate Prediction in Surabaya, Jenis: Paper, Tahun: 2019, Tags: Fuzzy linear regression, local Moran I’ Statistics, partitioning around medoids, tuberculosis, case notification rate
+   Paper 37: Judul: Aplikasi Sistem Administrasi Percetakan Digital pada Toko Pelangi di Ambon, Jenis: Jurnal, Tahun: 2019, Tags: Aplikasi Sistem Aministrasi, Average, percetakan, fotografi, laporan penjualan, laporan pembelian
+   Paper 38: Judul: Penerapan Metode Alternatif Pada Permainan Kartu Capsa Banting, Jenis: Jurnal, Tahun: 2019, Tags: unity3d, capsa banting, genetic algorithm, artificial intelligence, card game.
+   Paper 39: Judul: Aplikasi Sistem Antar Jemput Berbasis Mobile, Jenis: Jurnal, Tahun: 2019, Tags: android, antar jemput, aplikasi antar jemput, firebase cloud messaging.
+   Paper 40: Judul: Aplikasi Marketplace Lelang Berbasis Android, Jenis: Jurnal, Tahun: 2019, Tags: lelang online, transaksi online, android.
+   Paper 41: Judul: Aplikasi Timing Kejurnas Rally dan Sprint Rally Berbasis Web, Jenis: Jurnal, Tahun: 2019, Tags: Kejurnas Rally, Kejurnas Sprint Rally, Ikatan Motor Indonesia, Website, Timing
+   Paper 42: Judul: Perancangan dan Pembuatan Data Warehouse dan Business Intelligence pada Market Research Motorcycle Honda MPM Motor, Jenis: Jurnal, Tahun: 2019, Tags: data warehouse, business intelligence, market research, Honda MPM Distributor
+   Paper 43: Judul: Sistem Pakar Rekomendasi Produk Makeup Berbasis Web dengan Metode Forward Chaining, Jenis: Jurnal, Tahun: 2019, Tags: forward chaining, makeup, sistem pakar, rekomendasi
+   Paper 44: Judul: Analysis of Urban Service Reliability and Its Effect on Traffic Congestion, Jenis: Paper, Tahun: 2019, Tags: Urban service reliability, system dynamics, model, simulation, traffic congestion.
+   Paper 45: Judul: Pembuatan Aplikasi Manajemen Sumber Daya Manusia Berbasis Web pada PT. X, Jenis: Jurnal, Tahun: 2019, Tags: Gaji, evaluasi staf, sumber daya manusia, jabatan, permohonan
+   Paper 46: Judul: Penerapan Screen Mirroring Android Pada Projector Menggunakan Raspberry Pi, Jenis: Jurnal, Tahun: 2019, Tags: Projector, screen mirroring, Gstreamer, Raspberry Pi
+   Paper 47: Judul: Enterprise Architecture Pada CV. Grande Zangrandi Dengan Metode Enterprise Architecture Planning (EAP), Jenis: Jurnal, Tahun: 2019, Tags: Enterprise Architecture, Enterprise Architecture Planning, Information System.
+   Paper 48: Judul: Modelling Reliability of Transportation Systems to Reduce Traffic Congestion, Jenis: Jurnal, Tahun: 2019, Tags: Transportation Systems, Reliability, Traffic Congestion, System Modelling
+   Paper 49: Judul: On the Knowledge-Based Dynamic Fuzzy Sets, Jenis: Paper, Tahun: 2019, Tags: Fuzzy sets · Dynamic fuzzy sets · Knowledge-based fuzzy sets · Knowledge-based dynamic fuzzy set
+   Paper 50: Judul: Learning Curve as a Knowledge-based Dynamic Fuzzy Set: A Markov Process Model, Jenis: Paper, Tahun: 2019, Tags: Learning curve, Fuzzy dynamic, Knowledge-based fuzzy set, Markov process, Autoregressive.
+   Paper 51: Judul: Fuzzy Granularity in the Knowledge-based Dynamic Fuzzy Sets, Jenis: Jurnal, Tahun: 2018, Tags: Knowledge-based Dynamic Fuzzy Sets; Fuzzy Granularity; Fuzzy Coverings; Objectivity Measure; Consistency Measure.
+   Paper 52: Judul: INTERPRETASI PENETRASI TEKNOLOGI BAGI UMKM DAN IMPLIKASINYA DENGAN PENDEKATAN TECHNOLOGY ACCEPTANCE MODEL, Jenis: Article, Tahun: 2018, Tags: technology acceptance model, technology diffusion theory, perceived ease of use, perceived usefulness
+   Paper 53: Judul: Forecasting System Approach for Stock Trading with Relative Strength Index and Moving Average Indicator, Jenis: Jurnal, Tahun: 2018, Tags: Decision Support System; Forecasting; Moving Average; Relative Strength Index.
+   Paper 54: Judul: The Development of System Dynamics Model to Increase National Sugar Fulfillment Ratio, Jenis: Article, Tahun: 2018, Tags: Demand; Production; Simulation Dynamics; Sugar; System.
+   Paper 55: Judul: Pembuatan Aplikasi Sistem Administrasi Toko Aditya Motor Surabaya, Jenis: Article, Tahun: 2018, Tags: Sistem Informasi Administrasi, Laporan Laba/Rugi, Average.
+   Paper 56: Judul: Pembuatan Aplikasi Poliklinik Universitas X Berbasis Web, Jenis: Jurnal, Tahun: 2018, Tags: Diagnosa, Poliklinik, Rekam Medis
+   Paper 57: Judul: Pembuatan Aplikasi Kegiatan Warga Pada RT 06 RW 06 Kelurahan Airlangga Berbasis Android, Jenis: Article, Tahun: 2018, Tags: Surat, Kegiatan warga, Aplikasi, Android
+   Paper 58: Judul: Perencanaan Dan Pembuatan Aplikasi Rumah Makan X Berbasis Android, Jenis: Jurnal, Tahun: 2018, Tags: Aplikasi Rumah Makan, Android, Pemesanan
+   Paper 59: Judul: Sistem Informasi Administrasi CV Jaya Abadi, Jenis: Jurnal, Tahun: 2018, Tags: Sistem Informasi Administrasi, Laporan Keuangan, Stok barang, Framework Laravel
+   Paper 60: Judul: Congestion Mitigation Scenario through Public Transportation Improvement, Jenis: Article, Tahun: 2018, Tags: Model, simulation, system dynamics, transportation mode choice.
+   Paper 61: Judul: Dynamic Simulation Model of Cow’s Milk Demand and Supply to Determine The National Fulfillment Ratio, Jenis: Article, Tahun: 2017, Tags: Supply, Demand, Fulfillment Ratio, System Dynamics
+   Paper 62: Judul: Exploratory Research on Developing Hadoop-based Data Analytics Tools, Jenis: Paper, Tahun: 2017, Tags: Hadoop; MapReduce framework; big data analysis; performance comparison; Hadoop tuning.
+   Paper 63: Judul: Android Application for Monitoring Soil Moisture using Raspberry Pi, Jenis: Article, Tahun: 2017, Tags: IoT, LED, Raspberry Pi, Sensor, Soil Moisture.
+   Paper 64: Judul: Single Index Model Portfolio Formation Application, Jenis: Paper, Tahun: 2017, Tags: Portfolio; Single Index Model; Stock; Website application
+   Paper 65: Judul: Sistem Informasi Penggajian Karyawan Pada PT.X Berbasis Web, Jenis: Jurnal, Tahun: 2017, Tags: Payroll information system, Website, PHP, MySQL
+   Paper 66: Judul: Sistem Informasi Administrasi Multi Cabang pada PT. HC, Jenis: Jurnal, Tahun: 2017, Tags: Gentellela, Integrasi Informasi, multi cabang, Sistem Informasi Administrasi, website
+   Paper 67: Judul: Sistem Pendukung Keputusan Berbasis Android untuk memberi Rekomendasi Jodoh dengan menggunakan Metode Simple Additive Weighting, Jenis: Jurnal, Tahun: 2017, Tags: Sistem Pendukung Keputusan, Rekomendasi Jodoh, Simple Additive Weighting, Android, Telegram.
+   Paper 68: Judul: Sistem Informasi Koperasi pada PT.Intercallin Surabaya, Jenis: Jurnal, Tahun: 2017, Tags: Information System Cooperative , save and loan, stock opname, boostrap framework, MySQL
+   Paper 69: Judul: Pembuatan Aplikasi Layanan Pengguna Perpustakaan Universitas Kristen Petra Dengan Fitur Barcode Dan Metode REST Pada Pengusulan Koleksi, Jenis: Jurnal, Tahun: 2017, Tags: Aplikasi android, Perpustakaan, REST, Web Service
+   Paper 70: Judul: Perancangan Enterprise Architecture di PT.BMP Menggunakan Metode Enterprise Architecture Planning (EAP), Jenis: Jurnal, Tahun: 2017, Tags: Information System, Enterprise Architecture, Enterprise Architecture Planning.
+   Paper 71: Judul: Sistem Informasi Manajemen pada Apotek Christ Berbasis Website, Jenis: Jurnal, Tahun: 2017, Tags: Sistem Informasi, Sistem Informasi Manajemen, Apotek
+   Paper 72: Judul: Aplikasi Penjadwalan Tugas berbasis Mobile Device Didukung Google Task dan Google Drive, Jenis: Jurnal, Tahun: 2017, Tags: Google Task, Google Drive, Penjadwalan tugas
+   Paper 73: Judul: Pembuatan Aplikasi Marketplace Untuk Mahasiswa dan Alumni Universitas Kristen Petra, Jenis: Jurnal, Tahun: 2017, Tags: Marketplace, Forum, Transaksi Online, Third Party, Perdagangan Elektronik
+   Paper 74: Judul: Aplikasi Ulangan Harian Dan Bank Soal SMP Kristen YBPK 1 Surabaya, Jenis: Jurnal, Tahun: 2017, Tags: Ulangan Harian, Bank Soal, Francium-voice, highchart, DayPilot, jadwal lab, soal essay, soal pilihan ganda, nilai siswa per periode
+   Paper 75: Judul: Sistem Informasi Manajemen Pekerjaan Panel Listrik Berbasis Web di PT. Yoel Tricitra, Jenis: Jurnal, Tahun: 2017, Tags: Sistem Informasi Manajemen, Panel Listrik, SBAdmin, fpdf181, Integrasi Informasi
+   Paper 76: Judul: Pengimplementasian Pembentukan Portfolio Saham Menggunakan Metode Single Index, Jenis: Jurnal, Tahun: 2017, Tags: Portfolio, Saham, Website.
+   Paper 77: Judul: Perancangan dan Pembuatan Sistem Informasi Perpustakaan Berbasis Web pada SMP YBPK 1 Surabaya, Jenis: Jurnal, Tahun: 2017, Tags: Solr search engine; SMS Gateway Me; book searching; library transactions
+   Paper 78: Judul: Pembuatan Aplikasi Buku Multimedia Cerita Alkitab, Jenis: Jurnal, Tahun: 2017, Tags: Buku Multimedia, Cerita Alkitab, HTML5, Jigsaw Puzzle, Matching Game
+   Paper 79: Judul: Pembuatan Aplikasi Delivery Order dengan Menggunakan HTML5 Berbasis Mobile, Jenis: Jurnal, Tahun: 2017, Tags: Pesan Antar, Mobile device, HTML5, PhoneGap, Google Map
+   Paper 80: Judul: Pengembangan Aplikasi Untuk Membantu Dalam Penyusunan Dokumen Menggunakan Android, Jenis: Jurnal, Tahun: 2017, Tags: Android, Phonegap, Merge Dokumen, New Dokumen, Aplikasi Mobile
+   Paper 81: Judul: DYNAMIC SIMULATION MODEL OF BEEF SUPPLY CHAIN TO FULFILL NATIONAL DEMAND, Jenis: Jurnal, Tahun: 2016, Tags: : System Dynamics, Beef Supply Chain, Demand, Productivity, Scenario
+   Paper 82: Judul: DYNAMIC SIMULATION MODEL OF ELECTRICITY ENERGY DEMAND AND POWER PLANT CAPACITY PLANNING IN MADURA, Jenis: Paper, Tahun: 2016, Tags: System Dynamics, Supply, Demand, Electricity Energy
+   Paper 83: Judul: Website Publikasi dan Evaluasi kegiatan Lembaga Kemahasiswaan Universitas Kristen Petra, Jenis: Jurnal, Tahun: 2016, Tags: Event Publication, Event Evaluation, Petra Christian University, Website, SOAP, phpmailer
+   Paper 84: Judul: Aplikasi Media Sosial Tempat Makan Favorit Di Surabaya Berbasis Android, Jenis: Jurnal, Tahun: 2016, Tags: Tempatmakan, Android, Google Map.
+   Paper 85: Judul: Media Pembelajaran Interaktif untuk Kelas 1 Sekolah Dasar Berdasarkan Kurikulum 2013 Berbasis Android, Jenis: Jurnal, Tahun: 2016, Tags: Curriculum 2013 , Android , Interactive, Mobile.
+   Paper 86: Judul: Pembuatan Arsitektur Data Di Perusahaan X, Jenis: Jurnal, Tahun: 2016, Tags: Perencanaan Arsitektur Data, Enterprise Architecture Planning, Sistem Informasi
+   Paper 87: Judul: Sistem Administrasi dan Layanan Pelanggan Berbasis Web dan Android Mobile untuk Kursus Bahasa Mandarin X, Jenis: Jurnal, Tahun: 2016, Tags: Kursus Mandarin, Android, Administrasi
+   Paper 88: Judul: Perencanaan Enterprise Architecture pada Perusahaan Manufaktur Plastik PT. X dengan Metode Enterprise Architecture Planning, Jenis: Jurnal, Tahun: 2016, Tags: Sistem Informasi, Perencanaan Arsitektur Aplikasi, Enterprise Architecture Planning
+   Paper 89: Judul: Pembuatan Aplikasi Sistem Pendukung Keputusan Calon Pekerja berbasis Android, Jenis: Jurnal, Tahun: 2016, Tags: DSS, Android, Apikasi pencari kerja
+   Paper 90: Judul: Perencanaan Arsitektur Teknologi pada PT.X, Jenis: Jurnal, Tahun: 2016, Tags: Sistem Informasi, Enterprise Architecture, Enterprise Architecture Planning
+   Paper 91: Judul: Aplikasi Survei Berbasis Android, Jenis: Jurnal, Tahun: 2016, Tags: Survei, Android, Node.js.
+   Paper 92: Judul: Pemanfaatan Websocket dan EaselJS pada E-Marketplace Penjualan Mobil Bekas, Jenis: Jurnal, Tahun: 2016, Tags: E-marketplace, EaselJS, Website
+   Paper 93: Judul: Aplikasi Modul Pengguna pada Perpustakaan Universitas Kristen Petra, Jenis: Jurnal, Tahun: 2016, Tags: Perpustakaan, Modul Pengguna, Yii Framework, PHP Socket, Solr
+   Paper 94: Judul: Pembuatan Arsitektur Aplikasi Di Perusahaan Transportasi XYZ Menggunakan Metode Enterprise Architecture Planning (EAP), Jenis: Jurnal, Tahun: 2016, Tags: Information System; Application Architecture; Enterprise Architecture Planning
+   Paper 95: Judul: Mobile Device Application to locate an Interest Point using Google Maps, Jenis: Jurnal, Tahun: 2016, Tags: location-based service, Xcode iOS 4.2, Google Maps, public service, interest point
+   Paper 96: Judul: EKSTRAKSI LIKOPEN DARI LIMBAH BUAH TOMAT, Jenis: Jurnal, Tahun: 2016, Tags: Tomat, Limbah Tomat, Likopen, Ekstraksi Cair-Cair
+   Paper 97: Judul: Application Architecture of Car Automobile Dealers Using Enterprise Architecture Planning (EAP), Jenis: Jurnal, Tahun: 2016, Tags: Enterprise Architecture Planning, Application Architecture, Information System, Automotive
+24. Nama Dosen Pembimbing UK Petra: Silvia Rostianingsih, S.Kom., M.MT.
+   Jadwal Bimbingan: Jumat 8.30 - 10.30, Sabtu 8.30 - 10.30
+   Paper 1: Judul: GAME SIMULASI FINITE STATE MACHINE UNTUK PERTANIAN DAN PETERNAKAN, Jenis: Research, Tahun: 2013, Tags: finite state machine, flash, game, kecerdasan buatan
+   Paper 2: Judul: PEMODELAN PETA TOPOGRAFI KE OBJEK TIGA DIMENSI, Jenis: Article, Tahun: 2004, Tags: Map, Topography, Geography, Three Dimension.
+   Paper 3: Judul: COCO (Creating Common Object in Context) Dataset for Chemistry Apparatus, Jenis: Article, Tahun: 2020, Tags: COCO dataset; synthetic dataset, annotate, chemistry apparatus
+   Paper 4: Judul: Sistem Rekomendasi Mata Kuliah Pilihan Menggunakan Metode User Based Collaborative Filtering Berbasis Algoritma Adjusted Cosine Similarity, Jenis: Jurnal, Tahun: 2019, Tags: Recommender System, Collaborative Filtering, Adjusted Cosine Similarity, K-Nearest Neighbors.
+   Paper 5: Judul: Implementasi Algoritma YOLO pada Aplikasi Pendeteksi Senjata Tajam di Android, Jenis: Jurnal, Tahun: 2020, Tags: Object Detection, Darkflow, YOLO, Tensorflow, Tensorflow Lite.
+   Paper 6: Judul: PEMETAAN SURABAYA HERITAGE DENGAN GEOGRAPHIC INFORMATION SYSTEM, Jenis: Jurnal, Tahun: 2016, Tags: Surabaya Heritage, Heritage, GIS, website
+   Paper 7: Judul: ADAPTIVE BACKGROUND DENGAN METODE GAUSSIAN MIXTURE MODELS UNTUK REAL-TIME TRACKING, Jenis: Jurnal, Tahun: 2008, Tags: adaptive, background, Gaussian Mixture Models (GMM)
+   Paper 8: Judul: PEMBUATAN DATA WAREHOUSE PENGUKURAN KINERJA PROSES BELAJAR MENGAJAR DI JURUSAN TEKNIK INFORMATIKA UNIVERSITAS KRISTEN PETRA, Jenis: Jurnal, Tahun: 2004, Tags: data warehouse, performance measurement of academic process
+   Paper 9: Judul: Pembuatan Aplikasi Point of Sales untuk Rumah Makan Dapur Rinjani, Jenis: Jurnal, Tahun: 2016, Tags: Rumah Makan, Laravel, Mobile Device, Point of Sales.
+   Paper 10: Judul: PEMBUATAN APLIKASI PREDICTIVE TEXT MENGGUNAKAN METODE N-GRAM-BASED, Jenis: Jurnal, Tahun: 2013, Tags: Predictive Text; N-Gram; Keystroke Saving
+25. Nama Dosen Pembimbing UK Petra: Alexander Setiawan, S.Kom., M.T.
+   Jadwal Bimbingan: Senin 15.30 - 17.30, Selasa 15.30 - 17.30
+   Paper 1: Judul: Comparison for Handwritten Character Recognition and Handwritten Text Recognition and Tesseract Tool on IJAZAh’s Handwriting, Jenis: Jurnal, Tahun: 2023, Tags: Handwritten Text Recognition (HTR) · Handwritten Character Recognition (HCR) · Segmentation · Tesseract
+   Paper 2: Judul: Comparison and Analysis of the Artificial Neural Network Method and SIRD on Covid-19 Cases in Surabaya, Jenis: Article, Tahun: 2023, Tags: Artificial Neural Network (ANN), SIRD Model (Susceptible-Infected-Recovered-Deceased), Covid-19 Case Forecasting, Surabaya Pandemic Analysis
+   Paper 3: Judul: Identification of Student Misconception about Dynamic Fluid, Jenis: Jurnal, Tahun: 2023, Tags: Misconception, three tier test, gender
+   Paper 4: Judul: Items Ranking Algorithm For Museums Selection, Jenis: Research, Tahun: 2023, Tags: Items Ranking Algorithm, Museum Selection Optimization, Recommendation System, Cultural Heritage Prioritization
+   Paper 5: Judul: Data traffic synchronization application in electronic map, Jenis: Research, Tahun: 2023, Tags: Data Traffic Synchronization, Electronic Map Systems, Real-time Traffic Updates, Geospatial Data Integration
+   Paper 6: Judul: Customer clustering using K-means clustering: Supporting customer relationship management system, Jenis: Research, Tahun: 2023, Tags: K-means Clustering, Customer Segmentation, Customer Relationship Management (CRM), Data-driven Marketing
+   Paper 7: Judul: Comparison for Handwritten Character Recognition and Handwritten Text Recognition and Tesseract Tool on IJAZAh’s Handwriting, Jenis: Research, Tahun: 2023, Tags: Handwritten Text Recognition (HTR) · Handwritten Character Recognition (HCR) · Segmentation · Tesseract
+   Paper 8: Judul: 360 Degree Virtual Museum Tour Application in Tugu Pahlawan Museum, Jenis: Research, Tahun: 2022, Tags: Virtual Reality (VR), 360 Degree Tour, Museum Education, Cultural Heritage Preservation
+   Paper 9: Judul: Virtual Tour Museum Application Using Flutter Framework, Jenis: Article, Tahun: 2022, Tags: Application, Flutter, Dart, Museum, Figma, Laravel, Virtual Tour.
+   Paper 10: Judul: Aplikasi Channel Management dan Point of Sales pada perusahaan retail PT. XYZ dengan menggunakan metode Cross-channel dan Market Basket Analysis, Jenis: Jurnal, Tahun: 2022, Tags: sistem channel management, website, point of sales, market basket analysis
+   Paper 11: Judul: Klasifikasi Kisaran Harga Tarif Endorsement Influencer Instagram dengan Metode Decision Tree, Jenis: Jurnal, Tahun: 2022, Tags: Decision Tree, Endorsement, Influencer, Instagram.
+   Paper 12: Judul: Aplikasi Monitoring Pada Tanaman Aglaonema menggunakan IOT, Jenis: Jurnal, Tahun: 2022, Tags: Aplikasi Monitoring, Aglaonema, penyiraman, IoT, dan Arduino.
+   Paper 13: Judul: Aplikasi Sistem Informasi Praktikum pada Program Studi Informatika Universitas Kristen Petra Berbasis Website, Jenis: Jurnal, Tahun: 2022, Tags: sistem informasi praktikum, kelas praktikum, peringatan, lowongan.
+   Paper 14: Judul: Sistem Deteksi Reputasi Akun Seller Pada Steam Community Menggunakan Metode Klasifikasi Support Vector Machine, Jenis: Jurnal, Tahun: 2022, Tags: Analisis Sentimen, Steam Community, Support Vector Machine
+   Paper 15: Judul: Sistem Tracking Pengiriman Barang Pada PT. Afro Angkasa Express Dengan Menggunakan Framework Laravel 8, Jenis: Jurnal, Tahun: 2022, Tags: Ekspedisi, Laravel, Jasa Pengiriman Barang, Pemrograman Berbasis Website
+   Paper 16: Judul: Website Human Resource Information System Dengan Fitur Pengukuran Efektivitas Kinerja Karyawan Pada PT. Deus Digital Transformasi Universal, Jenis: Jurnal, Tahun: 2022, Tags: Sistem Informasi, Sistem Pendukung Keputusan, Sumber Daya Manusia, Analytical Hierarchy Process, Manajemen Sumber Daya Manusia
+26. Nama Dosen Pembimbing UK Petra: Hans Juwiantho, S.Kom., M.Kom.
+   Jadwal Bimbingan: Rabu 13.30 - 15.30, Kamis 13.30 - 15.30
+   Paper 1: Judul: SENTIMENT ANALYSIS TWITTER BAHASA INDONESIA BERBASIS WORD2VEC MENGGUNAKAN DEEP CONVOLUTIONAL NEURAL NETWORK, Jenis: Jurnal, Tahun: 2020, Tags: Sentiment Analysis, Word2Vec, Deep Convolutional Neural Network, Twitter Bahasa Indonesia.
+   Paper 2: Judul: Multiview Sentiment Analysis with Image-Text-Concept Features of Indonesian Social Media Posts, Jenis: Jurnal, Tahun: 2021, Tags: Sentiment analysis, Multimedia computation, Fusion model, Ensemble learning, Social media analysis.
+   Paper 3: Judul: COCKPIT VIEW VEHICLE GAME SIMULATORS FOR MASSIVE PARALLEL ARRAYS PLATFORM BASED ON NEURAL-FUZZY SYSTEMS, Jenis: Jurnal, Tahun: 2014, Tags: MA3I, vehicle simulator, computer game, artificial neural network.
+   Paper 4: Judul: Simulasi Cockpit View Pesawat Terbang, Jenis: Article, Tahun: 2014, Tags: Joystick, Simple Directmedia Layer, Cockpit view.
+   Paper 5: Judul: Enhancing Seventh-Grade Numeracy Skills in Data Presentation Through Interactive Gaming, Jenis: Jurnal, Tahun: 2024, Tags: Educational games; Level-based games; Interactive learning.
+   Paper 6: Judul: Procedural Content Generation in Tower Defense Game using Perlin Noise and Floyd Warshall Algorithm, Jenis: Jurnal, Tahun: 2023, Tags: Procedural Content Generation, Perlin Noise, Floyd Warshall Algorithm, Tower Defense
+27. Nama Dosen Pembimbing UK Petra: Dr. Andreas Handojo, S.T., M.MT.
+   Jadwal Bimbingan: Jumat 8.30 - 10.30, Sabtu 8.30 - 10.30
+   Paper 1: Judul: PEMBUATAN APLIKASI SISTEM PENDUKUNG KEPUTUSAN UNTUK PROSES KENAIKAN JABATAN DAN PERENCANAAN KARIR PADA PT. X, Jenis: Jurnal, Tahun: 2003, Tags: Decision Support System, Profile Matching, Positioning, Carrier Planning, Gap Analization, Information System.
+   Paper 2: Judul: Aplikasi Bot Telegram Untuk Media Informasi Perkuliahan Program Studi Informatika-Sistem Informasi Bisnis Universitas Kristen Petra, Jenis: Jurnal, Tahun: 2018, Tags: Bot Telegram, PHP, Information Media, Lecture, Informatics-Business Information System
+   Paper 3: Judul: PEMBUATAN SISTEM INFORMASI AKUNTANSI TERKOMPUTERISASI ATAS SIKLUS PEMBELIAN DAN PENJUALAN PADA CV. X, Jenis: Jurnal, Tahun: 2004, Tags: sistem akuntansi, sistem informasi akuntansi, laporan laba rugi.
+   Paper 4: Judul: Indonesian Culture Learning Application based on Android, Jenis: Jurnal, Tahun: 2016, Tags: Android, Application, Indonesian culture, Mobile learning
+   Paper 5: Judul: PEMBUATAN APLIKASI SISTEM SELEKSI CALON PEGAWAI DAN PEMILIHAN SUPPLIER DENGAN METODE ANALYTIC NETWORK PROCESS (ANP) DAN ANALYTIC HIERARCHY PROCESS (AHP) DI PT X., Jenis: Jurnal, Tahun: 2010, Tags: Sistem Pendukung Keputusan, Analytical Network Process, Analytic Hierarchy Process, Kriteria
+   Paper 6: Judul: Implementasi Blockchain: Studi Kasus e-Voting, Jenis: Jurnal, Tahun: 2019, Tags: Blockchain, sistem e-voting, keamanan data vote.
+   Paper 7: Judul: APLIKASI MAKASSAR TOURISM PADA KOTA MAKASSAR BERBASIS ANDROID, Jenis: Jurnal, Tahun: 2013, Tags: Pariwisata; Kota Makassar; Google Maps API; Global Positioning System (GPS); Android
+   Paper 8: Judul: PEMBUATAN APLIKASI WISATA SEJARAH PERTEMPURAN SURABAYA 1945 BERBASIS ANDROID, Jenis: Jurnal, Tahun: 2013, Tags: Pertempuran Surabaya;Android;SQLite;GPS
+   Paper 9: Judul: APLIKASI PENCARI RUTE OPTIMUM PADA PETA GUNA MENINGKATKAN EFISIENSI WAKTU TEMPUH PENGGUNA JALAN DENGAN METODE A* DAN BEST FIRST SEARCH, Jenis: Jurnal, Tahun: 2007, Tags: pathfinding, digital map, A*, Best First Search.
+   Paper 10: Judul: PEMETAAN SURABAYA HERITAGE DENGAN GEOGRAPHIC INFORMATION SYSTEM, Jenis: Jurnal, Tahun: 2016, Tags: Surabaya Heritage, Heritage, GIS, website
+28. Nama Dosen Pembimbing UK Petra: Alvin Nathaniel T., S.Kom., M.T.
+   Jadwal Bimbingan: Senin 15.30 - 17.30, Selasa 15.30 - 17.30
+29. Nama Dosen Pembimbing UK Petra: Leo Willyanto Santoso, S.Kom., M.IT.
+   Jadwal Bimbingan: Rabu 13.30 - 15.30, Kamis 13.30 - 15.30
+   Paper 1: Judul: Data Warehouse with Big Data Technology for Higher Education, Jenis: Jurnal, Tahun: 2017, Tags: Data Warehouse; Big Data; Academic; Hadoop; Higher Education; Analysis
+   Paper 2: Judul: A Genetic Programming Approach to Binary Classification Problem, Jenis: Research, Tahun: 2021, Tags: binary classification, evolutionary algorithms, genetic programming, machine learning
+   Paper 3: Judul: The Analysis of Student Performance using Data Mining, Jenis: Conference, Tahun: 2019, Tags: Data mining, education, drop out, student performance
+   Paper 4: Judul: PEMBUATAN PERANGKAT LUNAK DATA MINING UNTUK PENGGALIAN KAIDAH ASOSIASI MENGGUNAKAN METODE APRIORI, Jenis: Jurnal, Tahun: 2003, Tags: Data Mining, Apriori Algorithm.
+   Paper 5: Judul: PEMBUATAN APLIKASI SISTEM SELEKSI CALON PEGAWAI DAN PEMILIHAN SUPPLIER DENGAN METODE ANALYTIC NETWORK PROCESS (ANP) DAN ANALYTIC HIERARCHY PROCESS (AHP) DI PT X., Jenis: Jurnal, Tahun: 2010, Tags: Sistem Pendukung Keputusan, Analytical Network Process, Analytic Hierarchy Process, Kriteria
+   Paper 6: Judul: Smart Home System Using Internet of Things, Jenis: Paper, Tahun: 2018, Tags: Automated home, Internet of Things (IoT), Microcontroller, Smart home
+   Paper 7: Judul: Implementasi Face Recognition menggunakan Raspberry pi untuk akses Ruangan Pribadi, Jenis: Jurnal, Tahun: 2019, Tags: Keamanan, Perusahaan, File, IoT, Face Recognition
+   Paper 8: Judul: IMPLEMENTASI FUZZY EXPERT SYSTEM UNTUK ANALISA PENYAKIT DALAM PADA MANUSIA, Jenis: Jurnal, Tahun: 2008, Tags: Gejala, penyakit, forward chaining, backward chaining, fuzzy set, fuzzy, knowledge based
+   Paper 9: Judul: ITIL Service Management Model for E-learning, Jenis: Jurnal, Tahun: 2019, Tags: Virtual Education, ITIL, Service Management Model, E-learning.
+   Paper 10: Judul: ANALYSIS OF THE IMPACT OF INFORMATION TECHNOLOGY INVESTMENTS – A SURVEY OF INDONESIAN UNIVERSITIES, Jenis: Jurnal, Tahun: 2014, Tags: IT investments, management information system, university, impact, return on assets

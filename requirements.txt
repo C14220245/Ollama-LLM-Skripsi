@@ -1,0 +1,9 @@
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+llama-index-vector-stores-qdrant
+llama-index-readers-json
+
+qdrant_client
+fastembed
+streamlit==1.32.2

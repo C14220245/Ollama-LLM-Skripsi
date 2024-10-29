@@ -1,3 +1,4 @@
+import streamlit as st
 import requests
 import pandas as pd
 import os
@@ -52,7 +53,7 @@ with open('../datum_RAG/docs.txt', 'w') as outfile:
 
 
 # api key dari google cloud
-api_google_sheets = 'AIzaSyDKMiCCUkImuBeDyZzMJtPk0ES8-MpIRjk'
+api_google_sheets = st.secrets["google"]["API"]
 
 
 # write file docs_dosen

@@ -1,0 +1,191 @@
+Jadwal pengumpulan dan sidang proposal Skripsi:
+
+periode UTS
+submit ke kabid : 23 September 2024, Pk 23.59
+submit proposal : 30 September 2024, Pk 23.59
+sidang proposal : 7-11 Oktober 2024
+
+periode 1
+submit ke kabid : 17 November 2024, Pk 23.59
+submit proposal : 24 November 2024, Pk 23.59
+sidang proposal : 2-11 Desember 2024
+
+periode 2
+submit ke kabid : 5 Januari 2025, Pk 23.59
+submit proposal : 12 Januari 2025, Pk 23.59
+sidang proposal : 20-23 Januari 2025
+
+Jadwal briefing proposal:
+briefing proposal skripsi akan dilaksanakan pada 
+hari Jumat, 18 Oktober 2024  
+tempat di P lt 7 (info ruangan menyusul)
+pukul 10.30 - 12.00
+
+Rekomendasi jadwal proposal skripsi periode UTS:
+masa pengerjaan: UTS gasal 24/25 hingga UTS genap 24/25
+pengumpulan buku bab 1-3: UAS gasal 24/25 atau 30 September 2024
+sidang akhir: UTS gasal 24/25 atau 7-11 Oktober 2024
+
+Rekomendasi jadwal proposal skripsi periode UAS atau periode 1:
+masa pengerjaan: UAS gasal 24/25 hingga UAS genap 24/25
+pengumpulan buku bab 1-3: UTS genap 24/25 atau 24 November 2024
+sidang akhir: UAS genap 24/25 2025 atau 2-11 Desember 2024
+
+Rekomendasi jadwal proposal skripsi periode UAS atau periode 2:
+masa pengerjaan: UAS gasal 24/25 hingga UAS genap 24/25
+pengumpulan buku bab 1-3: UTS genap 24/25 atau 12 Januari 2025
+sidang akhir: UAS genap 24/25 2025 atau 20-23 Januari 2025
+
+
+Jika gagal melakukan pengumpulan bab 1-3 sesuai jadwal yang telah ditentukan, maka proposal akan dibatalkan, dipersilakan mengajukan proposal di periode selanjutnya.
+
+Jika belum menyelesaikan skripsi/proyek akhir pada jadwal sidang akhir, maka wajib mengikuti sidang perpanjangan dengan tambahan waktu 1 semester (jika disetujui untuk diperpanjang)
+
+Peraturan tambahan terkait pengerjaan skripsi yang perlu diperhatikan:
+1. skripsi tidak dikerjakan bersamaan dengan LEAP
+2. pengerjaan skripsi minimal 4 bulan
+
+
+Jika mahasiswa semester gasal 24/25 sedang mengambil LEAP, tetapi ingin mengikuti proposal periode UTS gasal 24/25, diperbolehkan dengan catatan jika proposal "diterima" maka tetap akan dianggap dikerjakan pada saat periode UAS (genap 2024/2025).
+
+
+Detail jadwal sidang proposal periode UTS :  
+https://docs.google.com/spreadsheets/d/1nSRAdRm3xdsCxQpaEf28h-AsmVjPgNfz/edit?usp=sharing&ouid=118001490091218134157&rtpof=true&sd=true
+
+NB: selalu perhatikan file excel jadwal sidang karena penguji bisa berubah sewaktu-waktu. sebaiknya cek beberapa saat sebelum sidang. jika ada perubahan penguji harap segera invite di google meet.
+hal - hal yang perlu diperhatikan
+1. semua sidang dilaksanakan secara LURING (jika ingin mengikuti secara online silakan minta ijin ke tim dosen penguji dan dosbing masing-masing). setiap mhs wajib membuat google meet INVITATION dengan mengundang dosbing dan dosen penguji masing-masing. (email dapat dilihat di bawah) JANGAN HANYA MEMBUAT LINK DAN SEND VIA WA. BUAT DI GOOGLE CALENDAR. Untuk yang onsite : tulis no ruang di "add description" (tanpa add video conferencing)
+
+NB : beri judul invitationnya  "sidang proposal NRP Nama". durasi meet harap di set tepat 45 menit, jangan 1 jam karena akan overlap dengan mhs lain dan akan membuat dosen2 bingung. jangan keliru AM/PM nya. sidang mulai jam 8 AM - 16 PM
+meet invitationnya harus dibuat paling lambat SABTU, (5 Oktober 2024) supaya dosen2 bs mengatur jadwal lainnya menyesuaikan sidang proposal. jika gagal mengundang penguji = batal sidang (dianggap mengundurkan diri dari sidang)
+2. mempersiapkan file presentasi untuk 5 menit (problem, ide solusi, ruang lingkup secara point-point penting saja) jangan terlalu bertele-tele, tidak perlu membacakan seluruh isi proposal.
+NB: lebih diutamakan ada gambaran problem dan rancangan solusi (mahasiswa tahu apa yang akan dikerjakan dan akan mulai mengerjakan dari mana?, bagaimana? mengapa memilih metode/cara tersebut? lalu rencana pengujian)
+3. pelajari teori yang akan digunakan.
+
+
+ruangan sidang proposal periode UTS
+R1 --> lab MM
+R2 --> lab JK
+R3 --> lab SC
+Apabila mahasiswa bingung sidang di ruangan mana, harap cek email atau kontak dosen untuk informasi terkait
+
+
+Mahasiswa yang bingung memilih topik skripsi dapat mempertimbangkan tawaran topik skripsi dari dosen pembimbing dengan informasi sebagai demikian:
+
+Informasi mengenai tawaran topik skripsi dari pak Gregorius:
+1. Deep Learning And Transformer Regression Model untuk Memprediksi Temporal Based Solar Pv Output Di Jawa-Bali
+Syarat: Menguasai Python, Nilai MK Deep Learning, Machine Learning atau Data Mining B+ atau A
+
+2. Memprediksi demand energi listrik regional menggunakan machine learning dan deep learning: Study case Jawa-Bali
+Syarat: Menguasai Python, Nilai MK Deep Learning, Machine Learning atau Data Mining B+ atau A
+?
+3. Active chatbot untuk mentor pembelajaran mata pelajaran SD/SMP berbasis double Large Language Model
+Syarat: Menguasai Python, Syarat Optional: Nilai MK NLP atau Text Mining B+ atau A
+
+
+tawaran topik skripsi dari pak Stephanus dan pak Yusak:
+1. Optimasi Energi Wind-Turbin, Solar PV dan Jaringan Listrik PLN Pada Hotel Skala Kecil dan Menengah Dalam Rangka Mendukung Pariwisata Berkelanjutan Dengan Menggunakan Metode Linear Programming dan Simulated Annealing
+Skripsi ini melanjutkan penelitian sebelumnya yang dilakukan oleh Brandon Sebastian Jasman (C14200008).
+
+Metode:
+simulasi energy balance dari listrik Grid + PV + WT untuk mengcover beban Harian dalam durasi jam selama 1 tahun. Beban listrik bisa dianggap tetap (average) maupun bisa diskenariokan.
+
+Permasalahan:
+Jika di tambahkan PV, berapa kontribusi energi yang dihasilkan PV dalam kombinasi PV + WT + PLN dan berapa potensi penghematan biaya listrik yang dapat dihasilkan
+
+
+tawaran topik skripsi (Liliana + Rudy A)
+Wi-fi Positioning system in indoor space.  memberi perkiraan posisi di indoor berdasarkan akses wifi terdekat. prediksi lokasi akan menggunakan machine learning atau perhitungan posisi wifi.
+syarat : menguasai pemrograman web dan mobile dengan baik. menunjukkan portfolio pada saat melamar topik.
+
+
+Daftar dosen yang tersedia untuk bimbingan beserta aliasnya atau nama panggilannya:
+Adi Wibowo S.T., M.T., Ph.D	Pak Adi
+Liliana, S.T., M.Eng., Ph.D.	Bu Liliana	Bu Lili
+Justinus Andjarwirawan, S.T.,M.Eng.	Pak Justinus	Pak Justin
+Stephanus A. Ananda, S.T., M.Sc. Ph.D.	Pak Steph	Pak Stephanus
+Ir. Resmana Lim, M.Eng	Pak Resmana	Pak Res
+Agustinus Noertjahyana, S.Kom., M.MT.	Pak Agus	Pak Agustinus
+Tanti Octavia, S.T., M.Eng.	Bu Tanti
+I Gede Agus Widyadana, S.T., M.Eng., PH.D.	Pak Agus
+Dr. Roy Setiawan, S.Kom., M.M., M.SM., M.Th.	Pak Roy
+Dr. Ing. Indar Sugiarto, S.T., M.Sc.	Pak Indar
+Prof. Dr.Eng., Ir. Rolly Intan, M.A.Sc.	Pak Rolly
+Ir. Djoni Haryadi Setiabudi, M.Eng.	Pak Joni	Pak Djoni
+Dr. Gregorius Satia Budhi, S.T., M.T.	Pak Greg	Pak Gregorius	Pak Gregorious
+Yulia, S.T., M.Kom.	Bu Yulia	Bu Yuli
+Henry Novianus Palit, S.Kom., M.Kom., Ph.D.	Pak Henry	Pak Henri
+Rudy Adipranata, S.T, M.Eng.	Pak Rudi	Pak Rudy
+Prof. Dr.rer.nat. Siana Halim, S.Si., M.Sc.nat.	Bu Siana	Bu Si
+Lily Puspa Dewi, S.T., M.Kom.	Bu Lili	Bu Lily
+Silvia Rostianingsih, S.Kom., M.MT.	Bu Silvi	Bu Silvia
+Alexander Setiawan, S.Kom., M.T.	Pak Alex	Pak Alexander
+Hans Juwiantho, S.Kom., M.Kom.	Pak Hans
+Dr. Andreas Handojo, S.T., M.MT.	Pak Andreas	Pak Andre
+Leo Willyanto Santoso, S.Kom., M.IT.	Pak Leo
+
+
+email dosen:
+Adi Wibowo : adiw@petra.ac.id
+Agustinus : agust@petra.ac.id
+Alexander :alexander@petra.ac.id
+Andreas : handojo@petra.ac.id
+Alvin : alvin.nathaniel@petra.ac.id
+Djoni : djonihs@petra.ac.id
+Gunadi : kgunadi@petra.ac.id
+Gregorius : greg@petra.ac.id
+Henry : hnpalit@petra.ac.id
+Hans : hans.juwiantho@petra.ac.id
+Justinus : justin@petra.ac.id
+Leo : leow@petra.ac.id
+Liliana : lilian@petra.ac.id
+Lily Puspa : lily@petra.ac.id
+Silvia : silvia@petra.ac.id
+Stephanus : ananda@petra.ac.id
+Rolly : rintan@petra.ac.id
+Yulia : yulia@petra.ac.id
+
+
+langkah-langkah pengajuan proposal skripsi:
+1. pengajuan topik dan dosbing (sudah diskusi dengan dosbing 1 mengenai rencana tugas akhir. masalah yang akan diselesaikan, tujuan hingga ruang lingkup).
+NB :
+a. cek judul-judul skripsi yang sudah pernah dikerjakan dan yang sedang dikerjakan di https://docs.google.com/spreadsheets/d/1N9Tms_q2Bw-ZC3Ao6fiP7ttjhPDlFv2f/edit?usp=sharing&ouid=118001490091218134157&rtpof=true&sd=true
+b. jika dosbing sudah setuju dengan topik dan bersedia menjadi dosbing, ingatkan dosbing untuk mengisikan nama di file excel kuota dosen di https://docs.google.com/spreadsheets/d/1A6rQeb8tOCPFQ-w9D6td7gH54OlaLAR5z-b_jPZql0Y/edit?usp=sharing
+c. kuota masing-masing dosen untuk genap 24/25 adalah 14 orang. jika kuota sudah habis maka dipersilakan memilih dosbing lain yang masih tersedia kuotanya.
+d. ada kelompok dosen yang hanya bisa menjadi dosbing 2 (harap diperhatikan)
+e. pemilihan dosbing boleh hanya memilih 1 dosbing/ maksimal 2 dosbing
+
+2. menyusun proposal (latar belakang - perumusan masalah - tujuan - ruang lingkup - teori )
+untuk review kabid upload di folder :
+https://drive.google.com/drive/folders/1L6qjffLGWtoHQM0ciJxboN1Z2G_3kzHC?usp=sharing
+sesuaikan bidang dengan topik skripsi (BUKAN konsentrasi)
+format penamaan file proposal "Bidang_NRP_NamaMhs_Konsentrasi" (konsentrasi berdasarkan MK konsentrasi yang dipilih, bisa beda dengan topik skripsi yang akan dikerjakan. diisi "TidakAda" jika tanpa konsentrasi)
+mengisi data di file excel kabid untuk mendapat review kabid (sesuaikan sheet dengan bidang topik skripsi.
+
+3.kabid mereview cek hasil review di file excel pada folder yang sama yang disebut di langkah no 2
+
+4. revisi proposal sesuai review kabid.
+memastikan jumlah bimbingan ke dosbing 1 dan 2 minimal 3 kali (sejak diskusi awal) dan melengkapi proposal dengan teori , jadwal pengerjaan dan daftar pustaka
+NB: tanggal bimbingan dan bahasan bimbingan dicatat mandiri dan akan di entry di sim setelah PRS 1 semester genap 24/25
+
+5. submit proposal lengkap untuk maju sidang di folder :
+https://drive.google.com/drive/folders/1aUGvhqeugMnlbjrKqgZLBtQzHyD2mzyV?usp=sharing (sesuaikan subfolder nya)
+Mengisi file excel pendaftaran sidang skripsi
+https://docs.google.com/spreadsheets/d/1gwT0XMP3S9kkW_6uveX1-n3PezLj9nOH7fdPu5YcR1A/edit?usp=sharing
+Entry data di sim.petra.ac.id (menu skripsi).
+NB:
+a. Isian semester akan by default gasal 24/25, biarkan saja.
+b. Dosbing yang pilihan nama nya tidak ada di slot dobing 1 dan 2, silakan di entry di bagian dosbing 3.
+c. Tanpa entry di sim, tdk bs menginputkan jadwal sidang bagi mhs bersangkutan.
+d. Tanpa mengisi data di file excel, pasti tidak dijadwalkan sidang proposal
+
+6. SIDANG PROPOSAL
+Jadwal akan di post di classroom. Dan ada arahan lebih lanjut untuk persiapan sidang proposal.
+
+7. Submit proposal final sesuai revisi dosen penguji saat sidang proposal. upload dalam bentuk file pdf. Dengan melampirkan capture revisi dari dosen penguji yang sudah di ttd basah oleh dosen pembimbing (dibagian depan). serta melampirkan transkrip terbaru serta ttd basah di lembar pengesahan.
+
+Informasi nama, keahlian, jadwal, dan gaya bimbingan dosen
+
+Nama Dosen Pembimbing	Keahlian	Jadwal Bimbingan	Gaya Bimbingan
+Liliana S.T. M.Eng. Ph.D.	Computer Vision, Virtual Reality Game Development, Aritificial Intelligence.	Senin 16.00 - 18.00   Selasa 16.00 - 18.00	Liliana merupakan seorang dosen pembimbing yang tidak hanya fokus pada keperluan akademis mahasiswa bimbingan. Beliau cenderung juga membantu mahasiswa secara psikologis. Beliau siap mendengar keluh kesah mahasiswa bimbingan sekaligus memberikan solusi untuk itu.
+Ir. Resmana Lim M.Eng.	Electrical Engineering, Internet of Things, Computer Architecture, Computer Theory	Jadwal Bimbingan: Senin 13.00 - 15.00  Kamis 09.00 - 11.00	

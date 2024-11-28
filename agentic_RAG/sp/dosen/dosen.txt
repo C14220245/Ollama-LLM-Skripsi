@@ -1,0 +1,44 @@
+Daftar dosen yang tersedia untuk bimbingan beserta aliasnya atau nama panggilannya dan keahliannya:
+Adi Wibowo S.T., M.T., Ph.D	Pak Adi Sistem informasi
+Liliana, S.T., M.Eng., Ph.D.	Bu Liliana	Bu Lili VR, game development, game design
+Justinus Andjarwirawan, S.T.,M.Eng.	Pak Justinus	Pak Justin  Cyber security
+Stephanus A. Ananda, S.T., M.Sc. Ph.D.	Pak Steph	Pak Stephanus   Computer Theory
+Ir. Resmana Lim, M.Eng	Pak Resmana	Pak Res Low-Voltage Electronic, cyber security
+Agustinus Noertjahyana, S.Kom., M.MT.	Pak Agus	Pak Agustinus   Cyber security
+Tanti Octavia, S.T., M.Eng.	Bu Tanti    Sistem informasi
+I Gede Agus Widyadana, S.T., M.Eng., PH.D.	Pak Agus    Web development
+Dr. Roy Setiawan, S.Kom., M.M., M.SM., M.Th.	Pak Roy Web development
+Dr. Ing. Indar Sugiarto, S.T., M.Sc.	Pak Indar   Web development
+Prof. Dr.Eng., Ir. Rolly Intan, M.A.Sc.	Pak Rolly   Computer Theory, Sistem informasi
+Ir. Djoni Haryadi Setiabudi, M.Eng.	Pak Joni	Pak Djoni   Sistem informasi
+Dr. Gregorius Satia Budhi, S.T., M.T.	Pak Greg	Pak Gregorius	Pak Gregorious  Artificial Intelligence, Automasi
+Yulia, S.T., M.Kom.	Bu Yulia	Bu Yuli Computer Theory
+Henry Novianus Palit, S.Kom., M.Kom., Ph.D.	Pak Henry	Pak Henri   Computer Theory, Computer network, Multiprocessing
+Rudy Adipranata, S.T, M.Eng.	Pak Rudi	Pak Rudy    Computer Theory
+Prof. Dr.rer.nat. Siana Halim, S.Si., M.Sc.nat.	Bu Siana	Bu Si   Computer Theory
+Lily Puspa Dewi, S.T., M.Kom.	Bu Lili	Bu Lily Sistem informasi, computer theory
+Silvia Rostianingsih, S.Kom., M.MT.	Bu Silvi	Bu Silvia   Sistem informasi, Data analysis
+Alexander Setiawan, S.Kom., M.T.	Pak Alex	Pak Alexander   Sistem informasi, Data analysis
+Hans Juwiantho, S.Kom., M.Kom.	Pak Hans    Game development
+Dr. Andreas Handojo, S.T., M.MT.	Pak Andreas	Pak Andre   Computer Theory, Automation
+Leo Willyanto Santoso, S.Kom., M.IT.	Pak Leo Computer Theory, Sistem informasi, Automation, Data analysis
+
+email dosen:
+Adi Wibowo : adiw@petra.ac.id
+Agustinus : agust@petra.ac.id
+Alexander :alexander@petra.ac.id
+Andreas : handojo@petra.ac.id
+Alvin : alvin.nathaniel@petra.ac.id
+Djoni : djonihs@petra.ac.id
+Gunadi : kgunadi@petra.ac.id
+Gregorius : greg@petra.ac.id
+Henry : hnpalit@petra.ac.id
+Hans : hans.juwiantho@petra.ac.id
+Justinus : justin@petra.ac.id
+Leo : leow@petra.ac.id
+Liliana : lilian@petra.ac.id
+Lily Puspa : lily@petra.ac.id
+Silvia : silvia@petra.ac.id
+Stephanus : ananda@petra.ac.id
+Rolly : rintan@petra.ac.id
+Yulia : yulia@petra.ac.id

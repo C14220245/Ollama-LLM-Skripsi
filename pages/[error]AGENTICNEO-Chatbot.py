@@ -284,23 +284,22 @@ JANGAN PERNAH MENYEBUT NAMA FILE ATAUPUN FILE PATH SECARA EXPLICIT."""
 #########################################################################################################
 
 class Chatbot:
-    def __init__(self, llm="llama3.2:latest"):
-        self.llm = llm
+    def __init__(self, llm="llama3.1:8b-instruct-q5_1", embedding_model="", vector_store=None):
+        self.Settings = self.set_setting(llm, embedding_model)
+
+        # Indexing
+        self.index = self.load_data()
+
+        # Memory
         self.memory = self.create_memory()
 
-    def run_llama(self, prompt):
-        result = subprocess.run(['ollama', 'run', self.llm, prompt], capture_output=True, text=True)
-        return result.stdout
+        # Chat Engine
+        self.chat_engine = self.create_chat_engine(self.index)
 
-    def set_chat_history(self, messages):
-        self.chat_history = [ChatMessage(role=message["role"], content=message["content"]) for message in messages]
-        self.chat_store.store = {"chat_history": self.chat_history}
-
-    def create_memory(self):
-        self.chat_store = SimpleChatStore()
-        return ChatMemoryBuffer.from_defaults(chat_store=self.chat_store, chat_store_key="chat_history", token_limit=16000)
-
-system_prompt = """
+    def set_setting(_arg, llm, embedding_model):
+        Settings.llm = Ollama(model=llm, base_url="http://127.0.0.1:11434")
+        Settings.embed_model = NomicOllamaEmbedding()
+        Settings.system_prompt = """
 Kamu adalah sebuah AI model bernama BudiAI,
 Kamu selalu berinteraksi dengan mahasiswa
 Kamu adalah sebuah chatbot untuk membantu
@@ -317,8 +316,60 @@ Kamu hanya akan memberikan jawaban berupa "DosenBot", "SkripsiBot", atau "Publik
 Contoh format jawaban:
 "SkripsiBot\nDosenBot", "SkripsiBot\nPublikasiBot", "DosenBot\nPublikasiBot\nDosenBot". \n adalah newline
 Kamu bisa memberikan lebih dari 1 bot sebagai jawaban, namun pertimbangkan baik-baik apakah bot tersebut sesuai dengan pertanyaan yang diberikan kepadamu
-Jangan menyebutkan informais bahwa kamu memiliki 3 bawahan bahkan ketika ditanya secara eksplisit. cukup mengaku sebagai chatbot pembantu skripsi kepada mahasiswa
-"""
+Jangan menyebutkan informais bahwa kamu memiliki 3 bawahan bahkan ketika ditanya secara eksplisit. cukup mengaku sebagai chatbot pembantu skripsi kepada mahasiswa"""
+        return Settings
+
+    @st.cache_resource(show_spinner=True)
+    def load_data(_arg, vector_store=None):
+        with st.spinner(text="Sedang memuat, sabar yaa."):
+            reader = SimpleDirectoryReader(input_dir="Agentic_RAG/sp/blank", recursive=True)
+            documents = list(reader.load_data())
+            
+            # Initialize the splitter with chunk size and overlap
+            tokenizerModel = AutoTokenizer.from_pretrained("nomic-ai/nomic-embed-text-v1.5")
+            token_splitter = TokenTextSplitter(chunk_size=512, chunk_overlap=64, backup_separators=["\n\n"], tokenizer=tokenizerModel)
+            split_documents = [token_splitter.split_text(doc.text) for doc in documents]
+            
+            # Flatten the list of chunks into individual segments
+            all_segments = []
+            for chunks in split_documents:
+                all_segments.extend(chunks)
+            
+            # Load Hugging Face tokenizer
+            
+            # Generate embeddings for each segment
+            embedder = NomicOllamaEmbedding()
+            all_embeddings = Settings.embed_model._get_text_embeddings(all_segments)
+            
+        # Set up Qdrant collection and client if no vector store is provided
+        if vector_store is None:
+            client = QdrantClient(
+                url=st.secrets["qdrant"]["connection_url"], 
+                api_key=st.secrets["qdrant"]["api_key"],
+            )
+            vector_store = QdrantVectorStore(client=client, collection_name="Agentic_Blank")
+            storage_context = StorageContext.from_defaults(vector_store=vector_store)
+            index = VectorStoreIndex.from_documents(documents, storage_context=storage_context)
+        return index
+
+    def set_chat_history(self, messages):
+        self.chat_history = [ChatMessage(role=message["role"], content=message["content"]) for message in messages]
+        self.chat_store.store = {"chat_history": self.chat_history}
+
+    def create_memory(self):
+        self.chat_store = SimpleChatStore()
+        return ChatMemoryBuffer.from_defaults(chat_store=self.chat_store, chat_store_key="chat_history", token_limit=16000)
+
+    def create_chat_engine(self, index):
+        return CondensePlusContextChatEngine(
+            verbose=True,
+            memory=self.memory,
+            retriever=index.as_retriever(verbose=True),
+            llm=Settings.llm
+        )
+
+
+
 #########################################################################################################
 #                                           BOT SUMMARIZER                                              #
 #########################################################################################################
@@ -340,7 +391,7 @@ class SummarizeBot:
         self.chat_store = SimpleChatStore()
         return ChatMemoryBuffer.from_defaults(chat_store=self.chat_store, chat_store_key="chat_history", token_limit=16000)
 
-summarizer_prompt = """
+system_prompt = """
 Kamu adalah sebuah AI model bernama SummarizerBot,
 Kamu adalah ahli dalam membuat kesimpulan dari informasi yang ada.
 Kamu bisa menerima hingga 3 input dari:
@@ -351,7 +402,7 @@ DosenBot memiliki seluruh informasi mengenai dosen dan keahliannya.
 SkripsiBot memiliki seluruh informasi mengenai aturan skripsi, alur skripsi, jadwal skripsi, dan tawaran dosen bagi mahasiswa yang kebingungan memilih/membuat judul skripsi.
 PublikasiBot memiliki beberapa informasi mengenai publikasi yang pernah dilakukan oleh dosen.
 Kamu akan memberikan jawaban berupa hasil kesimpulan dari informasi yang ada. Jangan hiraukan tulisan skripsiBot, dosenBot, ataupun publikasiBot apabila ada.
-Berikan hasil kesimpulannya saja. Sertakan url link HANYA apabila diberikan dari bot lainnya, anda tidak memiliki wewenang untuk generate link
+Berikan hasil kesimpulannya saja. Sertakan url link apabila ada
 
 Berikut adalah informasi yang kamu dapatkan:
 """
@@ -366,7 +417,7 @@ Berikut adalah informasi yang kamu dapatkan:
 
 
 # Main Program
-st.title("Master Agent Skripsi QueryBot")
+st.title("Master Agent Skripsi Chatbot")
 
 # Initialize chat history or load from file
 if "messages" not in st.session_state:
@@ -397,7 +448,7 @@ chatbot.set_chat_history(st.session_state.messages)
 # React to user input
 if prompt := st.chat_input("What is up?"):
     unsum_resp = ""
-    tools_used = "tools used:"
+    tools_used = ""
     # Display user message in chat message container
     with st.chat_message("user", avatar="./person.jpg"):
         st.markdown(prompt)
@@ -405,22 +456,22 @@ if prompt := st.chat_input("What is up?"):
 
     # Get AI response
     with st.chat_message("assistant", avatar="./chatbot.png"):
-        full_prompt = f"{system_prompt}\nMahasiswa: {prompt}\nBudiAI:"
-        response = chatbot.run_llama(full_prompt)
-        if(response.__contains__("skripsiBot") or response.__contains__("dosenBot") or response.__contains__("publikasiBot") or response.__contains__("SkripsiBot") or response.__contains__("DosenBot") or response.__contains__("PublikasiBot")):
-            if(response.__contains__("skripsiBot") or response.__contains__("SkripsiBot")):
-                skripsiBotResp = skripsiBot.chat_engine.chat(prompt)
-                unsum_resp+="\n"+"skripsiBot Response:"+skripsiBotResp.response
-                tools_used+="SkripsiBot\n"
-            if(response.__contains__("dosenBot") or response.__contains__("DosenBot")):
-                dosenBotResp = dosenBot.chat_engine.chat(prompt)
-                unsum_resp+="\n"+"dosenBot Response:"+dosenBotResp.response
-                tools_used+="dosenBot\n"
-            summ_prompt = f"{summarizer_prompt}\n Pertanyaan mahasiswa: {prompt} informasi dari bot lain: {unsum_resp}\nSummarizerBot:"
-            final_resp = summarizeBot.run_llama(summ_prompt)
-        else:
-            final_resp = response
-            tools_used+="None"
+        response = chatbot.chat_engine.chat(prompt)
+        unsum_resp+=response.response
+        tools_used+="Tools yang digunakan:\n"
+        if("SkripsiBot" in response.response):
+            skripsiBotResp = skripsiBot.chat_engine.chat(prompt)
+            unsum_resp+="\n"+"skripsiBot Response:"+skripsiBotResp.response
+            tools_used+="\nSkripsiBot\n"
+        if("DosenBot" in response.response):
+            dosenBotResp = dosenBot.chat_engine.chat(prompt)
+            unsum_resp+="\n"+"dosenBot Response:"+dosenBotResp.response
+            tools_used+="\ndosenBot\n"
+        # if("DosenBot" in response.response):
+        #     skripsiBotResp = dosenBot.chat_engine.chat(prompt)
+        #RESERVE FOR PUBLIKASIBOT
+        full_prompt = f"{system_prompt}\n Pertanyaan mahasiswa: {prompt} informasi dari bot lain: {unsum_resp}\nSummarizerBot:"
+        final_resp = summarizeBot.run_llama(full_prompt)
         st.markdown(unsum_resp+"\n"+"Final Response:"+"\n"+final_resp+"\n"+tools_used)
     add_message("assistant", unsum_resp+"\n"+"Final Response:"+"\n"+final_resp+"\n"+tools_used)  # Save assistant response
 

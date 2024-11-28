@@ -18,8 +18,15 @@ from llama_index.core.node_parser import HierarchicalNodeParser, get_leaf_nodes,
 from llama_index.core.storage.docstore import SimpleDocumentStore
 from llama_index.core.chat_engine import CondensePlusContextChatEngine
 from qdrant_client import QdrantClient
-from llama_index.embeddings.fastembed import FastEmbedEmbedding
+from sentence_transformers import SentenceTransformer
 from pathlib import Path
+from llama_index.core.node_parser import SimpleNodeParser
+from sentence_transformers import SentenceTransformer
+from typing import Any, List
+from llama_index.core.node_parser import SentenceSplitter
+from llama_index.core.node_parser import TokenTextSplitter
+from transformers import AutoTokenizer
+from qdrant_client.http import exceptions as qdrant_exceptions
 
 # switch page
 from streamlit_extras.switch_page_button import switch_page
@@ -54,8 +61,58 @@ def load_chat_history():
             return json.load(file)
     return []  # Return empty list if no history is found
 
+class NomicOllamaEmbedding(OllamaEmbedding):
+    def __init__(self, **kwargs: Any) -> None:
+        super().__init__(base_url="http://127.0.0.1:11434", model_name="nomic-embed-text")
+        
+    def _get_query_embedding(self, query: str) -> List[float]:
+        """Get query embedding."""
+        return self.get_general_text_embedding("search_query: " + query)
+
+    async def _aget_query_embedding(self, query: str) -> List[float]:
+        """The asynchronous version of _get_query_embedding."""
+        return await self.aget_general_text_embedding("search_query: " + query)
+
+    def _get_text_embedding(self, text: str) -> List[float]:
+        """Get text embedding."""
+        return self.get_general_text_embedding("search_document: " + text)
+
+    async def _aget_text_embedding(self, text: str) -> List[float]:
+        """Asynchronously get text embedding."""
+        return await self.aget_general_text_embedding("search_document: " +text)
+
+    def _get_text_embeddings(self, texts: List[str]) -> List[List[float]]:
+        """Get text embeddings."""
+        embeddings_list: List[List[float]] = []
+        for text in texts:
+            embeddings = self.get_general_text_embedding("search_document: " + text)
+            embeddings_list.append(embeddings)
+
+        return embeddings_list
+
+    async def _aget_text_embeddings(self, texts: List[str]) -> List[List[float]]:
+        """Asynchronously get text embeddings."""
+        return await asyncio.gather(
+            *[self.aget_general_text_embedding("search_document: " + text) for text in texts]
+        )
+
+    def get_general_text_embedding(self, texts: str) -> List[float]:
+        """Get Ollama embedding."""
+        result = self._client.embeddings(
+            model=self.model_name, prompt=texts, options=self.ollama_additional_kwargs
+        )
+        return result["embedding"]
+
+    async def aget_general_text_embedding(self, prompt: str) -> List[float]:
+        """Asynchronously get Ollama embedding."""
+        result = await self._async_client.embeddings(
+            model=self.model_name, prompt=prompt, options=self.ollama_additional_kwargs
+        )
+        return result["embedding"]
+    
+
 class Chatbot:
-    def __init__(self, llm="llama3.1:latest", embedding_model="nomic-embed-text", vector_store=None):
+    def __init__(self, llm="llama3.2:latest", embedding_model="", vector_store=None):
         self.Settings = self.set_setting(llm, embedding_model)
 
         # Indexing
@@ -69,47 +126,61 @@ class Chatbot:
 
     def set_setting(_arg, llm, embedding_model):
         Settings.llm = Ollama(model=llm, base_url="http://127.0.0.1:11434")
-        Settings.embed_model = OllamaEmbedding(base_url="http://127.0.0.1:11434", model_name=embedding_model)
+        Settings.embed_model = NomicOllamaEmbedding()
         Settings.system_prompt = """
-                                Kamu adalah sebuah AI model bernama SkripsiBot,
-                                Kamu selalu berinteraksi dengan mahasiswa
-                                Kamu adalah sebuah chatbot untuk membantu
-                                mahasiswa melakukan bimbingan dan mengikuti
-                                urutan pengajuan skripsi.
-                                Kamu memiliki kemampuan dan pengetahuan
-                                berdasarkan data real-time. Ingat dengan
-                                baik informasi yang telah diucapkan oleh
-                                mahasiswa dan jawab sesuai dengan konteks
-                                dan gaya bicara yang relevan. Gunakan seluruh
-                                informasi yang kamu miliki dalam menjawab
-                                pertanyaan mahasiswa. Kamu akan selalu
-                                membantu dan menolong mahasiswa dalam
-                                melaksanakan skripsi. Apabila kamu mendapat
-                                pertanyaan yang jawabannya tidak kamu ketahui,
-                                Lakukan pencarian informasi ulang dari data yang
-                                kamu miliki. Usahakan data yang digunakan dalam
-                                informasi yang kamu berikan adalah data yang
-                                kamu miliki. JANGAN PERNAH MENYEBUT NAMA FILE 
-                                SECARA EXPLICIT.
-                                """
-
+Kamu adalah sebuah AI model bernama SkripsiBot,
+Kamu selalu berinteraksi dengan mahasiswa
+Kamu adalah sebuah chatbot untuk membantu
+mahasiswa melakukan bimbingan dan mengikuti
+urutan pengajuan skripsi.
+Kamu memiliki kemampuan dan pengetahuan
+berdasarkan data real-time. Ingat dengan
+baik informasi yang telah diucapkan oleh
+mahasiswa dan jawab sesuai dengan konteks
+dan gaya bicara yang relevan. Gunakan seluruh
+informasi yang kamu miliki dalam menjawab
+pertanyaan mahasiswa. Kamu akan selalu
+membantu dan menolong mahasiswa dalam
+melaksanakan skripsi. Apabila kamu mendapat
+pertanyaan yang jawabannya tidak kamu ketahui,
+Lakukan pencarian informasi ulang dari data yang
+kamu miliki. Usahakan data yang digunakan dalam
+informasi yang kamu berikan adalah data yang
+kamu miliki. JANGAN PERNAH MENYEBUT NAMA FILE 
+ATAUPUN FILE PATH SECARA EXPLICIT."""
         return Settings
 
-    @st.cache_resource(show_spinner=False)
+    @st.cache_resource(show_spinner=True)
     def load_data(_arg, vector_store=None):
         with st.spinner(text="Sedang memuat, sabar yaa."):
-            # Read & load document from folder
             reader = SimpleDirectoryReader(input_dir="./datum_RAG", recursive=True)
-            documents = reader.load_data()
-
+            documents = list(reader.load_data())
+            
+            # Initialize the splitter with chunk size and overlap
+            tokenizerModel = AutoTokenizer.from_pretrained("nomic-ai/nomic-embed-text-v1.5")
+            token_splitter = TokenTextSplitter(chunk_size=512, chunk_overlap=64, backup_separators=["\n\n"], tokenizer=tokenizerModel)
+            split_documents = [token_splitter.split_text(doc.text) for doc in documents]
+            
+            # Flatten the list of chunks into individual segments
+            all_segments = []
+            for chunks in split_documents:
+                all_segments.extend(chunks)
+            
+            # Load Hugging Face tokenizer
+            
+            # Generate embeddings for each segment
+            embedder = NomicOllamaEmbedding()
+            all_embeddings = Settings.embed_model._get_text_embeddings(all_segments)
+            
+        # Set up Qdrant collection and client if no vector store is provided
         if vector_store is None:
             client = QdrantClient(
                 url=st.secrets["qdrant"]["connection_url"], 
                 api_key=st.secrets["qdrant"]["api_key"],
             )
-            vector_store = QdrantVectorStore(client=client, collection_name="RAG Shuu Nomic")
+            vector_store = QdrantVectorStore(client=client, collection_name="A3_Split2")
             storage_context = StorageContext.from_defaults(vector_store=vector_store)
-            index = VectorStoreIndex.from_documents(documents, storage_context=storage_context, top_k=3)
+            index = VectorStoreIndex.from_documents(documents, storage_context=storage_context)
         return index
 
     def set_chat_history(self, messages):
@@ -124,12 +195,12 @@ class Chatbot:
         return CondensePlusContextChatEngine(
             verbose=True,
             memory=self.memory,
-            retriever=index.as_retriever(),
+            retriever=index.as_retriever(verbose=True),
             llm=Settings.llm
         )
 
 # Main Program
-st.title("Chatbot Skripsi Genap 24/25 NOMIC OLLAMA")
+st.title("Splitter & Tokenizer Nomic")
 
 # Initialize chat history or load from file
 if "messages" not in st.session_state:
@@ -176,7 +247,3 @@ if st.sidebar.button("Delete"):
     os.remove("./histories/"+jsonFile)
     os.remove(namaFileOriginal)
     switch_page("main_page")
-    
-    # st.session_state['redirect'] = './Javv.py'
-
-    
